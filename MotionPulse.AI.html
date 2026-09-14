@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MotionPulse AI v2 — Veille & Aggregateur IA pour Motion Designers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          void: '#08080d',
+          ink: '#0d0d16',
+          glass: 'rgba(255,255,255,0.035)',
+          cyan: '#00f0ff',
+          violet: '#a855f7',
+          pink: '#ff2e9a',
+          amber: '#ffb84d',
+          muted: '#8b8ba3',
+        },
+        fontFamily: {
+          display: ['Space Grotesk', 'sans-serif'],
+          body: ['Inter', 'sans-serif'],
+          mono: ['JetBrains Mono', 'monospace'],
+        },
+      }
+    }
+  }
+</script>
+<style>
+  * { scrollbar-width: thin; scrollbar-color: rgba(168,85,247,0.4) transparent; }
+  *::-webkit-scrollbar { width: 6px; height: 6px; }
+  *::-webkit-scrollbar-thumb { background: linear-gradient(180deg,#00f0ff,#a855f7); border-radius: 10px; }
+  *::-webkit-scrollbar-track { background: transparent; }
+
+  body {
+    background:
+      radial-gradient(ellipse 900px 500px at 15% -5%, rgba(168,85,247,0.16), transparent 60%),
+      radial-gradient(ellipse 900px 600px at 90% 10%, rgba(0,240,255,0.10), transparent 55%),
+      radial-gradient(ellipse 700px 500px at 50% 100%, rgba(255,46,154,0.08), transparent 60%),
+      #08080d;
+    font-family: 'Inter', sans-serif;
+    color: #e8e8f0;
+  }
+
+  .glass {
+    background: rgba(255,255,255,0.035);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .glass-strong {
+    background: rgba(13,13,22,0.85);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+
+  .card-hover { transition: transform .35s cubic-bezier(.2,.8,.2,1), border-color .35s, box-shadow .35s; }
+  .card-hover:hover {
+    transform: translateY(-4px);
+    border-color: rgba(0,240,255,0.35);
+    box-shadow: 0 20px 50px -20px rgba(168,85,247,0.35), 0 0 0 1px rgba(0,240,255,0.08);
+  }
+
+  .neon-text { background: linear-gradient(90deg,#00f0ff,#a855f7 55%,#ff2e9a); -webkit-background-clip: text; background-clip: text; color: transparent; }
+
+  .chip {
+    border: 1px solid rgba(255,255,255,0.12);
+    transition: all .25s ease;
+  }
+  .chip.active-cat {
+    background: linear-gradient(90deg, rgba(0,240,255,0.18), rgba(168,85,247,0.18));
+    border-color: rgba(0,240,255,0.5);
+    box-shadow: 0 0 16px -4px rgba(0,240,255,0.5);
+    color: #fff;
+  }
+  .chip.active-style {
+    background: linear-gradient(90deg, rgba(255,46,154,0.18), rgba(168,85,247,0.18));
+    border-color: rgba(255,46,154,0.5);
+    box-shadow: 0 0 16px -4px rgba(255,46,154,0.45);
+    color: #fff;
+  }
+
+  .swatch { transition: transform .2s ease; cursor: pointer; }
+  .swatch:hover { transform: scale(1.18) translateY(-2px); }
+
+  .modal-backdrop { background: rgba(4,4,8,0.8); backdrop-filter: blur(6px); }
+
+  .scale-in { animation: scaleIn .28s cubic-bezier(.2,.9,.25,1); }
+  @keyframes scaleIn { from { opacity:0; transform: translateY(14px) scale(.97);} to {opacity:1; transform:none;} }
+
+  .slide-in-right { animation: slideInR .35s cubic-bezier(.2,.9,.25,1); }
+  @keyframes slideInR { from { transform: translateX(100%);} to { transform: translateX(0);} }
+
+  .fade-up { animation: fadeUp .5s cubic-bezier(.2,.9,.25,1) both; }
+  @keyframes fadeUp { from { opacity:0; transform: translateY(16px);} to {opacity:1; transform:none;} }
+
+  .toast-in { animation: toastIn .35s cubic-bezier(.2,.9,.25,1); }
+  @keyframes toastIn { from { opacity:0; transform: translateY(-12px) scale(.95);} to {opacity:1; transform:none;} }
+
+  .pulse-dot { animation: pulseDot 1.8s ease-in-out infinite; }
+  @keyframes pulseDot { 0%,100%{opacity:1; transform:scale(1);} 50%{opacity:.4; transform:scale(1.4);} }
+
+  .thumb-grad-0 { background: linear-gradient(135deg,#1a0b2e,#3d1d6b 40%,#00f0ff33); }
+  .thumb-grad-1 { background: linear-gradient(135deg,#160a24,#a855f733,#ff2e9a22); }
+  .thumb-grad-2 { background: linear-gradient(135deg,#0a1624,#00f0ff2e,#3d1d6b); }
+  .thumb-grad-3 { background: linear-gradient(135deg,#1e0a12,#ff2e9a2e,#a855f733); }
+  .thumb-grad-4 { background: linear-gradient(135deg,#0b1a12,#00f0ff2e,#ffb84d22); }
+  .thumb-grad-5 { background: linear-gradient(135deg,#12081e,#a855f73a,#00f0ff1e); }
+
+  input[type="text"]::placeholder { color: #6b6b85; }
+
+  .btn-neon {
+    background: linear-gradient(90deg,#00f0ff,#a855f7);
+    color: #06060a; font-weight: 600;
+    transition: all .25s ease;
+  }
+  .btn-neon:hover { filter: brightness(1.12); box-shadow: 0 0 28px -6px rgba(0,240,255,0.6); transform: translateY(-1px); }
+
+  .badge-changelog {
+    background: rgba(255,184,77,0.12);
+    border: 1px solid rgba(255,184,77,0.4);
+    color: #ffb84d;
+  }
+
+  ::selection { background: rgba(0,240,255,0.3); }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
+</style>
+</head>
+<body class="min-h-screen overflow-x-hidden">
+
+<!-- ======================= TOP NAV ======================= -->
+<header class="sticky top-0 z-40 glass-strong border-b border-white/5">
+  <div class="max-w-[1600px] mx-auto px-4 md:px-6 py-3 flex items-center gap-4">
+    <div class="flex items-center gap-2.5 shrink-0">
+      <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-cyan via-violet to-pink flex items-center justify-center shadow-lg shadow-violet/30">
+        <i class="fa-solid fa-wave-square text-void text-sm"></i>
+      </div>
+      <div class="leading-tight">
+        <h1 class="font-display font-semibold text-[15px] tracking-tight">MotionPulse <span class="neon-text">AI v2</span></h1>
+        <p class="text-[10px] text-muted -mt-0.5">Station de veille pour créateurs animés</p>
+      </div>
+    </div>
+
+    <div class="hidden md:flex items-center flex-1 max-w-xl mx-4">
+      <div class="relative w-full">
+        <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-muted text-sm"></i>
+        <input id="searchInput" type="text" placeholder="Rechercher : Octane, Redshift, kinetic type, EEVEE..."
+          class="w-full bg-white/[0.04] border border-white/10 rounded-full pl-10 pr-4 py-2 text-sm outline-none focus:border-cyan/50 focus:ring-2 focus:ring-cyan/10 transition-all placeholder:text-[13px]">
+      </div>
+    </div>
+
+    <div class="flex items-center gap-2 ml-auto shrink-0">
+      <button id="refreshBtn" class="relative flex items-center gap-2 px-3.5 py-2 rounded-full glass hover:border-cyan/40 text-xs font-medium transition-all">
+        <i class="fa-solid fa-rotate text-cyan"></i>
+        <span class="hidden sm:inline">Actualiser les flux</span>
+        <span id="liveDot" class="w-1.5 h-1.5 rounded-full bg-cyan pulse-dot ml-0.5"></span>
+      </button>
+      <button id="moodboardBtn" class="relative flex items-center gap-2 px-3.5 py-2 rounded-full glass hover:border-pink/40 text-xs font-medium transition-all">
+        <i class="fa-solid fa-layer-group text-pink"></i>
+        <span class="hidden sm:inline">Moodboard</span>
+        <span id="favCount" class="min-w-[18px] h-[18px] px-1 rounded-full bg-pink text-void text-[10px] font-bold flex items-center justify-center">0</span>
+      </button>
+      <button id="chatToggleBtn" class="flex items-center gap-2 px-3.5 py-2 rounded-full btn-neon text-xs">
+        <i class="fa-solid fa-sparkles"></i>
+        <span class="hidden sm:inline">Assistant Claude</span>
+      </button>
+    </div>
+  </div>
+  <div class="md:hidden px-4 pb-3">
+    <div class="relative w-full">
+      <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-muted text-sm"></i>
+      <input id="searchInputMobile" type="text" placeholder="Rechercher..."
+        class="w-full bg-white/[0.04] border border-white/10 rounded-full pl-10 pr-4 py-2 text-sm outline-none focus:border-cyan/50">
+    </div>
+  </div>
+</header>
+
+<!-- ======================= LAYOUT ======================= -->
+<div class="max-w-[1600px] mx-auto px-4 md:px-6 py-6 flex gap-6 items-start">
+
+  <!-- SIDEBAR FILTERS -->
+  <aside class="hidden lg:block w-64 shrink-0 sticky top-24 space-y-5">
+    <div class="glass rounded-2xl p-4">
+      <h3 class="font-display text-xs font-semibold tracking-wide text-muted mb-3 flex items-center gap-2">
+        <i class="fa-solid fa-layer-group text-cyan text-[11px]"></i> Catégories
+      </h3>
+      <div id="categoryFilters" class="flex flex-col gap-1.5"></div>
+    </div>
+
+    <div class="glass rounded-2xl p-4">
+      <h3 class="font-display text-xs font-semibold tracking-wide text-muted mb-3 flex items-center gap-2">
+        <i class="fa-solid fa-film text-pink text-[11px]"></i> Styles d'animation
+      </h3>
+      <div id="styleFilters" class="flex flex-wrap gap-1.5"></div>
+    </div>
+
+    <button id="resetFiltersBtn" class="w-full text-center text-xs text-muted hover:text-cyan transition-colors py-2">
+      <i class="fa-solid fa-arrow-rotate-left mr-1.5"></i>Réinitialiser les filtres
+    </button>
+
+    <div class="glass rounded-2xl p-4">
+      <h3 class="font-display text-xs font-semibold tracking-wide text-muted mb-2 flex items-center gap-2">
+        <i class="fa-solid fa-chart-line text-violet text-[11px]"></i> Aperçu du flux
+      </h3>
+      <div id="statsBox" class="space-y-1.5 text-[12px] text-muted"></div>
+    </div>
+  </aside>
+
+  <!-- MAIN FEED -->
+  <main class="flex-1 min-w-0">
+    <div class="lg:hidden mb-4 space-y-3">
+      <div id="categoryFiltersMobile" class="flex gap-2 overflow-x-auto pb-1"></div>
+      <div id="styleFiltersMobile" class="flex gap-2 overflow-x-auto pb-1"></div>
+    </div>
+
+    <div class="flex items-center justify-between mb-4">
+      <p id="resultsCount" class="text-sm text-muted"></p>
+      <div class="flex items-center gap-2 text-xs text-muted">
+        <i class="fa-solid fa-bolt text-amber"></i>
+        <span>Trié par pertinence IA</span>
+      </div>
+    </div>
+
+    <div id="feedGrid" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-5"></div>
+
+    <div id="emptyState" class="hidden text-center py-24">
+      <i class="fa-solid fa-satellite-dish text-4xl text-muted/40 mb-4"></i>
+      <p class="text-muted">Aucun résultat pour ces filtres. Essayez d'élargir la recherche.</p>
+    </div>
+  </main>
+</div>
+
+<!-- ======================= AI INSIGHT MODAL ======================= -->
+<div id="insightModal" class="fixed inset-0 z-50 hidden items-center justify-center p-3 md:p-6">
+  <div id="modalBackdrop" class="absolute inset-0 modal-backdrop"></div>
+  <div id="modalPanel" class="relative w-full max-w-4xl max-h-[92vh] overflow-y-auto glass-strong rounded-3xl scale-in">
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<!-- ======================= MOODBOARD DRAWER ======================= -->
+<div id="moodboardDrawer" class="fixed inset-y-0 right-0 w-full sm:w-[420px] z-50 hidden">
+  <div id="moodboardBackdrop" class="absolute inset-0 modal-backdrop sm:hidden"></div>
+  <div class="relative h-full glass-strong border-l border-white/10 flex flex-col slide-in-right">
+    <div class="p-5 border-b border-white/10 flex items-center justify-between">
+      <div>
+        <h3 class="font-display font-semibold text-base flex items-center gap-2"><i class="fa-solid fa-layer-group text-pink"></i> Mon Moodboard</h3>
+        <p class="text-[11px] text-muted mt-0.5">Vos inspirations sauvegardées</p>
+      </div>
+      <button id="closeMoodboardBtn" class="w-8 h-8 rounded-full hover:bg-white/10 flex items-center justify-center transition-colors">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+    <div id="moodboardList" class="flex-1 overflow-y-auto p-4 space-y-3"></div>
+    <div id="moodboardEmpty" class="hidden flex-1 flex flex-col items-center justify-center text-center px-6">
+      <i class="fa-regular fa-star text-3xl text-muted/40 mb-3"></i>
+      <p class="text-sm text-muted">Cliquez sur l'étoile d'une carte pour l'ajouter ici.</p>
+    </div>
+    <div class="p-4 border-t border-white/10 grid grid-cols-2 gap-2">
+      <button id="exportJsonBtn" class="btn-neon rounded-xl py-2.5 text-xs flex items-center justify-center gap-2">
+        <i class="fa-solid fa-file-code"></i> Export JSON
+      </button>
+      <button id="exportTxtBtn" class="glass rounded-xl py-2.5 text-xs flex items-center justify-center gap-2 hover:border-cyan/40 transition-colors">
+        <i class="fa-solid fa-file-lines"></i> Export Texte
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- ======================= CLAUDE CHAT PANEL ======================= -->
+<div id="chatPanel" class="fixed inset-y-0 right-0 w-full sm:w-[400px] z-50 hidden">
+  <div id="chatBackdrop" class="absolute inset-0 modal-backdrop sm:hidden"></div>
+  <div class="relative h-full glass-strong border-l border-white/10 flex flex-col slide-in-right">
+    <div class="p-5 border-b border-white/10 flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-8 h-8 rounded-full bg-gradient-to-br from-cyan via-violet to-pink flex items-center justify-center">
+          <i class="fa-solid fa-sparkles text-void text-xs"></i>
+        </div>
+        <div class="leading-tight">
+          <h3 class="font-display font-semibold text-sm">Assistant Claude</h3>
+          <p class="text-[10px] text-muted flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-cyan"></span> En ligne — spécialiste motion design</p>
+        </div>
+      </div>
+      <button id="closeChatBtn" class="w-8 h-8 rounded-full hover:bg-white/10 flex items-center justify-center transition-colors">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+
+    <div id="chatMessages" class="flex-1 overflow-y-auto p-4 space-y-4"></div>
+
+    <div class="p-3 border-t border-white/10">
+      <div class="flex flex-wrap gap-1.5 mb-2.5" id="chatSuggestions"></div>
+      <div class="flex items-center gap-2">
+        <input id="chatInput" type="text" placeholder="Demandez une idée de brief, un raccourci..."
+          class="flex-1 bg-white/[0.05] border border-white/10 rounded-full px-4 py-2.5 text-sm outline-none focus:border-violet/50 focus:ring-2 focus:ring-violet/10 transition-all">
+        <button id="chatSendBtn" class="w-10 h-10 rounded-full btn-neon flex items-center justify-center shrink-0">
+          <i class="fa-solid fa-paper-plane text-sm"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ======================= TOAST CONTAINER ======================= -->
+<div id="toastContainer" class="fixed top-20 left-1/2 -translate-x-1/2 z-[60] flex flex-col items-center gap-2 pointer-events-none"></div>
+
+<script>
+/* =========================================================================
+    MOTIONPULSE AI v2 — LOGIC LAYER
+    ========================================================================= */
+
+const CATEGORIES = [
+  { id: 'vfx', label: '3D & VFX', icon: 'fa-solid fa-cube' },
+  { id: 'motion', label: 'Motion Graphics', icon: 'fa-solid fa-shapes' },
+  { id: 'ai', label: 'AI Animation', icon: 'fa-solid fa-brain' },
+  { id: 'plugins', label: 'Plugins & Updates', icon: 'fa-solid fa-plug' },
+];
+
+const STYLES = [
+  '2D Frame-by-frame', '3D Photoréaliste', 'Kinetic Typography', 'Cel Animation', 'Mixed Media', 'UI/UX Motion'
+];
+
+let ITEMS = [];
+let activeCategories = new Set(["vfx", "motion", "ai", "plugins"]);
+let activeStyles = new Set();
+let favorites = new Set();
+let searchQuery = "";
+
+async function loadRealData() {
+  try {
+    const res = await fetch('data.json');
+    if (!res.ok) throw new Error('data.json introuvable');
+    const payload = await res.json();
+    ITEMS = payload.items.map((raw, i) => normalizeItem(raw, i));
+  } catch (err) {
+    console.warn('Impossible de charger data.json, flux vide.', err);
+    ITEMS = [];
+  }
+}
+
+function normalizeItem(raw, index) {
+  return {
+    id: index + 1,
+    title: raw.title,
+    source: raw.source,
+    date: raw.date,
+    category: raw.categoryId,
+    styles: raw.styles || [],
+    thumb: raw.thumb ?? 0,
+    changelog: !!raw.changelog,
+    software: raw.tags ? raw.tags.slice(0, 2) : [],
+    colors: raw.colorPalette && raw.colorPalette.length === 5
+      ? raw.colorPalette
+      : ["#0D0D16", "#00F0FF", "#A855F7", "#FF2E9A", "#FFB84D"],
+    summary: raw.summary || "",
+    workflow: raw.workflowImpact || "",
+    tags: raw.tags || [],
+    link: raw.link,
+    imageUrl: raw.imageUrl || "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop",
+  };
+}
+
+function showToast(message, icon = 'fa-solid fa-check') {
+  const container = document.getElementById('toastContainer');
+  const toast = document.createElement('div');
+  toast.className = 'toast-in glass-strong rounded-full px-4 py-2.5 flex items-center gap-2 text-sm shadow-xl shadow-black/40 pointer-events-auto';
+  toast.innerHTML = `<i class="${icon} text-cyan"></i><span>${message}</span>`;
+  container.appendChild(toast);
+  setTimeout(() => {
+    toast.style.transition = 'opacity .3s ease, transform .3s ease';
+    toast.style.opacity = '0';
+    toast.style.transform = 'translateY(-8px)';
+    setTimeout(() => toast.remove(), 300);
+  }, 2200);
+}
+
+function copyHex(hex, evt) {
+  evt.stopPropagation();
+  navigator.clipboard.writeText(hex).then(() => {
+    showToast(`Copié ! ${hex}`, 'fa-solid fa-clipboard-check');
+  });
+}
+
+function categoryLabel(id) {
+  const c = CATEGORIES.find(c => c.id === id);
+  return c ? c.label : id;
+}
+
+function categoryIcon(id) {
+  const c = CATEGORIES.find(c => c.id === id);
+  return c ? c.icon : 'fa-solid fa-circle';
+}
+
+function formatDate(str) {
+  if (!str) return '';
+  const d = new Date(str);
+  if (isNaN(d)) return str;
+  return d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' });
+}
+
+function renderFilters() {
+  const catHtml = (mobile) => CATEGORIES.map(c => `
+    <button data-cat="${c.id}" class="cat-chip chip ${activeCategories.has(c.id) ? 'active-cat' : ''} ${mobile ? 'shrink-0' : 'w-full'} flex items-center gap-2 px-3 py-2 rounded-xl text-[13px] font-medium text-left transition-all">
+      <i class="${c.icon} w-4 text-center ${activeCategories.has(c.id) ? 'text-cyan' : 'text-muted'}"></i>
+      <span>${c.label}</span>
+    </button>
+  `).join('');
+
+  const styleHtml = (mobile) => STYLES.map(s => `
+    <button data-style="${s}" class="style-chip chip ${activeStyles.has(s) ? 'active-style' : ''} ${mobile ? 'shrink-0' : ''} px-3 py-1.5 rounded-full text-[12px] font-medium transition-all">
+      ${s}
+    </button>
+  `).join('');
+
+  document.getElementById('categoryFilters').innerHTML = catHtml(false);
+  document.getElementById('categoryFiltersMobile').innerHTML = catHtml(true);
+  document.getElementById('styleFilters').innerHTML = styleHtml(false);
+  document.getElementById('styleFiltersMobile').innerHTML = styleHtml(true);
+
+  document.querySelectorAll('.cat-chip').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.cat;
+      activeCategories.has(id) ? activeCategories.delete(id) : activeCategories.add(id);
+      renderFilters();
+      renderFeed();
+    });
+  });
+  document.querySelectorAll('.style-chip').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const s = btn.dataset.style;
+      activeStyles.has(s) ? activeStyles.delete(s) : activeStyles.add(s);
+      renderFilters();
+      renderFeed();
+    });
+  });
+}
+
+function getFilteredItems() {
+  return ITEMS.filter(item => {
+    if (activeCategories.size && !activeCategories.has(item.category)) return false;
+    if (activeStyles.size && !item.styles.some(s => activeStyles.has(s))) return false;
+    if (searchQuery) {
+      const hay = (item.title + ' ' + item.source + ' ' + item.software.join(' ') + ' ' + item.tags.join(' ')).toLowerCase();
+      if (!hay.includes(searchQuery.toLowerCase())) return false;
+    }
+    return true;
+  });
+}
+
+function cardTemplate(item, index) {
+  const isFav = favorites.has(item.id);
+  const paletteHtml = item.colors.map(hex => `
+    <button class="swatch w-6 h-6 rounded-full border border-white/20" style="background:${hex}" title="${hex}" onclick="copyHex('${hex}', event)"></button>
+  `).join('');
+
+  return `
+  <article class="fade-up card-hover glass rounded-2xl overflow-hidden flex flex-col cursor-pointer group" style="animation-delay:${Math.min(index * 0.04, 0.4)}s" onclick="openModal(${item.id})">
+    <div class="relative h-44 bg-ink overflow-hidden">
+      <img src="${item.imageUrl}" alt="${item.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+      <div class="absolute inset-0 bg-gradient-to-t from-[#08080d] via-transparent to-black/30 opacity-60"></div>
+      
+      <div class="absolute top-2.5 left-2.5 flex gap-1.5 flex-wrap">
+        <span class="px-2.5 py-1 rounded-full text-[10px] font-semibold glass-strong flex items-center gap-1 shadow-md">
+          <i class="${categoryIcon(item.category)} text-[9px] text-cyan"></i>${categoryLabel(item.category)}
+        </span>
+        ${item.changelog ? `<span class="px-2.5 py-1 rounded-full text-[10px] font-semibold badge-changelog flex items-center gap-1 shadow-md"><i class="fa-solid fa-code-branch text-[9px]"></i>Changelog</span>` : ''}
+      </div>
+      <button onclick="toggleFavorite(${item.id}, event)" class="absolute top-2.5 right-2.5 w-8 h-8 rounded-full glass-strong flex items-center justify-center hover:scale-110 transition-transform shadow-md">
+        <i class="${isFav ? 'fa-solid text-pink' : 'fa-regular text-white'} fa-star text-sm"></i>
+      </button>
+    </div>
+
+    <div class="p-4 flex flex-col flex-1">
+      <div class="flex items-center gap-2 text-[11px] text-muted mb-2">
+        <span class="font-medium text-white/70">${item.source}</span>
+        <span class="w-1 h-1 rounded-full bg-muted/50"></span>
+        <span>${formatDate(item.date)}</span>
+      </div>
+      <h3 class="font-display font-semibold text-[15px] leading-snug mb-3 line-clamp-2">${item.title}</h3>
+
+      <div class="flex flex-wrap gap-1.5 mb-3">
+        ${item.styles.map(s => `<span class="text-[10px] px-2 py-0.5 rounded-full border border-white/10 text-muted">${s}</span>`).join('')}
+      </div>
+
+      <div class="mt-auto flex items-center justify-between pt-3 border-t border-white/5">
+        <div class="flex gap-1.5">${paletteHtml}</div>
+        <div class="flex gap-1">
+          ${item.software.slice(0,2).map(sw => `<span class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-white/5 text-cyan/80">${sw}</span>`).join('')}
+        </div>
+      </div>
+    </div>
+  </article>`;
+}
+
+function renderFeed() {
+  const items = getFilteredItems();
+  const grid = document.getElementById('feedGrid');
+  const empty = document.getElementById('emptyState');
+  document.getElementById('resultsCount').textContent = `${items.length} publication${items.length > 1 ? 's' : ''} trouvée${items.length > 1 ? 's' : ''}`;
+
+  if (!items.length) {
+    grid.innerHTML = '';
+    empty.classList.remove('hidden');
+  } else {
+    empty.classList.add('hidden');
+    grid.innerHTML = items.map((item, i) => cardTemplate(item, i)).join('');
+  }
+  renderStats();
+}
+
+function renderStats() {
+  const box = document.getElementById('statsBox');
+  const total = ITEMS.length;
+  const byCat = CATEGORIES.map(c => ({ ...c, count: ITEMS.filter(i => i.category === c.id).length }));
+  box.innerHTML = `
+    <div class="flex justify-between"><span>Total surveillé</span><span class="text-white font-medium">${total}</span></div>
+    ${byCat.map(c => `<div class="flex justify-between"><span>${c.label}</span><span class="text-white/80">${c.count}</span></div>`).join('')}
+  `;
+}
+
+function toggleFavorite(id, evt) {
+  if (evt) evt.stopPropagation();
+  if (favorites.has(id)) {
+    favorites.delete(id);
+    showToast(`Retiré du Moodboard`, 'fa-solid fa-star-half-stroke');
+  } else {
+    favorites.add(id);
+    showToast(`Ajouté au Moodboard`, 'fa-solid fa-star');
+  }
+  document.getElementById('favCount').textContent = favorites.size;
+  renderFeed();
+}
+
+function openModal(id) {
+  const item = ITEMS.find(i => i.id === id);
+  if (!item) return;
+  const modal = document.getElementById('insightModal');
+  const content = document.getElementById('modalContent');
+  const isFav = favorites.has(id);
+
+  content.innerHTML = `
+    <div class="relative p-6 md:p-8 space-y-6">
+      <button onclick="closeModal()" class="absolute top-4 right-4 z-10 w-9 h-9 rounded-full glass-strong flex items-center justify-center hover:bg-white/10 transition-colors">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+
+      <div class="relative h-64 md:h-80 w-full overflow-hidden rounded-2xl bg-ink border border-white/10">
+        <img src="${item.imageUrl}" alt="${item.title}" class="w-full h-full object-cover">
+        <div class="absolute inset-0 bg-gradient-to-t from-[#08080d] via-transparent to-transparent opacity-80"></div>
+      </div>
+
+      <div>
+        <div class="flex items-center gap-2 text-xs text-muted mb-2">
+          <span class="px-2.5 py-1 rounded-full glass flex items-center gap-1"><i class="${categoryIcon(item.category)} text-cyan text-[10px]"></i>${categoryLabel(item.category)}</span>
+          <span>${item.source} · ${formatDate(item.date)}</span>
+        </div>
+        <h2 class="font-display text-xl md:text-2xl font-semibold leading-tight">${item.title}</h2>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-5">
+        <div class="glass rounded-2xl p-4">
+          <h4 class="text-xs font-semibold text-cyan mb-2 flex items-center gap-2"><i class="fa-solid fa-sparkles"></i>Résumé IA</h4>
+          <p class="text-[13.5px] text-white/85 leading-relaxed">${item.summary}</p>
+        </div>
+        <div class="rounded-2xl p-4 border border-amber/30 bg-amber/5">
+          <h4 class="text-xs font-semibold text-amber mb-2 flex items-center gap-2"><i class="fa-solid fa-gauge-high"></i>Impact Workflow</h4>
+          <p class="text-[13.5px] text-white/85 leading-relaxed">${item.workflow}</p>
+        </div>
+      </div>
+
+      <div>
+        <h4 class="text-xs font-semibold text-muted mb-2">Tags techniques</h4>
+        <div class="flex flex-wrap gap-1.5">
+          ${item.tags.map(t => `<span class="text-[11px] font-mono px-2.5 py-1 rounded-full bg-white/5 border border-white/10 text-cyan/90">${t}</span>`).join('')}
+        </div>
+      </div>
+
+      <div class="flex items-center justify-between pt-4 border-t border-white/10">
+        <button onclick="toggleFavorite(${item.id})" class="glass px-4 py-2 rounded-xl text-xs font-medium flex items-center gap-2 hover:border-pink/40 transition-colors">
+          <i class="${isFav ? 'fa-solid text-pink' : 'fa-regular text-white'} fa-star"></i> ${isFav ? 'Dans le Moodboard' : 'Ajouter au Moodboard'}
+        </button>
+        <a href="${item.link}" target="_blank" rel="noopener" class="btn-neon px-5 py-2 rounded-xl text-xs flex items-center gap-2">
+          <span>Lire l'article original</span> <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+        </a>
+      </div>
+    </div>
+  `;
+  modal.classList.remove('hidden');
+  modal.classList.add('flex');
+}
+
+function closeModal() {
+  document.getElementById('insightModal').classList.add('hidden');
+  document.getElementById('insightModal').classList.remove('flex');
+}
+
+// Event Listeners
+document.getElementById('searchInput').addEventListener('input', (e) => {
+  searchQuery = e.target.value;
+  renderFeed();
+});
+document.getElementById('searchInputMobile').addEventListener('input', (e) => {
+  searchQuery = e.target.value;
+  renderFeed();
+});
+document.getElementById('refreshBtn').addEventListener('click', async () => {
+  showToast('Actualisation des flux...', 'fa-solid fa-rotate');
+  await loadRealData();
+  renderFeed();
+  showToast('Flux actualisés avec succès !');
+});
+
+document.getElementById('moodboardBtn').addEventListener('click', () => {
+  renderMoodboard();
+  document.getElementById('moodboardDrawer').classList.remove('hidden');
+});
+document.getElementById('closeMoodboardBtn').addEventListener('click', () => {
+  document.getElementById('moodboardDrawer').classList.add('hidden');
+});
+
+function renderMoodboard() {
+  const list = document.getElementById('moodboardList');
+  const emptyState = document.getElementById('moodboardEmpty');
+  const favItems = ITEMS.filter(i => favorites.has(i.id));
+
+  if (!favItems.length) {
+    list.innerHTML = '';
+    emptyState.classList.remove('hidden');
+    return;
+  }
+  emptyState.classList.add('hidden');
+  list.innerHTML = favItems.map(item => `
+    <div class="glass rounded-xl p-3 flex gap-3 items-center">
+      <img src="${item.imageUrl}" class="w-12 h-12 rounded-lg object-cover shrink-0">
+      <div class="flex-1 min-w-0">
+        <p class="text-[13px] font-medium leading-snug line-clamp-2">${item.title}</p>
+      </div>
+      <button onclick="toggleFavorite(${item.id})" class="text-muted hover:text-pink transition-colors shrink-0 p-2">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+  `).join('');
+}
+
+// Initialization
+(async () => {
+  renderFilters();
+  await loadRealData();
+  renderFeed();
+})();
+</script>
+</body>
+</html>
