@@ -1,62 +1,122 @@
 {
-  "generatedAt": "2026-09-21T08:11:34.760222+00:00",
+  "generatedAt": "2026-09-22T08:11:35.393064+00:00",
   "count": 25,
   "items": [
     {
       "id": 1,
-      "title": "Motionographer turns 20 with Motion Plus Design New York: 20 seats for 20 years",
-      "summary": "Motionographer célèbre ses 20 ans avec Motion Plus Design New York, un événement communautaire offrant 20 places pour honorer deux décennies de promotion du motion design. Cette initiative reconnaît l'importance de la communauté créative au cœur de la discipline.",
+      "title": "Motion Plus Design New York",
+      "summary": "Motion Plus Design New York est un événement professionnel rassemblant des figures majeures du motion design et des technologies créatives, présenté à Roulette à Brooklyn le 26 septembre. L'occasion réunit des experts en animation, VFX et outils émergents comme Render Network et Runway.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Permet aux motion designers de se connecter avec des pairs, d'accéder à des insights industrie et de renforcer leur réseau professionnel dans un écosystème créatif établi.",
+      "workflowImpact": "Accès à des insights directs de leaders de l'industrie sur les tendances actuelles, les outils innovants et les meilleures pratiques pour optimiser les pipelines de production motion design.",
+      "colorPalette": [
+        "#1A1A1A",
+        "#FF6B35",
+        "#004E89",
+        "#F7B801",
+        "#E8E8E8"
+      ],
+      "source": "Motionographer",
+      "link": "https://motionographer.com/news/motion-plus-design-new-york/",
+      "date": "2026-09-21",
+      "tags": [
+        "Motion Design",
+        "Événement professionnel",
+        "Render Network",
+        "Runway"
+      ],
+      "styles": [
+        "Mixed Media"
+      ],
+      "changelog": false,
+      "thumb": 0,
+      "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MPD_NYC_trailer_thumbnail-700x394.jpg"
+    },
+    {
+      "id": 2,
+      "title": "U.S. Against the World | Good Secrets",
+      "summary": "Une analyse visuelle de la géopolitique américaine présentée à travers un motion design éditorial percutant. Le projet explore les tensions internationales via une narration graphique dynamique et des données visuelles impactantes.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Démontre comment structurer une narration complexe en motion graphics éditoriaux avec des transitions data-driven et une hiérarchie visuelle claire pour communiquer des concepts géopolitiques.",
+      "colorPalette": [
+        "#1a1a2e",
+        "#e74c3c",
+        "#3498db",
+        "#2c3e50",
+        "#ecf0f1"
+      ],
+      "source": "Motionographer",
+      "link": "https://motionographer.com/quickie/u-s-against-the-world-good-secrets/",
+      "date": "2026-09-21",
+      "tags": [
+        "Motion Graphics Editorial",
+        "Data Visualization",
+        "Geopolitics",
+        "After Effects"
+      ],
+      "styles": [
+        "Kinetic Typography",
+        "Mixed Media"
+      ],
+      "changelog": false,
+      "thumb": 3,
+      "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/UATW_4-700x394.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Motionographer turns 20 with Motion Plus Design New York: 20 seats for 20 years",
+      "summary": "Motionographer célèbre ses 20 ans avec un événement Motion Plus Design à New York, offrant 20 places gratuites pour honorer deux décennies de soutien à la communauté du motion design.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Une opportunité de networking et d'apprentissage pour les motion designers de se connecter avec des pairs et des leaders du secteur, renforçant leur communauté créative.",
       "colorPalette": [
         "#FF6B35",
         "#004E89",
-        "#F7FFF7",
-        "#FFD60A",
-        "#FCA311"
+        "#F7B801",
+        "#1B998B",
+        "#2C3E50"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/2026/09/18/motionographer-turns-20-with-motion-plus-design-new-york-20-seats-for-20-years/",
       "date": "2026-09-18",
       "tags": [
-        "community",
-        "networking",
-        "motion design",
-        "industry events"
+        "Motionographer",
+        "événement communauté",
+        "networking motion design"
       ],
       "styles": [
-        "Mixed Media"
+        "Kinetic Typography",
+        "UI/UX Motion"
       ],
       "changelog": false,
       "thumb": 5,
       "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/TRIMMotionPlusDesignNYCtrailer2026byYetiPictures3-ezgif.com-optimize.gif"
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "She Just Looks Like Her Life: Zellweger and Maguire on Bridget Jones’s Diary at 25",
-      "summary": "À l'occasion des 25 ans de Bridget Jones's Diary, Sharon Maguire et Renée Zellweger partagent leurs insights sur la construction de personnages et de mondes narratifs, soulignant l'importance des détails spécifiques qui résonnent avec le public.",
+      "summary": "À l'occasion des 25 ans de Bridget Jones's Diary, Sharon Maguire et Renée Zellweger partagent leurs insights sur la création de personnages et de mondes cinématographiques. Un retour sur comment les détails spécifiques deviennent les éléments les plus mémorables et transférables.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Comprendre comment les détails spécifiques enrichissent la narration visuelle aide les motion designers à créer des univers cohérents et mémorables dans leurs projets commerciaux et éditoriaux.",
+      "workflowImpact": "Les principes de character design et de world-building discutés offrent des leçons directes applicables à la création de visuels de motion graphics et à la construction d'identités visuelles cohérentes.",
       "colorPalette": [
-        "#E8D4C8",
-        "#C1A8A0",
-        "#8B6F63",
+        "#8B4789",
+        "#F4A460",
         "#D4A5A5",
-        "#F5E6E0"
+        "#E8D5C4",
+        "#6B5B4F"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/2026/09/17/bridget-jones-diary-25-zellweger-maguire/",
       "date": "2026-09-17",
       "tags": [
         "character design",
-        "storytelling visuel",
+        "storytelling",
         "world-building",
-        "narrative design"
+        "détails visuels"
       ],
       "styles": [
-        "2D Frame-by-frame",
         "Mixed Media"
       ],
       "changelog": false,
@@ -64,86 +124,120 @@
       "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/TRIMRIDGETJONESSDIARY2001_OfficialTrailer_4KRestoration_1080p-ezgif.com-optimize.gif"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Manifesto | SAGA",
-      "summary": "SAGA publie son manifeste pour redéfinir les principes et valeurs du motion design contemporain. Une déclaration d'intentions destinée à influencer la direction créative de la discipline.",
+      "summary": "SAGA révèle un manifesto visuel explorant l'identité et la direction créative du studio à travers une approche cinématographique et conceptuelle forte. Un projet de branding motion ambitieux qui redéfinit la signature visuelle du collectif.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Offre une réflexion stratégique et philosophique pour orienter les choix créatifs et éthiques des motion designers dans leurs projets.",
+      "workflowImpact": "Inspiration directe pour structurer des projets de branding motion et maîtriser la narration visuelle dans la construction d'identités créatives complexes.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#ECF0F1",
-        "#34495E",
-        "#C0392B"
+        "#1a1a1a",
+        "#d4af37",
+        "#ffffff",
+        "#8b4513",
+        "#2c1810"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/manifesto-saga/",
       "date": "2026-09-16",
       "tags": [
+        "branding motion",
+        "cinematic",
         "manifesto",
-        "motion design philosophy",
-        "creative direction"
+        "identité visuelle"
       ],
       "styles": [
-        "Mixed Media"
+        "Mixed Media",
+        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 1,
       "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/saga-700x392.png"
     },
     {
-      "id": 4,
-      "title": "Motionographer Jobs is back in motion",
-      "summary": "Motionographer célèbre ses 20 ans en offrant des annonces d'emploi gratuites du 10 au 29 septembre avec une révision personnalisée de chaque candidature. Cette initiative soutient la communauté des motion designers en facilitant le recrutement.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Les motion designers et studios peuvent poster leurs offres d'emploi sans frais sur la plateforme de référence, augmentant leur visibilité auprès de talents qualifiés.",
+      "id": 6,
+      "title": "Paris-based Monumental FX Expands Into US Market in Partnership With Modern Post",
+      "summary": "Monumental FX, studio parisien spécialisé en VFX et animation 3D, s'étend sur le marché américain via un partenariat stratégique avec Modern Post. Cette expansion renforce la présence internationale des studios créatifs français dans le secteur du post-production.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "L'accès à un réseau post-production américain amplifié permet aux motion designers d'accéder à des ressources, talents et opportunités de projets transatlantiques élargies.",
       "colorPalette": [
-        "#1A1A1A",
-        "#FF6B35",
-        "#004E89",
-        "#F7B801",
-        "#FFFFFF"
+        "#1a1a2e",
+        "#16c784",
+        "#0f3460",
+        "#e94560",
+        "#f5f5f5"
       ],
-      "source": "Motionographer",
-      "link": "https://motionographer.com/2026/09/10/motionographer-jobs-is-back-in-motion/",
-      "date": "2026-09-10",
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/paris-based-monumental-fx-expands-into-us-market-in-partnership-with-modern-post/",
+      "date": "2026-09-21",
       "tags": [
-        "recrutement",
-        "offres d'emploi",
-        "communauté motion design",
-        "Motionographer"
+        "VFX Studio",
+        "3D Animation",
+        "Post-production",
+        "Expansion Marché"
       ],
       "styles": [
+        "3D Photoréaliste",
         "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 4,
-      "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/logo-20-wide-hero-image-texturd-700x394.png"
+      "thumb": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 5,
-      "title": "BRAINROT | Lazy Square",
-      "summary": "BRAINROT est une création visuelle de Lazy Square explorant des concepts créatifs modernes avec une approche graphique distinctive. Une pièce de motion design contemporain mettant en avant l'esthétique et l'expérimentation visuelle.",
+      "id": 7,
+      "title": "Ordinary Folk Dreams of Brazil in New “Rio 40°” Short film",
+      "summary": "Ordinary Folk et Guillaume Roux créent un court-métrage \"Rio 40°\" explorant l'ambiance estivale de Rio de Janeiro avec une approche motion design vibratoire. Un travail collaboratif entre Vancouver et le Royaume-Uni célébrant les vibes ensoleillées brésiliens.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Offre une source d'inspiration pour explorer des styles graphiques audacieux et des approches créatives expérimentales dans les projets de motion design.",
+      "workflowImpact": "Permet aux motion designers d'explorer les techniques de narration visuelle appliquées à des thèmes culturels et géographiques, enrichissant le portfolio de références pour des projets touristiques ou lifestyle.",
       "colorPalette": [
+        "#FFD700",
         "#FF6B35",
         "#004E89",
-        "#F77F00",
-        "#06A77D",
-        "#D62828"
+        "#F7931E",
+        "#1DB954"
       ],
-      "source": "Motionographer",
-      "link": "https://motionographer.com/quickie/brainrot-lazy-square/",
-      "date": "2026-09-10",
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/ordinary-folk-dreams-of-brazil-in-new-rio-40-short-film/",
+      "date": "2026-09-21",
       "tags": [
         "Motion Graphics",
-        "Lazy Square",
-        "Esthétique Contemporaine",
-        "Design Graphique"
+        "Narration visuelle",
+        "Design couleur tropical",
+        "Court-métrage"
+      ],
+      "styles": [
+        "Mixed Media",
+        "Kinetic Typography"
+      ],
+      "changelog": false,
+      "thumb": 5,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Ordinary-Folk-Rio-40°-Short-film-with-Guillaume-Roux-_-STASH-MAGAZINE9-1628x1080.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Film Noir Meets the Surreal in Yeti Pictures’ Titles for Motion Plus Design New York",
+      "summary": "Yeti Pictures crée des titres surréalistes et noir pour le festival Motion Plus Design de New York, mêlant esthétique film noir avec éléments surréels. Une ouverture visuelle distinctive signée Tony Zagoraios.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Source d'inspiration pour développer des approches hybrides combinant cinéma noir et surréalisme dans des séquences de titrage.",
+      "colorPalette": [
+        "#1a1a1a",
+        "#4a4a4a",
+        "#c0c0c0",
+        "#2d5a6b",
+        "#8b6f47"
+      ],
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/film-noir-meets-the-surreal-in-yeti-pictures-titles-for-motion-plus-design-new-york/",
+      "date": "2026-09-21",
+      "tags": [
+        "Film Noir",
+        "Motion Design",
+        "Surréalisme",
+        "Titrage"
       ],
       "styles": [
         "2D Frame-by-frame",
@@ -151,60 +245,29 @@
       ],
       "changelog": false,
       "thumb": 2,
-      "imageUrl": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Brainrot_DaVinchi-700x394.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Film Noir Meets the Surreal in Yeti Pictures’ Titles for Motion Plus Design New York",
-      "summary": "Yeti Pictures présente des titres de film noir surréaliste pour le festival Motion Plus Design de New York, mêlant esthétique gritty et éléments surréels. La création de Tony Zagoraios combine des influences cinématographiques classiques avec une approche visuelle contemporaine.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Inspire les motion designers à explorer l'hybridation de styles cinématographiques historiques avec des techniques de composition surréaliste pour créer des ouvertures de titres mémorables.",
-      "colorPalette": [
-        "#1a1a1a",
-        "#3d3d3d",
-        "#e8e8e8",
-        "#4a4a6a",
-        "#c9a961"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/film-noir-meets-the-surreal-in-yeti-pictures-titles-for-motion-plus-design-new-york/",
-      "date": "2026-09-21",
-      "tags": [
-        "film noir",
-        "surréalisme",
-        "titres séquence",
-        "direction artistique"
-      ],
-      "styles": [
-        "Mixed Media",
-        "Kinetic Typography"
-      ],
-      "changelog": false,
-      "thumb": 2,
       "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Yeti-Pictures-Opens-Motion-Plus-Design-New-York-STASH-MAGAZINE7-1920x865.jpg"
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "We Love Pitching: Chronicles of a Necessary Mess – Part 17",
-      "summary": "Claus Cibils de Nerdo explore la culture du pitching créatif en plaidant pour un environnement basé sur le respect mutuel et la gratitude. Cet éditorial fait partie d'une série réflexive sur les dynamiques professionnelles dans l'industrie du motion design.",
+      "summary": "Claus Cibils de Nerdo explore la culture du pitching créatif en plaidant pour un environnement basé sur le respect mutuel et la gratitude. Un éditorial réflexif sur les dynamiques humaines essentielles au sein de l'industrie du motion design.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Comprendre les enjeux humains et relationnels du pitching aide les motion designers à mieux préparer leurs présentations et à cultiver des relations professionnelles durables avec les clients et collaborateurs.",
+      "workflowImpact": "Renforce la conscience des bonnes pratiques collaboratives et du bien-être collectif dans les processus de création et de pitching, améliorant ainsi la productivité et la cohésion d'équipe.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
         "#ECF0F1",
         "#3498DB",
-        "#95A5A6"
+        "#27AE60"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-17/",
       "date": "2026-09-18",
       "tags": [
-        "pitching",
-        "creative culture",
-        "professionnel"
+        "creative pitching",
+        "respect mutuel",
+        "culture créative"
       ],
       "styles": [
         "Mixed Media"
@@ -214,110 +277,49 @@
       "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/We-Love-Pitching-Part-17-Guest-editorial-by-Claus-Cibilis-_-STASH-MAGAZINE-1446x1080.jpg"
     },
     {
-      "id": 8,
+      "id": 10,
       "title": "Mathematic & Dave Arcade Wish You Happy Internetting",
-      "summary": "Mathematic et l'illustrateur Dave Arcade créent une série de 10 animations isométriques en maximalism pour Telstra, mêlant illustration et direction créative de haut niveau. Un projet de motion design français combinant art 2D stylisé et composition dynamique.",
+      "summary": "Mathematic et Dave Arcade créent 10 séquences d'isométrie maximale pour Telstra, fusionnant l'illustration de Salt Lake City avec l'animation parisienne. Un projet de motion design exubérant combinant art 2D et design isométrique.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre comment intégrer de l'illustration 2D complexe dans une chaîne de production animation 3D isométrique, utile pour les projets haut de gamme avec direction artistique forte.",
+      "workflowImpact": "Démontre une collaboration efficace entre illustrateurs et animateurs pour créer du contenu isométrique complexe, offrant des insights sur l'intégration d'artwork externe en animation 2D.",
       "colorPalette": [
         "#FF6B35",
         "#004E89",
         "#F7B801",
         "#1B998B",
-        "#C73E1D"
+        "#C72C48"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/mathematic-dave-arcade-wish-you-happy-internetting/",
       "date": "2026-09-18",
       "tags": [
         "isometric design",
-        "maximalism",
-        "illustration 2D",
-        "After Effects"
+        "2D animation",
+        "illustration integration",
+        "motion graphics"
       ],
       "styles": [
         "2D Frame-by-frame",
-        "Mixed Media"
+        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 4,
       "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Mathematic-Dave-Arcade-Wish-You-Happy-Internetting-for-Telestra-STASH-MAGAZINE6-1920x1080.jpg"
     },
     {
-      "id": 9,
-      "title": "James Brocklebank Sounds Out the LS Luxe for KEF",
-      "summary": "Le réalisateur et artiste CG James Brocklebank crée une campagne visuelle captivante pour les enceintes LS Luxe de KEF, fruit de la collaboration entre le designer Ross Lovegrove et la marque audio britannique. Le projet met en valeur la beauté sculpturale et acoustique du produit à travers une direction artistique 3D sophistiquée.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Démontre comment intégrer la modélisation 3D haute résolution avec la capture d'éléments acoustiques pour créer une narration produit immersive et sensorielle.",
-      "colorPalette": [
-        "#1a1a1a",
-        "#d4af37",
-        "#4a4a4a",
-        "#e8e8e8",
-        "#2d5016"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/james-brocklebank-sounds-out-the-ls-luxe-for-kef/",
-      "date": "2026-09-17",
-      "tags": [
-        "Product Visualization",
-        "3D Modeling",
-        "Luxury Branding",
-        "Sound Design"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 3,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/KEF-LS-Luxe-x-Ross-Lovegrove-launch-film-by-James-Brocklebank-_-STASH-MAGAZINE-1080x1080.jpg"
-    },
-    {
-      "id": 10,
-      "title": "Blinkink to Represent Director Léa Esmaili in the US Market",
-      "summary": "Blinkink étend sa représentation de la réalisatrice Léa Esmaili au marché américain, après son succès en UK depuis 2024. Cette expansion couvre la production de travaux commerciaux en mixed-media.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Accès à des ressources et une expertise en production commerciale mixed-media de haut niveau pour les agences et marques opérant sur le marché nord-américain.",
-      "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#ECF0F1",
-        "#3498DB",
-        "#95A5A6"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/blinkink-to-represent-director-lea-esmaili-in-the-us-market/",
-      "date": "2026-09-16",
-      "tags": [
-        "Mixed-media",
-        "Direction créative",
-        "Production commerciale",
-        "Représentation internationale"
-      ],
-      "styles": [
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 3,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
       "id": 11,
       "title": "Ruxin Liang Shares a Workflow Tip for Keeping Ornatrix Grooms Feeling Fast",
-      "summary": "Ruxin Liang partage une technique pour maintenir des performances optimales lors du grooming avec Ornatrix dans Maya en construisant l'ensemble de la stack simultanément. Cette méthode permet de garder le viewport réactif sans sacrifier la qualité du travail.",
+      "summary": "Ruxin Liang partage une astuce de workflow pour optimiser les performances dans Ornatrix en construisant l'ensemble de la pile de groom à la fois tout en maintenant la fluidité du viewport Maya.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Optimise les performances du viewport lors du grooming hair/fur complexe, permettant une itération plus rapide et fluide sans ralentissements.",
+      "workflowImpact": "Améliore significativement la réactivité du viewport lors du travail sur des grooms complexes, réduisant les temps d'attente et augmentant la productivité en grooming.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
         "#3498DB",
-        "#ECF0F1",
-        "#95A5A6"
+        "#F39C12",
+        "#27AE60"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
@@ -338,29 +340,29 @@
     {
       "id": 12,
       "title": "Creator Spotlight: Ilija Brunck",
-      "summary": "Portrait d'Ilija Brunck, motion designer dont les œuvres allient simplicité visuelle apparente et rigueur technique/conceptuelle. Ses films démontrent une maîtrise sophistiquée dissimulée sous une esthétique épurée.",
+      "summary": "Portrait d'Ilija Brunck, motion designer dont les films combinent une apparente simplicité visuelle avec une précision technique et conceptuelle remarquable. Ses créations illustrent l'importance de la rigueur dans l'exécution d'une vision artistique minimaliste.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Étudier son approche permet aux designers d'optimiser leur processus créatif en privilégiant la clarté conceptuelle et l'efficacité technique plutôt que la complexité visuelle brute.",
+      "workflowImpact": "Comprendre l'approche d'Ilija inspire les motion designers à chercher l'élégance par la contrainte et à peaufiner chaque détail technique pour servir une idée forte.",
       "colorPalette": [
-        "#2A2A2A",
-        "#E8E8E8",
-        "#4A90E2",
-        "#F5A623",
-        "#1ABC9C"
+        "#2B2B2B",
+        "#FFFFFF",
+        "#E8A537",
+        "#3D5A80",
+        "#F4E5C3"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
       "date": "2026-06-10",
       "tags": [
-        "motion design",
-        "esthétique épurée",
-        "direction artistique",
-        "storytelling"
+        "minimalisme",
+        "composition visuelle",
+        "précision technique",
+        "motion design"
       ],
       "styles": [
         "Kinetic Typography",
-        "Mixed Media"
+        "2D Frame-by-frame"
       ],
       "changelog": false,
       "thumb": 1,
@@ -369,16 +371,16 @@
     {
       "id": 13,
       "title": "GrowFrame Offers an Inspirational Way to Visualize Passion Projects",
-      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) permettant aux animateurs et cinéastes de suivre visuellement la progression de leurs projets de passion. Cet outil offre une alternative inspirante aux solutions existantes pour documenter l'évolution créative.",
+      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) permettant aux animateurs et artistes de suivre la progression de leurs projets de passion de manière visuelle et inspirante.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Permet aux motion designers de visualiser et suivre l'avancement de leurs projets créatifs de manière motivante, améliorant la gestion de projet et la documentation du processus artistique.",
+      "workflowImpact": "Facilite le suivi motivant de la progression des projets longs en offrant une visualisation inspirante, idéal pour maintenir l'élan sur les passion projects.",
       "colorPalette": [
-        "#2E7D32",
-        "#FFD54F",
-        "#FF6F00",
-        "#1976D2",
-        "#F57C00"
+        "#2ECC71",
+        "#27AE60",
+        "#F39C12",
+        "#E8F8F5",
+        "#34495E"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
@@ -386,11 +388,11 @@
       "tags": [
         "mGear",
         "Maya",
-        "Productivity",
-        "Project Tracking"
+        "project tracking",
+        "animation workflow"
       ],
       "styles": [
-        "Mixed Media"
+        "UI/UX Motion"
       ],
       "changelog": true,
       "thumb": 2,
@@ -399,24 +401,24 @@
     {
       "id": 14,
       "title": "Get the Character Rig From Brent Forrest’s Like and Follow Short",
-      "summary": "Brent Forrest partage le rig Maya du personnage Phoney Baloney, un smartphone expressif du court métrage viral « Like and Follow ». Ce rig complexe permet aux animateurs de créer des animations anthropomorphes sophistiquées.",
+      "summary": "Accès au rig de personnage Maya de Phoney Baloney, le smartphone expressif du court-métrage viral « Like and Follow » de Brent Forrest. Un outil complet pour explorer une animation de caractère créative et détaillée.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accélère la production d'animations de caractères originaux en fournissant un rig professionnel prêt à l'emploi avec une architecture d'articulation avancée.",
+      "workflowImpact": "Permet aux animateurs d'étudier et de réutiliser un rig professionnel hautement expressif, accélérant la production d'animations de caractères anthropomorphes sophistiquées.",
       "colorPalette": [
         "#1F1F1F",
-        "#00D9FF",
-        "#FF1493",
-        "#FFEB3B",
-        "#FF6B35"
+        "#E8E8E8",
+        "#4A90E2",
+        "#FF6B6B",
+        "#FFD93D"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
       "date": "2026-06-10",
       "tags": [
         "Maya",
-        "Character Rigging",
-        "Animation Setup"
+        "Character Rig",
+        "Animation"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -429,28 +431,29 @@
     {
       "id": 15,
       "title": "21 Martyrs: An Inside Look",
-      "summary": "Lesterbanks analyse en profondeur '21 Martyrs', un film d'animation présélectionné aux Oscars et acclamé par Glen Keane pour son impact émotionnel et sa portée narrative.",
+      "summary": "Lesterbanks analyse en détail '21 Martyrs', un film d'animation acclamé en lice pour les Oscars, qualifié par Glen Keane de puissant et émouvant. L'article explore les techniques et l'approche créative derrière cette production ambitieuse.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Étudier les techniques narratives et stylistiques d'un film d'animation de prestige offre aux motion designers des insights sur l'animation dramatique et l'impact émotionnel.",
+      "workflowImpact": "Comprendre les techniques de production et la direction artistique d'un film d'animation primé offre des insights précieux pour affiner son propre pipeline créatif et narratif.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
         "#ECF0F1",
         "#8B4513",
-        "#34495E"
+        "#1A1A1A"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2025/01/21-martyrs-an-inside-look/",
       "date": "2025-01-04",
       "tags": [
         "animation narrative",
-        "réalisation animée",
-        "techniques dramatiques",
-        "Oscar"
+        "direction artistique",
+        "production design",
+        "film d'auteur"
       ],
       "styles": [
-        "2D Frame-by-frame"
+        "Cel Animation",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 4,
@@ -458,26 +461,85 @@
     },
     {
       "id": 16,
+      "title": "Light It Up 4.0.0: a free add-on for studio lighting presets",
+      "summary": "Light It Up 4.0.0 est un add-on gratuit et open source pour Blender qui génère automatiquement des configurations d'éclairage studio à partir de 17 présets visuels. L'installation se fait par drag-and-drop via la plateforme Blender Extensions.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Accélère considérablement la mise en place d'éclairages professionnels en 3D en éliminant la phase de configuration manuelle grâce aux présets prédéfinis et visualisables.",
+      "colorPalette": [
+        "#2C3E50",
+        "#E8D5C4",
+        "#F39C12",
+        "#34495E",
+        "#ECF0F1"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/09/22/light-it-up-4-0-0-a-free-add-on-for-studio-lighting-presets/",
+      "date": "2026-09-22",
+      "tags": [
+        "Blender",
+        "Lighting",
+        "Studio Setup",
+        "Add-on"
+      ],
+      "styles": [
+        "3D Photoréaliste"
+      ],
+      "changelog": true,
+      "thumb": 3,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 17,
+      "title": "Animation Workflow Course",
+      "summary": "Vallen Koscheev, superviseur animation Oscar-nominé, partage son workflow complet développé sur des films de prestige dans ce cours Blender. Une ressource essentielle pour maîtriser les pipelines d'animation professionnels.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Accélérer la production en adoptant un workflow éprouvé par un professionnel Oscar-nominé, réduisant les itérations et améliorant la cohérence narrative.",
+      "colorPalette": [
+        "#1F1F2E",
+        "#4A90E2",
+        "#F39C12",
+        "#E74C3C",
+        "#2ECC71"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/09/21/animation-workflow-course/",
+      "date": "2026-09-21",
+      "tags": [
+        "Blender",
+        "Animation Supervisor",
+        "Professional Workflow"
+      ],
+      "styles": [
+        "2D Frame-by-frame"
+      ],
+      "changelog": false,
+      "thumb": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 18,
       "title": "Video: #2026AD",
-      "summary": "Thomas Kral explore l'impact de l'IA sur les artistes créatifs à travers une réflexion vidéo sur le tournant de 2026. Le vidéaste aborde comment les professionnels doivent adapter leurs compétences face à l'automatisation croissante des processus créatifs.",
+      "summary": "Thomas Kral explore l'impact de l'IA sur les artistes créatifs en 2026, questionnant comment cette technologie transforme le métier de motion designer et les compétences acquises au fil des années.",
       "category": "AI Animation",
       "categoryId": "ai",
-      "workflowImpact": "Permet aux motion designers de comprendre les enjeux futurs de l'IA et d'anticiper l'évolution de leur métier pour rester compétitifs dans un environnement technologique en mutation.",
+      "workflowImpact": "Comprendre les enjeux de l'automatisation IA permet aux motion designers d'adapter leur approche créative et de se positionner stratégiquement face aux outils émergents.",
       "colorPalette": [
-        "#1A1A2E",
-        "#16213E",
-        "#0F3460",
-        "#E94560",
-        "#00D4FF"
+        "#1a1a2e",
+        "#16213e",
+        "#0f3460",
+        "#e94560",
+        "#a8dadc"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/09/21/video-2026ad/",
       "date": "2026-09-21",
       "tags": [
-        "AI Impact",
         "Blender",
-        "Creative Future",
-        "Automation"
+        "IA créative",
+        "automation",
+        "tendances 2026"
       ],
       "styles": [
         "Mixed Media"
@@ -487,26 +549,26 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 17,
+      "id": 19,
       "title": "Tabs: Browser-Style Tab Management for Blender’s Workspace",
-      "summary": "Tabs est une nouvelle fonctionnalité Blender permettant une gestion d'espace de travail par onglets, inspirée des navigateurs web, pour basculer facilement entre plusieurs éditeurs tout en conservant leurs états respectifs.",
+      "summary": "Tabs est une extension Blender qui ajoute un système de gestion d'onglets inspiré des navigateurs web, permettant à plusieurs éditeurs de partager une zone tout en conservant leur propre état. Les utilisateurs peuvent créer, renommer, réorganiser, fermer et verrouiller les onglets pour optimiser leur workflow.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Améliore l'organisation du workspace Blender en permettant de gérer plusieurs éditeurs dans une même zone sans perdre leur contexte, réduisant les changements de disposition fastidieux.",
+      "workflowImpact": "Augmente la productivité en permettant une organisation modulaire des éditeurs Blender, éliminant les changements répétés de layout et facilitant la gestion de multiples vues simultanées.",
       "colorPalette": [
-        "#FF6D00",
-        "#1976D2",
-        "#4CAF50",
-        "#FDD835",
-        "#7C4DFF"
+        "#F57C00",
+        "#1F1F1F",
+        "#4A90E2",
+        "#E8E8E8",
+        "#2E7D32"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/09/19/tabs-browser-style-tab-management-for-blenders-workspace/",
       "date": "2026-09-19",
       "tags": [
         "Blender",
-        "Workspace",
-        "UI/UX",
+        "Workspace Management",
+        "UI Enhancement",
         "Productivity"
       ],
       "styles": [
@@ -517,18 +579,18 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 18,
+      "id": 20,
       "title": "Best of Blender Artists: 2026-38",
-      "summary": "Sélection hebdomadaire des meilleures créations partagées sur le forum Blender Artists, mettant en avant les travaux les plus impressionnants de la communauté.",
+      "summary": "Sélection hebdomadaire des meilleures créations partagées par la communauté Blender Artists, mettant en avant les projets 3D les plus innovants. Un aperçu des tendances et techniques actuelles dans l'écosystème Blender.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Découvrir les techniques et approches créatives des artistes Blender professionnels pour s'inspirer et améliorer sa pratique personnelle.",
+      "workflowImpact": "Découvrir des techniques avancées et des inspirations créatives directement depuis les projets professionnels de la communauté Blender pour enrichir son propre pipeline 3D.",
       "colorPalette": [
         "#FF6B35",
         "#004E89",
-        "#F7B801",
         "#1B998B",
-        "#2E294E"
+        "#F7DC6F",
+        "#2C3E50"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/09/18/best-of-blender-artists-2026-38/",
@@ -537,7 +599,7 @@
         "Blender",
         "3D Modeling",
         "Community Showcase",
-        "Inspiration"
+        "Rendering"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -548,74 +610,14 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 19,
-      "title": "Blender Jobs for September 18, 2026",
-      "summary": "Compilation des offres d'emploi Blender du 18 septembre 2026, incluant des postes de technical artist, environment artist et artistes 3D junior dans divers studios et programmes de formation.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers et artistes 3D de découvrir les opportunités de carrière récentes alignées avec leurs compétences Blender et d'identifier les tendances du marché des talents en production.",
-      "colorPalette": [
-        "#F57C00",
-        "#2196F3",
-        "#4CAF50",
-        "#9C27B0",
-        "#1A1A1A"
-      ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/09/18/blender-jobs-for-september-18-2026/",
-      "date": "2026-09-18",
-      "tags": [
-        "Blender",
-        "Recrutement",
-        "Technical Art",
-        "Environment Design"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": false,
-      "thumb": 5,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 20,
-      "title": "Glowing Mushroom Tutorial",
-      "summary": "Tutoriel complet sur la création d'un champignon luminescent procédural dans Blender en utilisant les shader nodes. Guide détaillé pour maîtriser les matériaux avancés et l'illumination.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers de créer rapidement des assets organiques avec matériaux procéduraux réalistes, économisant du temps de texturing et rendant les scènes plus modulables.",
-      "colorPalette": [
-        "#2D5016",
-        "#7FBD39",
-        "#FFD700",
-        "#FF6B35",
-        "#1A1A1A"
-      ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/09/18/glowing-mushroom-tutorial/",
-      "date": "2026-09-18",
-      "tags": [
-        "Blender",
-        "Shader Nodes",
-        "Matériaux Procéduraux",
-        "Éclairage"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": false,
-      "thumb": 4,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
       "id": 21,
       "title": "New CG software you may have missed: 20 September 2026",
-      "summary": "Découvrez les dernières mises à jour d'outils CG de la semaine incluant Animcraft (library d'animation), Unigine (moteur de jeu) et OctaneRender. Un tour d'horizon des innovations logicielles à ne pas manquer pour les professionnels.",
+      "summary": "Revue des dernières mises à jour CG de la semaine incluant Animcraft (libraire d'animation), Unigine (moteur de jeu) et OctaneRender. Découvrez les outils CG que vous avez peut-être manqués cette semaine.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Rester informé des nouvelles versions et outils émergents permet aux motion designers d'optimiser leur pipeline de production et d'explorer des alternatives technologiques adaptées à leurs projets.",
+      "workflowImpact": "Reste informé des mises à jour essentielles des outils CG majeurs pour optimiser ton pipeline de production 3D et animation.",
       "colorPalette": [
-        "#2C3E50",
+        "#2D3E50",
         "#E74C3C",
         "#3498DB",
         "#2ECC71",
@@ -625,14 +627,13 @@
       "link": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/",
       "date": "2026-09-20",
       "tags": [
-        "OctaneRender",
-        "Unigine",
         "Animcraft",
-        "CG tools"
+        "Unigine",
+        "OctaneRender",
+        "CG Tools"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
+        "3D Photoréaliste"
       ],
       "changelog": true,
       "thumb": 1,
@@ -641,28 +642,28 @@
     {
       "id": 22,
       "title": "See the speakers for the 2026 Digital Storytelling conference",
-      "summary": "Le Digital Storytelling 2026 célèbre ses 20 ans avec des sessions sur les VFX de « Sinners » et « Project Hail Mary ». Un événement majeur d'Oslo réunissant les professionnels du secteur.",
+      "summary": "La 20e édition du festival VFX Digital Storytelling 2026 à Oslo met en avant des sessions détaillant la production de Sinners et Project Hail Mary. Un événement incontournable pour découvrir les coulisses des plus grands projets VFX contemporains.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accès aux retours d'expérience de productions blockbuster pour enrichir les techniques et bonnes pratiques VFX.",
+      "workflowImpact": "Accès direct aux expertise et techniques utilisées par les studios VFX de premier plan, permettant aux motion designers d'intégrer les dernières approches professionnelles dans leurs propres pipelines.",
       "colorPalette": [
         "#1a1a2e",
-        "#16213e",
         "#0f3460",
         "#e94560",
-        "#ffbc00"
+        "#f7b801",
+        "#ffffff"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/09/see-the-speakers-for-the-2026-digital-storytelling-conference/",
       "date": "2026-09-18",
       "tags": [
-        "VFX",
+        "VFX production",
         "Digital Storytelling",
-        "Oslo",
-        "Production"
+        "Conference"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 0,
@@ -671,16 +672,16 @@
     {
       "id": 23,
       "title": "Free tutorial: Painting a Battle-Worn Titan in Photoshop",
-      "summary": "Tutoriel gratuit de 30 minutes du Gnomon Workshop enseignant les techniques professionnelles de concept art pour illustrer un Titan usé au combat dans Photoshop. Une ressource idéale pour maîtriser les techniques de peinture numérique et de character design.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Améliore les compétences en concept art et illustration numérique, essentielles pour le pre-visualization et le design de personnages dans les productions VFX et animation.",
+      "summary": "Tutoriel gratuit de 30 minutes du Gnomon Workshop sur les techniques de concept art professionnel, spécialisé dans la peinture d'un Titan usé par la bataille sous Photoshop.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Enrichit la boîte à outils des motion designers en concept art digital, applicable aux pré-visualisations et design de personnages pour animations.",
       "colorPalette": [
-        "#3A2F2F",
         "#8B7355",
         "#D4A574",
-        "#5A4A3A",
-        "#C4844A"
+        "#4A4A4A",
+        "#C41E3A",
+        "#2C3E50"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/09/free-tutorial-painting-a-battle-worn-titan-in-photoshop/",
@@ -688,10 +689,11 @@
       "tags": [
         "Photoshop",
         "Concept Art",
-        "Character Design",
-        "Digital Painting"
+        "Digital Painting",
+        "Character Design"
       ],
       "styles": [
+        "3D Photoréaliste",
         "Mixed Media"
       ],
       "changelog": false,
@@ -701,25 +703,25 @@
     {
       "id": 24,
       "title": "See Alchemy 24’s VFX breakdown for Michael Jackson biopic Michael",
-      "summary": "Alchemy 24 dévoile son processus de création des effets visuels invisibles pour le biopic Michael Jackson, réalisé par Antoine Fuqua. Un breakdown technique sur les VFX subtiles d'une production à succès commercial.",
+      "summary": "Alchemy 24 dévoile son breakdown VFX pour le biopic Michael Jackson, révélant les effets invisibles qui ont contribué au succès du film d'Antoine Fuqua. Un regard détaillé sur les techniques de post-production subtiles d'un projet à gros budget.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Comprendre les techniques d'effets invisibles et intégrés permet aux motion designers d'améliorer la fluidité narrative et l'impact émotionnel sans surcharge visuelle.",
+      "workflowImpact": "L'analyse des techniques VFX invisibles de ce blockbuster offre des insights précieux sur l'intégration discrète d'effets numériques dans les productions à grand spectacle.",
       "colorPalette": [
-        "#2A2A2A",
-        "#D4AF37",
-        "#1C1C1C",
+        "#1A1A1A",
+        "#E8D5C4",
+        "#2D5A3D",
         "#8B7355",
-        "#F5DEB3"
+        "#C9A876"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/09/see-alchemy-24s-vfx-breakdown-for-michael-jackson-biopic-michael/",
       "date": "2026-09-17",
       "tags": [
-        "VFX invisible",
-        "Compositing",
-        "Color Grading",
-        "Antoine Fuqua"
+        "VFX breakdown",
+        "compositing",
+        "color grading",
+        "Nuke"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -732,28 +734,27 @@
     {
       "id": 25,
       "title": "Check out free Maya animation productivity toolset KeyFlow",
-      "summary": "KeyFlow est un ensemble d'outils gratuit pour Maya augmentant la productivité en animation, accompagné de KeyFlow Studio, un outil de review de plans léger et autonome.",
+      "summary": "KeyFlow est un ensemble d'outils gratuit pour Maya conçu par l'animateur Sebastian Jaksan, accompagné d'une application autonome KeyFlow Studio dédiée à la révision de plans. Cette solution améliore la productivité en animation de jeux vidéo.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Accélère le pipeline d'animation en Maya avec des outils productivité intégrés et facilite la review collaborative via l'outil standalone.",
+      "workflowImpact": "Accélère la pipeline d'animation Maya en offrant des outils natifs et une solution intégrée de review, réduisant les allers-retours entre applications.",
       "colorPalette": [
-        "#1E90FF",
-        "#00CED1",
-        "#FFD700",
-        "#2F4F4F",
-        "#FF6347"
+        "#1F4E78",
+        "#E8A87C",
+        "#2D5016",
+        "#F5E6D3",
+        "#5A7C8C"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/09/check-out-free-maya-animation-productivity-toolset-keyflow/",
       "date": "2026-09-16",
       "tags": [
         "Maya",
-        "Animation Tools",
-        "Productivity Add-on",
-        "Shot Review"
+        "Animation",
+        "Productivity Tools"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "2D Frame-by-frame"
       ],
       "changelog": true,
       "thumb": 1,
