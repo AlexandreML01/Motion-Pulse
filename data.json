@@ -1,29 +1,60 @@
 {
-  "generatedAt": "2026-10-16T13:02:12.628466+00:00",
+  "generatedAt": "2026-10-17T11:59:36.660969+00:00",
   "count": 25,
   "items": [
     {
       "id": 1,
-      "title": "What Is Dyslexia? | Art&Graft",
-      "summary": "Art&Graft et la réalisatrice Kyra Bartley créent un monde animé de style pictural pour sensibiliser à la dyslexie à travers le parcours du personnage Lola. Le film combine animation expressive et narration visuelle pour Made By Dyslexia.",
+      "title": "Hypersail | FutureDeluxe",
+      "summary": "FutureDeluxe crée un film de lancement cinématique pour Hypersail, transportant l'univers Ferrari de la piste de course à l'environnement aquatique. Une production de haut niveau mêlant design automobile et motion graphics sophistiqués.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre comment l'animation 2D expressive et les techniques de peinture numérique peuvent communiquer des concepts complexes de manière empathique et accessible, inspirant des approches créatives pour le storytelling éducatif.",
+      "workflowImpact": "Inspire les motion designers pour intégrer des environnements complexes et des transitions thématiques audacieuses dans des projets de lancement de marque haut de gamme.",
       "colorPalette": [
-        "#D4A574",
-        "#8B6F47",
-        "#E8D4C0",
-        "#6B5B4D",
+        "#DC143C",
+        "#1a1a1a",
+        "#C0C0C0",
+        "#003DA5",
+        "#F5F5F5"
+      ],
+      "source": "Motionographer",
+      "link": "https://motionographer.com/quickie/hypersail-futuredeluxe/",
+      "date": "2026-10-16",
+      "tags": [
+        "cinematic motion",
+        "product launch",
+        "brand storytelling",
+        "3D integration"
+      ],
+      "styles": [
+        "3D Photoréaliste",
+        "Mixed Media"
+      ],
+      "changelog": false,
+      "thumb": 3,
+      "imageUrl": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Hypersail-FutureDeluxe-cover-scaled.jpg?fit=700%2C394&quality=89&ssl=1"
+    },
+    {
+      "id": 2,
+      "title": "What Is Dyslexia? | Art&Graft",
+      "summary": "Art&Graft et la réalisatrice Kyra Bartley créent un monde animé et pictural suivant le personnage Lola pour une campagne Made By Dyslexia. Cette approche artistique rend accessible et positive la représentation de la dyslexie.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Démontre comment combiner animation picturale et narration pour des contenus éducatifs/sociaux, inspirant des techniques de stylisation 2D fluides adaptées aux sujets sensibles.",
+      "colorPalette": [
+        "#E8D4B8",
+        "#7B6B47",
+        "#C94D3D",
+        "#4A7C8C",
         "#F5E6D3"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/what-is-dyslexia-artgraft/",
       "date": "2026-10-14",
       "tags": [
-        "Animation 2D",
-        "Illustration numérique",
-        "Storytelling",
-        "Motion design éducatif"
+        "animation picturale",
+        "character animation",
+        "contenu éducatif",
+        "After Effects"
       ],
       "styles": [
         "2D Frame-by-frame",
@@ -34,28 +65,29 @@
       "imageUrl": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/What-Is-Dyslexia-ArtGraft-D_026.jpg?fit=700%2C394&quality=89&ssl=1"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Creative Must Win: The Belief Behind RevThink’s Tim Thompson",
-      "summary": "Portrait de Tim Thompson, fondateur de RevThink, qui a pivé de la carrière d'acteur à l'accompagnement des créatifs et entrepreneurs. Il partage sa philosophie sur la permission de changer et la construction de carrières créatives durables.",
+      "summary": "Tim Thompson, fondateur de RevThink, partage son parcours de Hollywood à l'entrepreneuriat créatif, en aidant les designers et créatifs à construire leurs entreprises et à évoluer professionnellement.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspire les motion designers à structurer leur carrière de façon stratégique et à donner priorité au développement personnel autant qu'aux compétences techniques.",
+      "workflowImpact": "Inspire les motion designers à structurer leurs carrières en freelance ou en agence, en combinant créativité et stratégie commerciale pour pérenniser leur activité.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#ECF0F1",
-        "#3498DB",
-        "#95A5A6"
+        "#FF6B35",
+        "#004E89",
+        "#F7B32B",
+        "#2D3E50",
+        "#E8E8E8"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/2026/10/13/creative-must-win-the-belief-behind-revthinks-tim-thompson/",
       "date": "2026-10-13",
       "tags": [
         "entrepreneuriat créatif",
-        "carrière",
-        "leadership"
+        "business strategy",
+        "creative leadership"
       ],
       "styles": [
+        "UI/UX Motion",
         "Mixed Media"
       ],
       "changelog": false,
@@ -63,27 +95,27 @@
       "imageUrl": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=700%2C700&ssl=1"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "RenderJuice Announces $5,000 “Speed” Blender Animation Contest",
-      "summary": "RenderJuice lance un concours Blender gratuit avec $5,000 en prix (cash et crédits de rendu) pour les animateurs, ouverture le 15 octobre. Une opportunité de showcase et de monétisation pour la communauté Blender.",
+      "summary": "RenderJuice lance un concours Blender gratuit dotée de 5 000 $ en prix (cash et crédits de rendu) avec 9 catégories de récompenses, ouverture le 15 octobre. Une opportunité pour les animateurs de mettre en avant leurs talents et bénéficier de crédits de rendu.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accès à des crédits de rendu haute qualité et exposition professionnelle pour optimiser les pipelines Blender sans surcoûts de production.",
+      "workflowImpact": "Accès à des crédits de rendu Blender gratuits pouvant réduire significativement les coûts de production pour les animateurs 3D professionnels et freelances.",
       "colorPalette": [
         "#FF6B35",
         "#004E89",
         "#F7931E",
-        "#1A1A1A",
-        "#FFFFFF"
+        "#1B998B",
+        "#2D3436"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/renderjuice-speed-blender-animation-contest-2026/",
       "date": "2026-10-12",
       "tags": [
         "Blender",
-        "Animation 3D",
+        "Concours Animation",
         "Rendering",
-        "Concours"
+        "Cycles"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -93,29 +125,30 @@
       "imageUrl": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=700%2C368&quality=80&ssl=1"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "OROBORO | Anna Huijun Wang",
-      "summary": "Anna Huijun Wang explore l'identité à travers la transformation d'un personnage combinant animation en cel, motion design 2D et 3D. Une démonstration technique du mixed media pour narratif personnel.",
+      "summary": "Anna Huijun Wang explore l'identité à travers la transformation d'un personnage combinant cel animation, motion design 2D et 3D. Un projet hybride mêlant styles visuels pour une narration introspective.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspire les motion designers à fusionner plusieurs techniques (cel animation, 2D, 3D) pour créer des récits visuels complexes avec cohérence stylistique.",
+      "workflowImpact": "Démontre l'intégration fluide de multiples techniques (cel, 2D, 3D) dans un seul projet, inspirant les motion designers à explorer des transitions de style pour renforcer la narration.",
       "colorPalette": [
-        "#2D1B69",
-        "#FF6B9D",
-        "#00D9FF",
-        "#FFC857",
-        "#1A1A2E"
+        "#2C1B47",
+        "#E8A87C",
+        "#F5D5B8",
+        "#4A3A5C",
+        "#D4956A"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/oroboro-anna-huijun-wang/",
       "date": "2026-10-12",
       "tags": [
-        "Cel Animation",
-        "Mixed Media",
-        "Character Animation",
-        "Identity Narrative"
+        "cel animation",
+        "hybride 2D/3D",
+        "character design",
+        "narration visuelle"
       ],
       "styles": [
+        "2D Frame-by-frame",
         "Cel Animation",
         "Mixed Media"
       ],
@@ -124,57 +157,88 @@
       "imageUrl": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/OROBORO-Anna-Wang-02.png?fit=700%2C394&quality=80&ssl=1"
     },
     {
-      "id": 5,
-      "title": "Diptyque “Médicis” | Chris Ullens",
-      "summary": "Chris Ullens crée un diptyque en stop-motion mettant en scène la fabrication artisanale du vase Médicis de Diptyque. Une exploration miniature du processus de création de ce produit de luxe.",
+      "id": 6,
+      "title": "Cypher Releases Sonic Studies #1: Textiles & Fashion",
+      "summary": "Cypher lance Sonic Studies #1, une série explorant le design sonore appliqué aux textiles et à la mode, en plaçant l'audio au cœur du processus créatif plutôt qu'en post-production.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre comment intégrer le stop-motion pour valoriser un processus artisanal complexe et captiver l'audience sur un produit haut de gamme.",
+      "workflowImpact": "Intégrer le sound design dès les phases amont du projet enrichit la créativité visuelle et synchronise harmonieusement motion design et identité sonore.",
       "colorPalette": [
-        "#D4A574",
-        "#8B6F47",
-        "#F5E6D3",
-        "#2C2416",
-        "#E8D4C0"
+        "#2A1B3D",
+        "#E8A447",
+        "#6B4C9A",
+        "#F5F1E8",
+        "#3D2817"
       ],
-      "source": "Motionographer",
-      "link": "https://motionographer.com/quickie/diptyque-medicis-chris-ullens/",
-      "date": "2026-10-08",
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/cypher-releases-sonic-studies-1-textiles-fashion/",
+      "date": "2026-10-16",
       "tags": [
-        "stop-motion",
-        "luxury branding",
-        "artisanal craft"
+        "sound design",
+        "sonic branding",
+        "fashion motion",
+        "audio-visual"
       ],
       "styles": [
-        "Cel Animation",
+        "Mixed Media",
+        "Kinetic Typography"
+      ],
+      "changelog": false,
+      "thumb": 3,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Cypher-Releases-Sonic-Studies-1-Textiles-Fashion-STASH-MAGAZINE8-1437x1080.jpg"
+    },
+    {
+      "id": 7,
+      "title": "We Love Pitching: Chronicles of a Necessary Mess – Part 21",
+      "summary": "Une réflexion sur le processus de pitch créatif et ses réalités (victoires et défaites), avec des leçons applicables du directeur créatif Claus Cibils de Nerdo. Cet épisode explore les nuances et l'apprentissage dans la dynamique des présentations créatives.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Fournit des insights stratégiques sur la présentation et la vente de concepts créatifs, amélirant les compétences de communication et de pitching essentielles pour les motion designers en agence.",
+      "colorPalette": [
+        "#2C3E50",
+        "#E74C3C",
+        "#ECF0F1",
+        "#3498DB",
+        "#27AE60"
+      ],
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-21/",
+      "date": "2026-10-16",
+      "tags": [
+        "Pitching créatif",
+        "Direction créative",
+        "Agence",
+        "Stratégie"
+      ],
+      "styles": [
         "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 0,
-      "imageUrl": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Diptyque-Medicis-Chris-Ullens-01.jpeg?fit=700%2C394&quality=89&ssl=1"
+      "thumb": 2,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/We-Love-Pitching-Part-21-Guest-editorial-by-Claus-Cibilis-_-STASH-MAGAZINE-1424x1080.jpg"
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Jellyfish on Ice: Studio River Wades into the CG Watch Wars",
-      "summary": "Studio River, un studio 3D parisien, se lance dans la compétition des montres CG avec un spot spéculatif pour Hublot en noir et blanc, combinant minimalisme stark et nuances sophistiquées. Le projet R.EVISITED démontre leur maîtrise du rendu haute gamme pour le luxe.",
+      "summary": "Studio River, maison 3D parisienne, crée un spot spéculatif pour Hublot avec un rendu CG monochrome épuré et nuancé appelé R.EVISITED. Ce projet démontre l'expertise en product design haute horlogerie avec un traitement visuel stark et sophistiqué.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Inspiration pour l'approche minimaliste et contrastée en rendu 3D de produits haut de gamme, démontrant comment obtenir l'élégance via la typographie et la composition plutôt que la couleur.",
+      "workflowImpact": "Référence pour les techniques de rendu produit CG haute résolution et post-production monochrome, particulièrement utile pour les projets de luxury goods et commercial haut de gamme.",
       "colorPalette": [
         "#000000",
         "#FFFFFF",
         "#1A1A1A",
         "#E8E8E8",
-        "#404040"
+        "#4D4D4D"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/jellyfish-on-ice-studio-river-wades-into-the-cg-watch-wars/",
       "date": "2026-10-15",
       "tags": [
-        "product visualization",
-        "luxury goods",
-        "C4D",
-        "black & white rendering"
+        "Product Visualization",
+        "Luxury Commercial",
+        "Monochrome Rendering",
+        "Horlogerie"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -184,26 +248,27 @@
       "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Hublot-CG-spec-spot-by-Studio-River-STASH-MAGAZINE7-1920x1080.jpg"
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "Demo Duck Expands Offerings with ‘DD Docs’",
-      "summary": "Demo Duck, société de production basée à Chicago, élargit son offre en ajoutant la production de documentaires long-format à ses services vidéo. Cette expansion marque une diversification stratégique vers des contenus narratifs d'envergure.",
+      "summary": "Demo Duck, studio de production basé à Chicago, élargit ses services en proposant des vidéos documentaires long-format aux côtés de ses productions motion design existantes.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Permet aux motion designers de comprendre les opportunités de collaboration avec des studios en expansion et les tendances du marché de la production vidéo professionnelle.",
+      "workflowImpact": "Permet aux motion designers de proposer des offres documentaires enrichies à leurs clients, ouvrant de nouvelles opportunités de projets hybrides combinant narration et motion graphics.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
         "#ECF0F1",
-        "#3498DB",
-        "#27AE60"
+        "#34495E",
+        "#95A5A6"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/demo-duck-expands-offerings-with-dd-docs/",
       "date": "2026-10-15",
       "tags": [
-        "production vidéo",
-        "documentaire",
-        "long-form content"
+        "Production vidéo",
+        "Documentaire",
+        "Motion Design",
+        "Services de studio"
       ],
       "styles": [
         "Mixed Media"
@@ -213,27 +278,26 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 8,
+      "id": 10,
       "title": "Oddfellows Warm Up Harvey II Launch With Pencil & Paper",
-      "summary": "Oddfellows crée un spot de lancement pour Harvey II, une IA juridique, en utilisant une approche tactile et dessinée à la main qui humanise la technologie légale. Ce traitement texturo-organique contraste avec l'austérité habituellement associée au secteur juridique.",
+      "summary": "Oddfellows crée une campagne de lancement pour Harvey II, un outil d'IA juridique, en utilisant une approche tactile et humanisée combinant crayon et papier pour personnaliser le domaine froid de la legal tech.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démonstration d'une stratégie de design hybride (2D dessiné + motion) pour rendre accessible et humaniser des concepts technologiques complexes, applicable à tout brieffing corporate ou B2B.",
+      "workflowImpact": "Démontre comment intégrer des éléments texturés et organiques (dessin à main levée) dans une production numérique pour créer de l'émotion et humaniser des concepts abstraits.",
       "colorPalette": [
-        "#F5E6D3",
         "#2C3E50",
+        "#E8D5C4",
+        "#8B7355",
         "#D4A574",
-        "#E8DCC8",
-        "#3D5A6C"
+        "#F5F1ED"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/oddfellows-warm-up-harvey-ii-launch/",
       "date": "2026-10-15",
       "tags": [
-        "2D animation",
-        "pencil & paper",
-        "motion design",
-        "brand storytelling"
+        "motion graphics",
+        "texture organique",
+        "design humanisé"
       ],
       "styles": [
         "2D Frame-by-frame",
@@ -244,89 +308,27 @@
       "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Harvey-II-Brand-Manifesto-Launch-film-by-Oddfellows-STASH-MAGAZINE7-1920x1080.jpg"
     },
     {
-      "id": 9,
-      "title": "DixonBaxi Lead ADC in the Search for What’s Next",
-      "summary": "DixonBaxi crée une campagne de lancement anarchique et joyeuse pour la 106e édition des Art Directors Club awards, repoussant les limites de la créativité traditionnelle. Le spot motion capture l'essence anticonformiste et avant-gardiste de l'ADC.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Inspire les motion designers à explorer des approches expérimentales et ludiques pour les campagnes de prestige, en sortant des codes visuels académiques attendus.",
-      "colorPalette": [
-        "#FF6B35",
-        "#004E89",
-        "#F7B801",
-        "#1B1B1B",
-        "#E8E8E8"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/dixonbaxi-lead-adc-in-the-search-for-whats-next/",
-      "date": "2026-10-14",
-      "tags": [
-        "Motion Design",
-        "Campagne Creative",
-        "Typographie Animée",
-        "Identité Visuelle"
-      ],
-      "styles": [
-        "Kinetic Typography",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 1,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/ADC-106th-Annual-Awards-Launch-Film-by-DixonBaxi-STASH-MAGAZINE6-1920x1080.jpg"
-    },
-    {
-      "id": 10,
-      "title": "Paul Jordan & Friends Run the Run for Mental Health",
-      "summary": "Paul Jordan coordonne 18 animateurs et 12 studios pour créer un film d'animation collaborative pour la Journée Mondiale de la Santé Mentale en partenariat avec l'organisation Sport In Mind. Un projet de grande envergure réalisé en 12 mois mêlant motion design et engagement social.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Démontre les meilleures pratiques de coordination multi-studios et gestion de workflows complexes impliquant de nombreux animateurs, utile pour les motion designers supervisant des projets d'envergure.",
-      "colorPalette": [
-        "#FF6B6B",
-        "#4ECDC4",
-        "#45B7D1",
-        "#F9A825",
-        "#95E1D3"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/paul-jordan-friends-run-the-run-for-mental-health/",
-      "date": "2026-10-13",
-      "tags": [
-        "animation collaborative",
-        "production management",
-        "motion design",
-        "cause advertising"
-      ],
-      "styles": [
-        "2D Frame-by-frame",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 4,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Any-Run-Everyone-animated-film-by-Paul-Jordon-for-Sport-In-Mind-Berocca-STASH-MAGAZINE6-1920x1080.jpg"
-    },
-    {
       "id": 11,
       "title": "Ruxin Liang Shares a Workflow Tip for Keeping Ornatrix Grooms Feeling Fast",
-      "summary": "Ruxin Liang partage une technique pour maintenir les performances viewport lors du grooming avec Ornatrix en Maya, en construisant l'intégralité de la pile de simulation simultanément.",
+      "summary": "Ruxin Liang partage une technique pour optimiser les performances lors du grooming avec Ornatrix en Maya, en construisant l'ensemble de la stack simultanément. Ce workflow tip permet de maintenir un viewport réactif pendant le travail de cheveux et poils.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Optimise la fluidité de travail lors du grooming cheveux/fourrure en évitant les ralentissements viewport, permettant une itération plus rapide sur les simulations complexes.",
+      "workflowImpact": "Optimise significativement la réactivité du viewport lors du grooming complexe, réduisant les délais d'attente et améliorant l'efficacité du pipeline de création de cheveux et poils.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
         "#3498DB",
-        "#ECF0F1",
-        "#95A5A6"
+        "#F39C12",
+        "#ECF0F1"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
       "date": "2026-07-17",
       "tags": [
         "Ornatrix",
-        "Grooming",
         "Maya",
-        "Performance Optimization"
+        "Grooming",
+        "Optimisation Viewport"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -338,29 +340,27 @@
     {
       "id": 12,
       "title": "Creator Spotlight: Ilija Brunck",
-      "summary": "Ilija Brunck est un créateur dont les œuvres allient simplicité apparente et précision technique/conceptuelle. Son approche minimaliste masque une complexité méthodologique remarquable.",
+      "summary": "Ilija Brunck est un créateur dont les films allient une apparente simplicité visuelle à une grande précision technique et conceptuelle. Son approche démontre l'importance de la maîtrise artistique dans le motion design contemporain.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspirer les motion designers à développer une rigueur conceptuelle et technique sous-jacente, optimisant l'efficacité créative par l'épuration visuelle.",
+      "workflowImpact": "Inspire les motion designers à chercher l'équilibre entre simplicité visuelle et complexité technique, améliorant la qualité conceptuelle des projets.",
       "colorPalette": [
-        "#1a1a1a",
-        "#f5f5f5",
-        "#2d5016",
-        "#c41e3a",
-        "#8b7355"
+        "#2C3E50",
+        "#ECF0F1",
+        "#E74C3C",
+        "#3498DB",
+        "#95A5A6"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
       "date": "2026-06-10",
       "tags": [
-        "minimalism",
-        "conceptual design",
-        "technical precision",
-        "motion storytelling"
+        "motion design",
+        "direction artistique",
+        "conceptual storytelling"
       ],
       "styles": [
-        "Kinetic Typography",
-        "2D Frame-by-frame"
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 1,
@@ -369,25 +369,25 @@
     {
       "id": 13,
       "title": "GrowFrame Offers an Inspirational Way to Visualize Passion Projects",
-      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) permettant aux animateurs et artistes de suivre visuellement la progression de leurs projets. Cet outil offre une alternative inspirante aux solutions de gestion de projet existantes.",
+      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (créateur de mGear) permettant aux animateurs, cinéastes et artistes de suivre la progression de leurs projets de passion. L'outil offre une visualisation inspirante des avancées créatives.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Permet aux motion designers de visualiser et suivre l'avancement de leurs projets de manière intuitive et motivante, intégrant gestion de projet et inspiration créative.",
+      "workflowImpact": "Améliore la gestion de projet et la motivation en visualisant les progrès, particulièrement utile pour les productions long terme et les projets parallèles.",
       "colorPalette": [
         "#2E7D32",
-        "#66BB6A",
-        "#FDD835",
-        "#FF7043",
-        "#5E35B1"
+        "#81C784",
+        "#FFA726",
+        "#29B6F6",
+        "#7C4DFF"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
       "date": "2026-06-10",
       "tags": [
-        "GrowFrame",
         "mGear",
+        "project management",
         "Maya",
-        "Gestion de projet"
+        "creative workflow"
       ],
       "styles": [
         "UI/UX Motion"
@@ -399,16 +399,16 @@
     {
       "id": 14,
       "title": "Get the Character Rig From Brent Forrest’s Like and Follow Short",
-      "summary": "Découvrez le rig Maya du personnage expressif Phoney Baloney, un smartphone anthropomorphe du court-métrage viral « Like and Follow » de Brent Forrest, désormais disponible publiquement.",
+      "summary": "Accès au rig Maya du personnage expressif « Phoney Baloney » (smartphone) du court-métrage viral « Like and Follow » de Brent Forrest. Un outil clé pour les animateurs souhaitant exploiter une rigging technique sophistiquée.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accélérez la production de personnages stylisés en utilisant directement un rig professionnel pré-configuré et optimisé pour l'animation expression faciale et gestuelle.",
+      "workflowImpact": "Permet aux animateurs d'étudier et de réutiliser une rigging technique professionnelle pour créer des personnages objets expressifs avec contrôles avancés.",
       "colorPalette": [
-        "#1A1A2E",
-        "#FF6B6B",
-        "#4ECDC4",
-        "#FFE66D",
-        "#95E1D3"
+        "#1F1F1F",
+        "#FF6B35",
+        "#004E89",
+        "#F7B801",
+        "#A23B72"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
@@ -416,12 +416,12 @@
       "tags": [
         "Maya",
         "Character Rigging",
-        "3D Animation",
-        "Character Design"
+        "Animation",
+        "Phoney Baloney"
       ],
       "styles": [
         "3D Photoréaliste",
-        "Cel Animation"
+        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 1,
@@ -430,25 +430,25 @@
     {
       "id": 15,
       "title": "21 Martyrs: An Inside Look",
-      "summary": "Lesterbanks analyse en profondeur '21 Martyrs', un film d'animation primé aux Oscars, examinant ses qualités narratives et techniques selon Glen Keane. Un regard détaillé sur une œuvre d'animation contemporaine marquante et ambitieuse.",
+      "summary": "Lesterbanks analyse en détail « 21 Martyrs », un film d'animation acclamé et présélectionné aux Oscars, qualifié par Glen Keane de « puissant, déchirant et inspirant ». Un décorticage technique d'une production d'animation haut de gamme.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Découvrir les techniques narratives et esthétiques d'une production Oscar-shortlistée inspire les motion designers sur l'impact émotionnel et la complexité dramatique en animation professionnelle.",
+      "workflowImpact": "Étudier les approches narratives et techniques d'une production Oscar-caliber inspire les motion designers sur la structuration émotionnelle et la maîtrise stylistique d'histoires complexes.",
       "colorPalette": [
-        "#2C1B47",
+        "#2C1810",
         "#8B4513",
-        "#D4AF37",
-        "#E8D5C4",
-        "#3A3A3A"
+        "#D4A574",
+        "#C41E3A",
+        "#1A1A1A"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2025/01/21-martyrs-an-inside-look/",
       "date": "2025-01-04",
       "tags": [
         "animation narrative",
-        "storytelling",
-        "character animation",
-        "Oscar"
+        "compositing avancé",
+        "direction artistique",
+        "production d'auteur"
       ],
       "styles": [
         "2D Frame-by-frame",
@@ -461,29 +461,29 @@
     {
       "id": 16,
       "title": "Blender Animation Contest with $1500 in Cash Prizes",
-      "summary": "RenderJuice organise un concours d'animation Blender avec 1500$ de prix, centré sur le thème « Speed ». Les participants doivent créer une animation de 5-30 secondes utilisant Blender comme outil principal.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Une opportunité de showcase pour motion designers utilisant Blender, avec incitations financières et visibilité communautaire pour affiner sa pratique de l'animation courte.",
+      "summary": "RenderJuice organise un concours d'animation Blender avec 1500$ de prix, centré sur le thème de la vitesse avec des animations de 5-30 secondes. Les participants doivent utiliser Blender comme outil principal et interpréter librement le sujet.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Opportunité de showcaser son travail Blender auprès d'une communauté professionnelle et de remporter des récompenses financières tout en explorant la créativité autour d'un thème spécifique.",
       "colorPalette": [
         "#FF6B35",
         "#004E89",
-        "#F7FFF7",
-        "#FFB627",
-        "#2E8B57"
+        "#F77F00",
+        "#06A77D",
+        "#FFFFFF"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/10/12/blender-animation-contest-with-1500-in-cash-prizes/",
       "date": "2026-10-12",
       "tags": [
         "Blender",
-        "animation contest",
-        "procedural animation",
-        "simulation"
+        "Animation Contest",
+        "Motion Design",
+        "3D Animation"
       ],
       "styles": [
         "3D Photoréaliste",
-        "Kinetic Typography"
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 1,
@@ -492,40 +492,40 @@
     {
       "id": 17,
       "title": "All Loop Tools now native in Blender 5.3",
-      "summary": "Les Loop Tools sont désormais intégrés nativement à Blender 5.3 beta, offrant des fonctionnalités de modélisation avancées directement dans le cœur du logiciel. Cette intégration élimine le besoin d'add-ons externes pour les workflows de modélisation 3D.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Les motion designers et 3D artists gagnent du temps en accédant aux outils de boucle avancés sans dépendre d'extensions tierces, simplifiant la pipeline de modélisation et de setup.",
+      "summary": "Les Loop Tools sont désormais intégrés nativement dans Blender 5.3 beta, remplaçant le complément populaire avec de nouvelles fonctionnalités optimisées. Cette intégration améliore l'accessibilité et les performances pour les modélisateurs 3D.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Supprime la dépendance à l'add-on externe et offre une intégration directe pour accélérer les workflows de modélisation, gain de fiabilité et de stabilité.",
       "colorPalette": [
-        "#F57C00",
-        "#1E88E5",
-        "#43A047",
-        "#8E24AA",
-        "#FDD835"
+        "#2E86AB",
+        "#A23B72",
+        "#F18F01",
+        "#C73E1D",
+        "#6A994E"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/10/12/all-loop-tools-now-native-in-blender-5-3/",
       "date": "2026-10-12",
       "tags": [
-        "Blender",
+        "Blender 5.3",
         "Loop Tools",
-        "modélisation 3D",
-        "topologie"
+        "Modélisation 3D",
+        "Native Features"
       ],
       "styles": [
         "3D Photoréaliste"
       ],
-      "changelog": false,
+      "changelog": true,
       "thumb": 0,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
       "id": 18,
       "title": "Creating A Mech Girl Character – Part 2",
-      "summary": "Deuxième partie du tutoriel de Daniel Orji sur la création d'une fille mecha, focalisé sur le blocking des vêtements et accessoires en Blender. Un guide pratique pour maîtriser la modélisation de personnages complexes.",
+      "summary": "Deuxième partie du tutoriel de Daniel Orji sur la création d'une fille mecha en Blender, couvrant le blocage des vêtements et accessoires. Ce guide détaille les techniques de modélisation pour construire des éléments complexes de design de personnage.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accélère le processus de création de personnages en fournissant des techniques éprouvées de blocking et d'itération rapide pour vêtements et accessoires.",
+      "workflowImpact": "Accélère le processus de création de personnages complexes en fournissant une méthodologie éprouvée pour structurer les vêtements et accessoires avant le détail final.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
@@ -539,11 +539,12 @@
       "tags": [
         "Blender",
         "Character Design",
-        "3D Modeling",
+        "Modeling",
         "Mecha"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 5,
@@ -552,16 +553,16 @@
     {
       "id": 19,
       "title": "Low Poly Treasure Chest",
-      "summary": "Tutoriel Blender en trois parties pour créer une scène de coffre au trésor stylisée en low poly, destiné aux débutants. Ryan King guide les utilisateurs à travers les techniques essentielles de modélisation et de rendu.",
+      "summary": "Tutoriel Blender en trois parties pour créer une scène de coffre au trésor stylisé en low poly, idéal pour les débutants souhaitant maîtriser la modélisation géométrique simplifiée.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers débutants de maîtriser les fondamentaux de la modélisation low poly dans Blender, applicable à des projets d'illustration 3D et d'animation stylisée.",
+      "workflowImpact": "Permet aux motion designers de produire rapidement des assets 3D légers et stylisés, parfaits pour les animations web et les vidéos d'illustration sans surcharge computationnelle.",
       "colorPalette": [
         "#8B4513",
-        "#D2B48C",
+        "#D4A574",
+        "#2C1810",
         "#FFD700",
-        "#2F4F4F",
-        "#A0522D"
+        "#6B5D4F"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/10/10/low-poly-treasure-chest/",
@@ -570,10 +571,11 @@
         "Blender",
         "Low Poly",
         "Modélisation 3D",
-        "Tutorial"
+        "Tutoriel"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 1,
@@ -582,16 +584,16 @@
     {
       "id": 20,
       "title": "CEO – AI-powered lip-sync",
-      "summary": "UNOMi intègre sa technologie de synchronisation labiale IA dans Blender, automatisant la génération d'animation faciale à partir du dialogue. Le plugin supporte 8 langues et réduit considérablement le travail manuel des animateurs.",
+      "summary": "UNOMi intègre la technologie de lip-sync alimentée par IA directement dans Blender, automatisant la synchronisation labiale des personnages pour les animateurs et studios. Supporte 8 langues avec des plans d'expansion future.",
       "category": "AI Animation",
       "categoryId": "ai",
-      "workflowImpact": "Accélère la production d'animation faciale en automatisant la synchronisation labiale, libérant du temps pour affiner d'autres aspects de l'animation de caractères.",
+      "workflowImpact": "Réduit significativement le temps de production en automatisant la création d'animation faciale, libérant les animateurs pour se concentrer sur des tâches créatives plus complexes.",
       "colorPalette": [
-        "#FF6B35",
-        "#004E89",
-        "#F7F7F7",
-        "#1A535C",
-        "#4ECDC4"
+        "#2E86AB",
+        "#A23B72",
+        "#F18F01",
+        "#C73E1D",
+        "#6A994E"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/10/09/ceo-ai-powered-lip-sync/",
@@ -600,11 +602,10 @@
         "Blender",
         "AI Lip-sync",
         "Facial Animation",
-        "UNOMi"
+        "Automation"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "Cel Animation"
+        "3D Photoréaliste"
       ],
       "changelog": false,
       "thumb": 3,
@@ -612,26 +613,26 @@
     },
     {
       "id": 21,
-      "title": "Tripo integrates GPT-Image-2.5 Sunburst into its workflow",
-      "summary": "Tripo Studio intègre GPT-Image-2.5 Sunburst pour améliorer la création d'assets 3D à partir d'images de référence. Cette intégration accélère et optimise le workflow de génération 3D assistée par IA.",
-      "category": "AI Animation",
-      "categoryId": "ai",
-      "workflowImpact": "Accélération significative de la création d'assets 3D via une meilleure compréhension IA des images de référence, réduisant le temps de modélisation et d'itération.",
+      "title": "The Gnomon Workshop releases Introduction to ZBrush 2024",
+      "summary": "Gnomon Workshop propose un tutoriel actualisé sur ZBrush 2024 par Madeleine Scott-Spencer, couvrant les fondamentaux de la sculpture numérique. Ce cours offre une introduction complète aux nouvelles fonctionnalités et workflows du logiciel.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Permet aux motion designers d'intégrer la sculpture numérique avancée dans leurs pipelines 3D et de maîtriser rapidement les nouveautés de ZBrush 2024 pour des créations de caractères et assets plus détaillées.",
       "colorPalette": [
-        "#1E3A8A",
-        "#3B82F6",
-        "#60A5FA",
-        "#DDD6FE",
-        "#E0E7FF"
+        "#2C3E50",
+        "#E74C3C",
+        "#3498DB",
+        "#F39C12",
+        "#95A5A6"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/10/tripo-integrates-gpt-image-2-5-sunburst-into-its-image-to-3d-workflow/",
-      "date": "2026-10-16",
+      "link": "https://www.cgchannel.com/2024/09/the-gnomon-workshop-releases-introduction-to-zbrush-2024/",
+      "date": "2024-09-29",
       "tags": [
-        "Tripo Studio",
-        "GPT-Image-2.5",
-        "3D Asset Generation",
-        "AI Model"
+        "ZBrush 2024",
+        "Digital Sculpting",
+        "3D Character Design",
+        "Gnomon Workshop"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -642,90 +643,91 @@
     },
     {
       "id": 22,
-      "title": "Maxon releases Cinema 4D 2027.0",
-      "summary": "Maxon déploie Cinema 4D 2027.0 avec un nouveau système de diffusion d'objets et des mises à jour pour les simulations de liquides. Cette version enrichit significativement les capacités de création 3D et motion graphics.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Accélère la création de scènes complexes grâce au système de diffusion optimisé et améliore le réalisme des simulations fluides, réduisant les itérations de rendu.",
+      "title": "Free Nuke plugin pScatter ‘breaks up your perfect CG renders’",
+      "summary": "pScatter est un plugin Nuke gratuit qui utilise les données de position pour ajouter des imperfections réalistes aux rendus CG provenant de Blender, Houdini et Maya. Cet outil améliore le rendu en cassant la perfection artificielle des images de synthèse.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Gagner du temps en post-production en automatisant l'ajout de détails et d'imperfections directement dans Nuke, sans retourner en 3D.",
       "colorPalette": [
-        "#2E5C8A",
-        "#FF6B35",
-        "#00D4FF",
-        "#1A1A2E",
-        "#FFB703"
+        "#1a1a1a",
+        "#4a9eff",
+        "#ff6b35",
+        "#2d2d2d",
+        "#ffd700"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/10/maxon-releases-cinema-4d-2027-0/",
-      "date": "2026-10-15",
+      "link": "https://www.cgchannel.com/2024/09/free-nuke-plugin-pscatter-breaks-up-your-perfect-cg-renders/",
+      "date": "2024-09-29",
       "tags": [
-        "Cinema 4D",
-        "Object Scattering",
-        "Liquid Simulation",
-        "3D Animation"
+        "Nuke",
+        "pScatter",
+        "imperfections",
+        "post-production"
+      ],
+      "styles": [
+        "3D Photoréaliste"
+      ],
+      "changelog": true,
+      "thumb": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 23,
+      "title": "Free tool: 3DGS Render renders 3D Gaussian Splats inside Blender",
+      "summary": "Un nouvel add-on gratuit permet de manipuler et renderer des 3D Gaussian Splats directement dans Blender, sans avoir besoin d'outils externes. Développé par le créateur de Kiri Engine, cet outil simplifie l'intégration de scans 3DGS dans les workflows Blender.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Élimine les étapes de conversion et d'export-import en intégrant nativement le rendu de 3DGS dans Blender, accélérant le pipeline de production pour les projets utilisant des scans photogrammétriques.",
+      "colorPalette": [
+        "#1F77B4",
+        "#FF7F0E",
+        "#2CA02C",
+        "#D62728",
+        "#9467BD"
+      ],
+      "source": "CG Channel",
+      "link": "https://www.cgchannel.com/2024/09/free-tool-3dgs-render-renders-3d-gaussian-splats-inside-blender/",
+      "date": "2024-09-28",
+      "tags": [
+        "Blender",
+        "3D Gaussian Splats",
+        "Add-on gratuit",
+        "Photogrammetry"
       ],
       "styles": [
         "3D Photoréaliste",
         "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 4,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 23,
-      "title": "Maxon releases ZBrush 2027.0 and ZBrush for iPad 2027.0",
-      "summary": "Maxon publie ZBrush 2027.0 avec un nouvel UV Editor sur desktop et des outils de projection painting sur iPad, enrichissant les capacités de sculpture numérique. Cette mise à jour unifie les workflows entre plateformes et simplifie la gestion UV directement dans le pipeline créatif.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "L'intégration d'un UV Editor natif et des outils de projection painting cross-platform accélère le pipeline de sculpture à texturing, réduisant les exports/imports entre applications.",
-      "colorPalette": [
-        "#2D4A5E",
-        "#E8A537",
-        "#F5F5F5",
-        "#8B6F47",
-        "#3D5C7A"
-      ],
-      "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/10/maxon-releases-zbrush-2027-0-and-zbrush-for-ipad-2027-0/",
-      "date": "2026-10-15",
-      "tags": [
-        "ZBrush",
-        "UV Mapping",
-        "Digital Sculpting",
-        "Cross-platform"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": true,
-      "thumb": 0,
+      "thumb": 2,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
       "id": 24,
-      "title": "Foundry releases Mari 8.0",
-      "summary": "Mari 8.0 introduit les nodes Tri-Planar Tiled et Hex Tile pour le painting de textures 3D, avec support des comparaisons A/B pour optimiser le workflow de texturing.",
+      "title": "Unity previews its roadmap for Unity 6.1 and beyond",
+      "summary": "Unity dévoile sa feuille de route pour Unity 6.1 et au-delà, avec des mises à jour importantes en 2025 concernant le shading, le rendu, l'animation et la construction de mondes. Ces améliorations visent à renforcer les capacités de création 3D et d'animation au sein de l'engine.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Les nouveaux nodes de tiling simplifient la création de textures procédurales complexes et la comparaison A/B accélère l'itération des matériaux en temps réel.",
+      "workflowImpact": "Les nouvelles fonctionnalités de shading et rendu permettront aux motion designers d'accélérer la production d'assets 3D complexes et de bénéficier d'outils d'animation plus avancés directement dans Unity.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#ECF0F1",
-        "#3498DB",
-        "#95A5A6"
+        "#1F1F1F",
+        "#00A4EF",
+        "#A4D4FF",
+        "#FFB81C",
+        "#E8E8E8"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/10/foundry-releases-mari-8-0/",
-      "date": "2026-10-15",
+      "link": "https://www.cgchannel.com/2024/09/unity-previews-its-roadmap-for-unity-6-1-and-beyond/",
+      "date": "2024-09-26",
       "tags": [
-        "Mari",
-        "texture painting",
-        "3D mapping",
-        "procedural textures"
+        "Unity",
+        "3D Rendering",
+        "Animation Tools",
+        "Shading"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 3,
@@ -733,33 +735,32 @@
     },
     {
       "id": 25,
-      "title": "Watch VineFX’s VFX breakdown for Pompeii: Out of Time",
-      "summary": "VineFX révèle son processus de création des effets visuels pour le film de National Geographic « Pompeii: Out of Time », incluant la reconstruction numéraire de la ville antique et la simulation de l'éruption volcanique catastrophique.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Découvrir les techniques de simulation volumétrique et de modélisation environnementale appliquées à des phénomènes naturels complexes enrichit l'approche créative pour des projets d'ampleur comparable.",
+      "title": "iToo Software releases Forest Pack 9.0 for 3ds Max",
+      "summary": "iToo Software lance Forest Pack 9.0 pour 3ds Max avec le nouvel add-on ForestIvy permettant de générer automatiquement du lierre 3D et des plantes grimpantes. Cette mise à jour majeure enrichit les capacités de scattering et de création botanique du plugin populaire.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Accélère la création d'environnements végétalisés complexes en automatisant la génération et le positionnement de plantes grimpantes, réduisant ainsi le temps de modélisation et les tâches manuelles répétitives.",
       "colorPalette": [
-        "#8B4513",
-        "#D4A574",
-        "#FF6B35",
-        "#4A4A4A",
-        "#FFD700"
+        "#2D5016",
+        "#8BC34A",
+        "#4CAF50",
+        "#C8E6C9",
+        "#558B2F"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/10/watch-vinefxs-explosive-vfx-breakdown-for-pompeii-out-of-time/",
-      "date": "2026-10-14",
+      "link": "https://www.cgchannel.com/2024/09/itoo-software-releases-forest-pack-9-for-3ds-max/",
+      "date": "2024-09-26",
       "tags": [
-        "simulation volcanique",
-        "reconstruction 3D",
-        "VFX breakdown",
-        "effets naturels"
+        "Forest Pack",
+        "3ds Max",
+        "scattering",
+        "vegetation"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
+        "3D Photoréaliste"
       ],
-      "changelog": false,
-      "thumb": 5,
+      "changelog": true,
+      "thumb": 2,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     }
   ]
