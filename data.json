@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-11-10T16:06:24.595492+00:00",
+  "generatedAt": "2026-11-11T15:52:36.779984+00:00",
   "count": 25,
   "items": [
     {
       "id": 1,
       "title": "Lofsöng and the Language That Outlives Us",
-      "summary": "Alessandro Durando d'Unrelated Studio présente Lofsöng, un jeu sans paroles combinant monuments brutalistes et pierres chantantes, conçu pour communiquer à travers les âges. Une réflexion poétique sur le langage universel via le motion design et l'expérience interactive.",
+      "summary": "Unrelated Studio explore un jeu sans paroles conçu pour communiquer à travers le temps via des monuments brutalistes et des pierres chantantes. Alessandro Durando discute de cette approche narrative wordless présentée à Tribeca Games.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspire l'intégration de symbolisme visuel et sonore dans les projets d'animation, montrant comment le motion design peut transcender les barrières linguistiques pour raconter des histoires intemporelles.",
+      "workflowImpact": "Inspire une approche narrative minimaliste et symbolique, montrant comment le motion design peut créer du sens sans dialogue pour des expériences immersives et intemporelles.",
       "colorPalette": [
         "#4A4A4A",
-        "#8B8B8B",
-        "#D4AF37",
-        "#2C3E50",
-        "#C0C0C0"
+        "#8B8680",
+        "#D4C5B9",
+        "#2C2C2C",
+        "#6B6B6B"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/2026/11/10/lofsong-and-the-language-that-outlives-us/",
       "date": "2026-11-10",
       "tags": [
+        "narrative design",
         "game design",
-        "brutalisme visuel",
-        "sound design",
-        "narrative animation"
+        "brutalism",
+        "wordless storytelling"
       ],
       "styles": [
         "Mixed Media",
-        "Kinetic Typography"
+        "3D Photoréaliste"
       ],
       "changelog": false,
       "thumb": 2,
@@ -36,28 +36,29 @@
     {
       "id": 2,
       "title": "Haymaker VFX Acquires SWISS",
-      "summary": "Haymaker VFX acquiert le studio suédois SWISS pour renforcer sa présence en Europe du Nord et consolider ses capacités en VFX haute-gamme. Cette expansion stratégique marque une nouvelle phase de croissance internationale pour le groupe.",
+      "summary": "Haymaker VFX acquiert le studio suédois SWISS, renforçant sa présence internationale et ses capacités en VFX haut de gamme à Stockholm. Cette fusion stratégique consolide deux acteurs établis du secteur des effets visuels.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "L'intégration de SWISS élargit l'accès des motion designers à des ressources VFX de haut niveau et à une expertise créative reconnue mondialement, facilitant les collaborations transnationales et l'accès à des talents spécialisés.",
+      "workflowImpact": "Accès à des ressources VFX de haut niveau et à une équipe créative reconnue mondialement, élargissant les capacités de production pour les projets complexes en 3D et effets visuels.",
       "colorPalette": [
-        "#1a1a2e",
-        "#16213e",
-        "#0f3460",
-        "#e94560",
-        "#f4f4f4"
+        "#1A1A2E",
+        "#0F3460",
+        "#16213E",
+        "#E94560",
+        "#F7F7FF"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/haymaker-vfx-acquires-swiss/",
       "date": "2026-11-10",
       "tags": [
-        "VFX Studio",
-        "Acquisition M&A",
-        "Production Suède",
-        "Motion Design"
+        "Studio VFX",
+        "Production 3D",
+        "Scandinavie",
+        "Acquisition studio"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 1,
@@ -66,25 +67,25 @@
     {
       "id": 3,
       "title": "ServiceNow AI Platform | NotReal",
-      "summary": "ServiceNow présente sa plateforme IA intégrée, offrant des outils d'automatisation et d'intelligence artificielle pour optimiser les workflows d'entreprise. Cette solution impacte directement la façon dont les motion designers peuvent documenter et visualiser des processus métier complexes.",
+      "summary": "ServiceNow lance une plateforme IA intégrée pour automatiser les flux de travail entreprise. Cette technologie impacte les motion designers travaillant sur du contenu corporate et des interfaces dynamiques.",
       "category": "AI Animation",
       "categoryId": "ai",
-      "workflowImpact": "Permet aux motion designers de générer et d'automatiser des séquences d'illustration de processus métier, réduisant le temps de production pour les explainer videos et animations de workflows.",
+      "workflowImpact": "Automatisation des animations UI et des transitions d'interface dans les démos d'entreprise, réduisant le temps de production des vidéos de produits technologiques.",
       "colorPalette": [
-        "#003D5C",
-        "#00A4EF",
-        "#1F1F1F",
+        "#1E5A96",
+        "#00B4D8",
+        "#90E0EF",
         "#E8F4F8",
-        "#FFB81C"
+        "#023E8A"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/servicenow-ai-platform-notreal/",
       "date": "2026-11-10",
       "tags": [
-        "AI Automation",
-        "Enterprise Motion",
-        "Workflow Visualization",
-        "Explainer Video"
+        "AI Platform",
+        "Motion UI",
+        "Enterprise Animation",
+        "Automation"
       ],
       "styles": [
         "UI/UX Motion"
@@ -96,29 +97,29 @@
     {
       "id": 4,
       "title": "Logitech G3 Power Up Campaign | Laundry",
-      "summary": "Campagne motion design Logitech G3 Power Up mettant en scène une approche créative et ludique autour du gaming et de la performance. Production haut de gamme combinant 3D et effets visuels pour une marque grand public.",
+      "summary": "Campagne motion design pour Logitech G3 mettant en scène une narration créative autour d'un produit gaming. Travail de motion graphics sophistiqué combinant cinématographie et animation commerciale.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Référence créative pour l'intégration de produits gaming dans des narratifs visuels dynamiques avec transitions 3D et effets particulaires maîtrisés.",
+      "workflowImpact": "Référence visuelle pour structurer une campagne publicitaire intégrant storytelling, transitions fluides et branding cohérent dans un contexte produit tech.",
       "colorPalette": [
-        "#1a1a2e",
-        "#0f3460",
-        "#16c784",
-        "#ffd700",
-        "#ff6b35"
+        "#1A1A2E",
+        "#00D9FF",
+        "#FF006E",
+        "#FFFFFF",
+        "#0F3460"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/logitech-g3-power-up-campaign-laundry/",
       "date": "2026-11-09",
       "tags": [
-        "Motion Graphics",
-        "3D Product Integration",
-        "VFX Particulaires",
-        "Color Grading"
+        "motion branding",
+        "campagne publicitaire",
+        "After Effects",
+        "cinematography"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
+        "Mixed Media",
+        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 3,
@@ -127,25 +128,25 @@
     {
       "id": 5,
       "title": "Art Director Flora MacLeod Joins Electric Theatre Collective",
-      "summary": "Flora MacLeod intègre l'équipe 3D d'Electric Theatre Collective, apportant une expertise en imagerie CG tactile et en identités visuelles pour des diffuseurs majeurs. Son expérience couvre les projets immersifs et les installations comme Outernet London.",
+      "summary": "Flora MacLeod rejoint l'équipe 3D d'Electric Theatre Collective, apportant son expertise en imagerie CG tactile et en identités visuelles pour Channel 4. Son expérience inclut des projets immersifs pour Outernet London.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accès aux innovations en CG tactile et design immersif d'ETC, ouvrant des perspectives nouvelles pour des projets de branding et installations interactives hautement complexes.",
+      "workflowImpact": "L'arrivée d'un art director spécialisé en CG tactile et identités visuelles enrichit les capacités créatives pour produire des designs 3D plus sophistiqués et des idents de haute qualité.",
       "colorPalette": [
-        "#2A2A2A",
-        "#E8E8E8",
-        "#1F77B4",
-        "#FF6B35",
-        "#00D9FF"
+        "#2C3E50",
+        "#E74C3C",
+        "#ECF0F1",
+        "#3498DB",
+        "#16A085"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/flora-macleod-electric-theatre-collective/",
       "date": "2026-11-09",
       "tags": [
-        "3D CG",
-        "Motion Design",
-        "Immersive",
-        "Channel 4"
+        "3D Design",
+        "CG Imagery",
+        "Idents Channel 4",
+        "Immersive Design"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -157,72 +158,42 @@
     },
     {
       "id": 6,
-      "title": "Trizz Reframes Complexity for Google Security",
-      "summary": "Trizz et Across the Pond transforment la complexité des systèmes de cybersécurité Google en une expérience visuelle ludique et abstraite. Un projet de motion design qui vulgarise des concepts techniques via l'abstraction colorée et dynamique.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Démontre comment structurer une narration visuelle pour expliquer des concepts complexes et abstraits, utile pour les projets B2B et institutionnels demandant clarté et engagement.",
+      "title": "Electric Theatre Collective’s Ambitious Amphibian Adventure",
+      "summary": "Electric Theatre Collective collabore avec les réalisateurs Iconoclast pour transformer un axolotl en héros Netflix dans une campagne créative pour Mother. Ce projet VFX combine animation character et storytelling narratif pour une campagne Netflix originale.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Démontre l'intégration efficace de VFX photorealistic avec du character animation pour des campagnes commerciales, optimisant la pipeline de production complexe multidisciplinaire.",
       "colorPalette": [
-        "#FF6B6B",
+        "#FF6B9D",
         "#4ECDC4",
-        "#FFE66D",
-        "#95E1D3",
-        "#C44569"
+        "#44A08D",
+        "#1A535C",
+        "#F7DC6F"
       ],
       "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/trizz-reframes-complexity-for-google-security/",
-      "date": "2026-11-10",
+      "link": "https://www.stashmedia.tv/electric-theatre-collectives-ambitious-amphibian-adventure/",
+      "date": "2026-11-11",
       "tags": [
-        "motion design",
-        "abstraction géométrique",
-        "cybersécurité visuelle",
-        "3D CGI"
+        "Character Animation",
+        "VFX Compositing",
+        "Campaign Production",
+        "3D Modeling"
       ],
       "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": false,
-      "thumb": 2,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Google-Security-brand-film-by-Trizz-and-Across-the-Pond-STASH-MAGAZINE2-1920x1080.jpg"
-    },
-    {
-      "id": 7,
-      "title": "David Carson Time: Destination NYC Swatch Watch Launch Film by João Vaz Oliveira",
-      "summary": "João Vaz Oliveira collabore avec le designer emblématique David Carson pour créer un film de lancement d'une montre Swatch édition limitée, mêlant esthétique pop-art et motion design contemporain. Ce projet showcase un travail graphique vibrant et collectible autour d'un accessoire iconique.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Inspirant pour les motion designers travaillant sur des campagnes de produits haut de gamme, illustrant comment combiner design graphique reconnaissable avec animation narrative pour renforcer l'impact marketing et collectibilité.",
-      "colorPalette": [
-        "#FF1493",
-        "#FFD700",
-        "#00CED1",
-        "#FF6347",
-        "#4B0082"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/david-carson-time-destination-nyc-swatch-watch-launch-film-by-joao-vaz-oliveira/",
-      "date": "2026-11-10",
-      "tags": [
-        "David Carson",
-        "Pop-Art",
-        "Motion Design",
-        "Swatch"
-      ],
-      "styles": [
-        "Kinetic Typography",
+        "3D Photoréaliste",
         "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 5,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Carson-Time-Destination-NYC-Swatch-Watch-Launch-Film-by-Joao-Vaz-Oliveira-STASH-MAGAZINE8-1920x1080.jpg"
+      "thumb": 3,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/NETFLIX-ad-with-axolotl-by-Electric-Theatre-Collective-STASH-MAGAZINE3-1920x1080.jpg"
     },
     {
-      "id": 8,
-      "title": "Escafandra Studio Opens 2026 Web Unleashed Event With “Less Perfect” Title Sequence",
-      "summary": "Escafandra Studio crée une séquence de titres pour l'événement Web Unleashed 2026 de FITC à Toronto, explorant une esthétique intentionnellement imparfaite. Le studio poursuit sa collaboration avec FITC après avoir réalisé les titres de l'événement phare du printemps.",
+      "id": 7,
+      "title": "We Love Pitching: Chronicles of a Necessary Mess – Part 24",
+      "summary": "Claus Cibils de Nerdo conclut sa série de 24 éditoriaux sur les défis du processus de pitch créatif, nourrie par deux décennies d'expérience en motion design et animation. Une réflexion passionnée sur les enjeux professionnels de l'industrie.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspirer les motion designers à explorer des approches conceptuelles originales et des esthétiques décalées pour les séquences d'ouverture, en valorisant l'imperfection comme choix créatif stratégique.",
+      "workflowImpact": "Offre des insights professionnels et stratégiques pour améliorer l'approche des pitches créatifs et naviguer les défis commerciaux du secteur motion design.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
@@ -231,96 +202,125 @@
         "#95A5A6"
       ],
       "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/escafandra-studio-opens-web-unleashed-2026/",
-      "date": "2026-11-09",
+      "link": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-24/",
+      "date": "2026-11-10",
       "tags": [
-        "title sequence",
-        "FITC",
-        "kinetic typography",
-        "motion branding"
+        "pitch créatif",
+        "motion design",
+        "industrie créative"
       ],
       "styles": [
-        "Kinetic Typography",
+        "Mixed Media"
+      ],
+      "changelog": false,
+      "thumb": 1,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/We-Love-Pitching-Part-24-Guest-editorial-by-Claus-Cibilis-_-STASH-MAGAZINE-1446x1080.jpg"
+    },
+    {
+      "id": 8,
+      "title": "World War Seven Signs Stop-Motion and Animation Studio Starburns Industries",
+      "summary": "World War Seven s'associe à Starburns Industries pour renforcer ses capacités en stop-motion et animation. Ce partenariat élargit l'offre de services créatifs de l'agence.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Les motion designers accèdent à une expertise reconnue en stop-motion, ouvrant de nouvelles possibilités créatives pour des projets hybrides 2D/3D.",
+      "colorPalette": [
+        "#2C3E50",
+        "#E74C3C",
+        "#ECF0F1",
+        "#8B4513",
+        "#FFD700"
+      ],
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/world-war-seven-signs-stop-motion-and-animation-studio-starburns-industries/",
+      "date": "2026-11-10",
+      "tags": [
+        "stop-motion",
+        "Starburns Industries",
+        "production animation",
+        "partenariats créatifs"
+      ],
+      "styles": [
+        "Cel Animation",
         "Mixed Media"
       ],
       "changelog": false,
       "thumb": 2,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Web-Unleashed-2026-conference-opening-titles-by-Escafandra-Studio-STASH-MAGAZINE3.jpg"
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
       "id": 9,
-      "title": "Take a Break From Festive Feels and Get Lost in Renaud Hallée’s New Short Film “PLUS”",
-      "summary": "Renaud Hallée, réalisateur montréalais, dévoile son court-métrage personnel « PLUS », une expérience visuelle précise dirigée par la musique qui contraste avec les publicités émotionnelles de Noël. Un exercice de motion design minimaliste et rhythmé.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Étude d'une approche épurée et musicale pour structurer un projet d'animation, démontrant comment la synchronisation audio-visuelle crée un impact émotionnel sans narratif complexe.",
+      "title": "Beyond the Hype: Envato Releases 2026 The State of AI in Creative Work Report",
+      "summary": "Envato publie son rapport annuel 2026 sur l'état de l'IA dans le travail créatif, analysant l'adoption et l'impact des outils IA pour les motion designers et créatifs. Ce rapport offre des insights actualisés sur les tendances et défis de l'intégration IA dans les workflows créatifs.",
+      "category": "AI Animation",
+      "categoryId": "ai",
+      "workflowImpact": "Permet aux motion designers de comprendre les tendances IA et d'optimiser leurs workflows avec les outils IA-powered proposés par Envato, facilitant une adoption stratégique des technologies émergentes.",
       "colorPalette": [
-        "#1A1A1A",
-        "#E8D4C4",
-        "#2D5F7F",
-        "#D97706",
-        "#F5F1E8"
+        "#2E5090",
+        "#FF6B35",
+        "#00D9FF",
+        "#F7F7F7",
+        "#1A1A1A"
       ],
       "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/take-a-break-from-festive-feels-and-get-lost-in-renaud-hallees-new-short-film-plus/",
-      "date": "2026-11-09",
+      "link": "https://www.stashmedia.tv/beyond-the-hype-envato-releases-2026-the-state-of-ai-in-creative-work-report/",
+      "date": "2026-11-10",
       "tags": [
-        "Motion Design",
-        "Music-Driven Animation",
-        "Kinetic Composition"
+        "IA créative",
+        "Envato",
+        "tendances motion design",
+        "outils IA"
       ],
       "styles": [
-        "2D Frame-by-frame",
-        "Kinetic Typography"
+        "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 0,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Renaud-Hallee-Short-Film-22PLUS22-STASH-MAGAZINE6-1920x1080.jpg"
+      "thumb": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
       "id": 10,
-      "title": "Framestore’s Reindeer Takes Flight for The National Lottery",
-      "summary": "Framestore crée une créature CG de renne pour une campagne de la National Lottery UK, mêlant animation 3D photoréaliste et direction artistique minutieuse. Le projet démontre l'expertise de l'équipe VFX londonienne dans la capture d'émotions subtiles sur des créatures numériques.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers de s'inspirer des techniques de character animation avancées et de la direction créative pour humaniser des créatures CG dans des campagnes commerciales haut de gamme.",
+      "title": "Trizz Reframes Complexity for Google Security",
+      "summary": "Trizz transforme la complexité des systèmes de cybersécurité de Google en une expérience visuelle ludique et abstraite, combinant motion design et direction artistique pour sublimer un sujet technique.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Démontre comment structurer une narration visuelle abstraite pour expliquer des concepts techniques complexes, applicable à tout projet B2B nécessitant clarté et impact émotionnel.",
       "colorPalette": [
-        "#8B4513",
-        "#D2B48C",
-        "#2C3E50",
-        "#E8D5C4",
-        "#6B4423"
+        "#1F2937",
+        "#00D4FF",
+        "#7C3AED",
+        "#10B981",
+        "#FFB84D"
       ],
       "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/framestore-reindeer-take-flight-for-the-national-lottery/",
-      "date": "2026-11-06",
+      "link": "https://www.stashmedia.tv/trizz-reframes-complexity-for-google-security/",
+      "date": "2026-11-10",
       "tags": [
-        "Character Animation",
-        "CG Creature",
-        "Framestore",
-        "Photoréalisme"
+        "Motion Design",
+        "CG Animation",
+        "Abstraction Visuelle",
+        "Storytelling Technique"
       ],
       "styles": [
         "3D Photoréaliste",
         "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 3,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/National-Lottery-Reindeer-holiday-ad-2026-by-Framestore-STASH-MAGAZINE5-1920x1036.jpg"
+      "thumb": 2,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Google-Security-brand-film-by-Trizz-and-Across-the-Pond-STASH-MAGAZINE2-1920x1080.jpg"
     },
     {
       "id": 11,
       "title": "Ruxin Liang Shares a Workflow Tip for Keeping Ornatrix Grooms Feeling Fast",
-      "summary": "Ruxin Liang partage une technique pour optimiser les performances des groomings Ornatrix en Maya en construisant l'ensemble de la pile simultanément. Cette astuce permet de maintenir un viewport réactif lors de travaux complexes de simulation capillaire.",
+      "summary": "Ruxin Liang partage une astuce workflow pour optimiser les performances lors du grooming avec Ornatrix en Maya. La technique consiste à construire l'ensemble de la stack Ornatrix d'une seule traite pour maintenir une fluidité viewport.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Accélérer le pipeline de grooming en Maya en conservant une fluidité du viewport, réduisant les temps d'attente et améliorant la réactivité créative.",
+      "workflowImpact": "Accélère significativement le workflow de grooming en optimisant la gestion de la viewport, réduisant les ralentissements courants lors de la manipulation de grooms complexes dans Ornatrix.",
       "colorPalette": [
-        "#2E3A47",
-        "#FF6B35",
-        "#004E89",
-        "#F7B801",
-        "#C1121F"
+        "#1a1a2e",
+        "#16213e",
+        "#0f3460",
+        "#533483",
+        "#e94560"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
@@ -328,7 +328,7 @@
       "tags": [
         "Ornatrix",
         "Maya",
-        "Grooming Hair",
+        "Grooming",
         "Optimization"
       ],
       "styles": [
@@ -341,27 +341,28 @@
     {
       "id": 12,
       "title": "Creator Spotlight: Ilija Brunck",
-      "summary": "Ilija Brunck est un créateur dont les films allient simplicité visuelle et précision technique conceptuelle. Son approche minimaliste cache une maîtrise sophistiquée du Motion Design.",
+      "summary": "Portrait d'Ilija Brunck, motion designer dont les films allient simplicité apparente et précision technique/conceptuelle. Une exploration du craft et de l'approche créative d'un artiste reconnu.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Étudier l'approche de Brunck aide les motion designers à développer une philosophie créative basée sur la clarté narrative et l'exécution technique raffinée, plutôt que la complexité visuelle.",
+      "workflowImpact": "S'inspirer des principes de design minimaliste et de précision conceptuelle pour élever la qualité technique et narrative de ses propres projets.",
       "colorPalette": [
-        "#1A1A1A",
-        "#E8E8E8",
-        "#2C5AA0",
-        "#F0A500",
-        "#7B68EE"
+        "#2C3E50",
+        "#ECF0F1",
+        "#3498DB",
+        "#95A5A6",
+        "#1A1A1A"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
       "date": "2026-06-10",
       "tags": [
-        "minimalisme",
-        "conceptual design",
-        "narrative motion",
-        "technique precision"
+        "motion design",
+        "minimalism",
+        "conceptual storytelling",
+        "craft"
       ],
       "styles": [
+        "2D Frame-by-frame",
         "Kinetic Typography"
       ],
       "changelog": false,
@@ -371,25 +372,25 @@
     {
       "id": 13,
       "title": "GrowFrame Offers an Inspirational Way to Visualize Passion Projects",
-      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos pour suivre la progression des projets créatifs. Conçu pour les animateurs, cinéastes et artistes, il offre une visualisation inspirante des projets de passion.",
+      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) pour aider les animateurs, cinéastes et artistes à suivre la progression de leurs projets de passion. Cet outil offre une approche inspirante et visuelle de la gestion de projet.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Permet aux motion designers de tracker visuellement l'avancement de leurs projets créatifs, améliorant la gestion de projet et la motivation d'équipe.",
+      "workflowImpact": "Permet aux motion designers de visualiser et suivre l'évolution de leurs projets créatifs de manière motivante, améliorant l'organisation et la gestion du temps de production.",
       "colorPalette": [
         "#2E7D32",
+        "#4CAF50",
         "#81C784",
-        "#C8E6C9",
-        "#FFF9C4",
-        "#FFB74D"
+        "#FFD700",
+        "#FFFFFF"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
       "date": "2026-06-10",
       "tags": [
-        "mGear",
+        "GrowFrame",
         "project management",
-        "Maya",
-        "rigging"
+        "mGear",
+        "workflow organization"
       ],
       "styles": [
         "UI/UX Motion"
@@ -401,25 +402,25 @@
     {
       "id": 14,
       "title": "Get the Character Rig From Brent Forrest’s Like and Follow Short",
-      "summary": "Découvrez le rig Maya du personnage expressif Phoney Baloney, un smartphone animé du court-métrage viral « Like and Follow » de Brent Forrest, désormais disponible. Ce rig complètement articulé permet de créer des animations expressives avec un design original et moderne.",
+      "summary": "Accès au character rig Maya de « Phoney Baloney », le personnage expressif de smartphone du court métrage viral « Like and Follow » de Brent Forrest. Un rig complet prêt à l'emploi pour animation de personnages.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Gagnez du temps en production en utilisant un rig de caractère professionnel et éprouvé, prêt à adapter pour vos propres projets d'animation de smartphones ou objets expressifs.",
+      "workflowImpact": "Gain de temps considérable en utilisant un rig professionnel pré-configuré pour animer des personnages expressifs complexes, éliminant les étapes de setup rigging.",
       "colorPalette": [
-        "#1A1A2E",
-        "#0F3460",
-        "#16C784",
-        "#E94560",
-        "#F4F4F9"
+        "#1E90FF",
+        "#FFD700",
+        "#FF6B6B",
+        "#2E2E2E",
+        "#FFFFFF"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
       "date": "2026-06-10",
       "tags": [
         "Maya",
-        "character rig",
-        "rigging",
-        "character animation"
+        "Character Rig",
+        "Rigging",
+        "Animation"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -431,25 +432,25 @@
     {
       "id": 15,
       "title": "21 Martyrs: An Inside Look",
-      "summary": "Lesterbanks analyse en profondeur \"21 Martyrs\", un film d'animation présélectionné aux Oscars 2024, décrit comme une œuvre puissante et émouvante par le légendaire Glen Keane.",
+      "summary": "Analyse approfondie de '21 Martyrs', film d'animation en lice pour les Oscars, décrit par Glen Keane comme une œuvre puissante et émouvante qui repousse les limites du médium.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Découvrir les techniques narratives et de direction artistique d'un film d'animation de prestige Oscar pour enrichir ses propres approches créatives et storytelling.",
+      "workflowImpact": "Exploration des techniques narratives et esthétiques d'un film d'animation primé, offrant des insights précieux sur la production haut de gamme et les choix artistiques innovants.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#ECF0F1",
+        "#2C1810",
+        "#D4A574",
         "#8B4513",
-        "#1A1A1A"
+        "#F5DEB3",
+        "#4A3728"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2025/01/21-martyrs-an-inside-look/",
       "date": "2025-01-04",
       "tags": [
-        "Animation narrative",
-        "Direction artistique",
-        "Film d'auteur",
-        "Oscars"
+        "animation narrative",
+        "Oscar",
+        "direction artistique",
+        "production"
       ],
       "styles": [
         "2D Frame-by-frame",
@@ -461,26 +462,56 @@
     },
     {
       "id": 16,
+      "title": "This Modifier Is a Hidden Gem for Materials",
+      "summary": "Le Vertex Weight Proximity modifier de Blender permet de mélanger les matériaux entre objets et de contrôler le déplacement selon la proximité, idéal pour les workflows procéduraux. Ce tutoriel de Kenan Proffitt démontre ses applications pratiques pour des effets sophistiqués.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Accélère la création d'effets procéduraux complexes en automatisant le blending de matériaux et les déplacements basés sur la distance, sans dépendre de textures prédéfinies.",
+      "colorPalette": [
+        "#2C3E50",
+        "#E74C3C",
+        "#3498DB",
+        "#27AE60",
+        "#F39C12"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/11/11/this-modifier-is-a-hidden-gem-for-materials/",
+      "date": "2026-11-11",
+      "tags": [
+        "Blender",
+        "Vertex Weight",
+        "Procedural",
+        "Displacement"
+      ],
+      "styles": [
+        "3D Photoréaliste"
+      ],
+      "changelog": false,
+      "thumb": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 17,
       "title": "3D Print Suite: 18 Blender add-ons for 3D printing",
-      "summary": "La 3D Print Suite regroupe 18 add-ons Blender spécialisés dans la préparation et l'optimisation de modèles pour l'impression 3D. Cet ensemble couvre la réparation, la vérification et la préparation complète des assets avant production.",
+      "summary": "Sonneblom Digitaal lance la 3D Print Suite, un bundle de 18 add-ons Blender dédiés à la préparation et optimisation de modèles pour l'impression 3D. Cette suite couvre la réparation, vérification et préparation complète des fichiers avec des outils comme Print Fix, Printability Check et Wall Thickness Checker.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Automatise et centralise tout le pipeline de préparation 3D printing dans Blender, réduisant le temps de vérification et de correction des modèles avant fabrication.",
+      "workflowImpact": "Accélère considérablement le pipeline de préparation pour l'impression 3D en automatisant les vérifications critiques et les corrections de modèles directement dans Blender.",
       "colorPalette": [
-        "#FF6B35",
-        "#004E89",
-        "#F7B801",
-        "#1B998B",
-        "#C2C2C2"
+        "#2E7D32",
+        "#1976D2",
+        "#F57C00",
+        "#C62828",
+        "#455A64"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/10/3d-print-suite-18-blender-add-ons-for-3d-printing/",
       "date": "2026-11-10",
       "tags": [
-        "Blender 4.2",
-        "3D printing",
-        "Add-ons bundle",
-        "Mesh optimization"
+        "Blender",
+        "3D Printing",
+        "Add-ons",
+        "Print Fix"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -490,87 +521,86 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "Phone Cam Controller: a free phone virtual camera for Blender",
-      "summary": "Phone Cam Controller est un add-on gratuit Blender qui transforme un iPhone en caméra virtuelle handheld en temps réel, avec contrôle 6 DOF via le mouvement du téléphone. Une version Android est prévue.",
+      "summary": "Phone Cam Controller est un add-on gratuit Blender qui transforme un iPhone en caméra virtuelle handheld en temps réel, permettant de contrôler la caméra active via les mouvements du téléphone. Une version Android est en développement.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Accélère les prises de vue virtuelles et le scouting caméra en permettant un contrôle intuitif et mobile, réduisant les allers-retours souris-clavier.",
+      "workflowImpact": "Accélère le processus de prévisualisation et de camera tracking en permettant une exploration intuitive de la scène 3D directement depuis un téléphone, sans accessoires externes.",
       "colorPalette": [
         "#1F1F1F",
-        "#00D4FF",
+        "#00A8FF",
         "#FF6B35",
-        "#FFD700",
-        "#E0E0E0"
+        "#F5F5F5",
+        "#2D3436"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/09/phone-cam-controller-a-free-phone-virtual-camera-for-blender/",
       "date": "2026-11-09",
       "tags": [
         "Blender",
-        "Virtual Camera",
-        "Real-time Streaming",
-        "Motion Control"
+        "add-on gratuit",
+        "virtual camera",
+        "real-time streaming"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "UI/UX Motion"
+        "3D Photoréaliste"
       ],
       "changelog": true,
       "thumb": 0,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 18,
+      "id": 19,
       "title": "Koshizu Trees: procedural Japanese garden trees for Blender",
-      "summary": "Koshizu Trees est un add-on procédural Blender spécialisé dans la création d'arbres japonais authentiques, avec 7 présets couvrant 5 espèces (érable, cerisier, camphrier, frêne, ardisia). Le système simule la croissance, la taille et le vieillissement des arbres tels qu'ils sont cultivés dans les jardins traditionnels.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Génère rapidement des arbres japonais détaillés et botaniquement corrects, éliminant les modélisations manuelles longues et garantissant une authentificité esthétique pour les environnements asiatiques et les jardins zen.",
+      "summary": "Koshizu Trees est un add-on procédural Blender spécialisé dans les arbres japonais, proposant 7 présets basés sur des espèces réelles et leurs techniques de culture traditionnelle. Idéal pour créer des jardins asiatiques authentiques avec contrôle complet sur l'âge et la taille des arbres.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Accélère la création de jardins et paysages asiatiques en générant proceduralement des arbres botaniquement corrects, réduisant ainsi le temps de modélisation manuelle et les retouches.",
       "colorPalette": [
         "#2D5016",
         "#8B7355",
-        "#C89968",
-        "#E8D7C3",
-        "#4A7C59"
+        "#D4A574",
+        "#E8F5E9",
+        "#FFB6C1"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/09/koshizu-trees-procedural-japanese-garden-trees-for-blender/",
       "date": "2026-11-09",
       "tags": [
         "Blender",
-        "Procédural",
-        "Modélisation botanique",
-        "Japanese Garden"
+        "Procedural",
+        "Jardin Japonais",
+        "Géométrie Botanique"
       ],
       "styles": [
         "3D Photoréaliste",
         "Mixed Media"
       ],
-      "changelog": true,
+      "changelog": false,
       "thumb": 1,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "Best of Blender Artists: 2026-45",
-      "summary": "Sélection hebdomadaire des meilleures créations partagées sur le forum Blender Artists, mettant en avant les travaux les plus remarquables de la communauté 3D.",
+      "summary": "Une sélection hebdomadaire des meilleures créations partagées par la communauté Blender Artists, mettant en avant les travaux les plus remarquables des artistes 3D.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Découvrir des techniques avancées et des approches innovantes directement auprès des artistes Blender professionnels pour enrichir sa pratique créative.",
+      "workflowImpact": "Source d'inspiration et de benchmarking pour rester à jour sur les tendances créatives Blender et découvrir de nouvelles techniques de rendu et modélisation.",
       "colorPalette": [
-        "#F5A623",
-        "#2C3E50",
-        "#27AE60",
-        "#8E44AD",
-        "#E74C3C"
+        "#F57C00",
+        "#1A237E",
+        "#00BCD4",
+        "#FFC107",
+        "#4CAF50"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/06/best-of-blender-artists-2026-45/",
       "date": "2026-11-06",
       "tags": [
         "Blender",
-        "3D Modeling",
+        "3D Rendering",
         "Community Showcase"
       ],
       "styles": [
@@ -582,60 +612,60 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 20,
-      "title": "Blender Jobs for November 6, 2026",
-      "summary": "Compilation d'offres d'emploi Blender pour novembre 2026, couvrant la modélisation photoréaliste, les effets VFX temps réel, et les environnements 3D assistés par IA pour jeux vidéo.",
+      "id": 21,
+      "title": "Blender 5.3 is here: discover its 5 key features",
+      "summary": "Blender 5.3 introduit 5 fonctionnalités majeures incluant le 3D Gaussian Splatting, le débruitage DLSS et la composition en couches. Une mise à jour significative pour les workflows 3D et VFX professionnels.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers et artistes 3D de découvrir des opportunités professionnelles spécialisées en Blender, avec focus sur les skills demandés (game-ready assets, VFX temps réel, AI tools).",
+      "workflowImpact": "Accélère les rendus haute qualité et simplifie la composition multi-couches, réduisant les temps de post-production pour les projets VFX complexes.",
       "colorPalette": [
-        "#FF6B35",
-        "#004E89",
-        "#1B998B",
-        "#F7DC6F",
-        "#2C3E50"
+        "#E87D35",
+        "#2E3440",
+        "#88C0D0",
+        "#81A1C1",
+        "#D08770"
       ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/06/blender-jobs-for-november-6-2026/",
-      "date": "2026-11-06",
+      "source": "CG Channel",
+      "link": "https://www.cgchannel.com/2026/11/blender-5-3-is-here-discover-its-5-key-features/",
+      "date": "2026-11-11",
       "tags": [
-        "Blender",
-        "Game-Ready Assets",
-        "VFX Temps Réel",
-        "AI Environment"
+        "Blender 5.3",
+        "Gaussian Splatting",
+        "DLSS",
+        "Compositing"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
-      "thumb": 3,
+      "thumb": 0,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 21,
-      "title": "Adobe releases Photoshop 28.0",
-      "summary": "Adobe Photoshop 28.0 introduit des fonctionnalités IA révolutionnaires incluant le relighting AI et trace erase pour optimiser les workflows de retouche. Ces outils accélèrent la création de visuels de haute qualité destinés aux projets motion design et VFX.",
+      "id": 22,
+      "title": "Adobe releases After Effects 27.0",
+      "summary": "Adobe After Effects 27.0 intègre des améliorations majeures du toolset 3D et un nouvel Assistant IA agentic pour optimiser le workflow de composition et motion graphics. Cette mise à jour renforce les capacités de production des motion designers professionnels.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Les features IA de relighting et trace erase réduisent considérablement le temps de préparation des assets visuels, permettant aux motion designers de se concentrer sur l'animation et la composition.",
+      "workflowImpact": "Les améliorations 3D et l'Assistant IA agentic accélèrent la production en automatisant les tâches répétitives et en simplifiant la création de compositions complexes.",
       "colorPalette": [
         "#1F1F1F",
-        "#4A90E2",
-        "#00D9FF",
-        "#FFB84D",
-        "#E6E6E6"
+        "#00B4D8",
+        "#FF006E",
+        "#8338EC",
+        "#FFBE0B"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/",
+      "link": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
       "date": "2026-11-10",
       "tags": [
-        "Photoshop",
-        "AI Relighting",
-        "Trace Erase",
-        "Asset Preparation"
+        "After Effects",
+        "3D toolset",
+        "IA agentic",
+        "compositing"
       ],
       "styles": [
-        "UI/UX Motion",
         "3D Photoréaliste"
       ],
       "changelog": true,
@@ -643,18 +673,49 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 22,
+      "id": 23,
+      "title": "Adobe releases Photoshop 28.0",
+      "summary": "Adobe Photoshop 28.0 introduit des fonctionnalités AI révolutionnaires : relighting intelligent et trace erase pour un workflow de retouche accéléré. Ces outils génératifs transforment la production visuelle en réduisant les étapes manuelles.",
+      "category": "AI Animation",
+      "categoryId": "ai",
+      "workflowImpact": "Les motion designers peuvent désormais retoucher et transformer rapidement des assets visuels avec l'IA, réduisant le temps de post-production et d'intégration d'éléments dans leurs compositions.",
+      "colorPalette": [
+        "#1B1B1B",
+        "#4A90E2",
+        "#00D9FF",
+        "#FF6B6B",
+        "#F0F0F0"
+      ],
+      "source": "CG Channel",
+      "link": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/",
+      "date": "2026-11-10",
+      "tags": [
+        "Photoshop",
+        "AI Generative",
+        "Retouching",
+        "Compositing"
+      ],
+      "styles": [
+        "Mixed Media",
+        "UI/UX Motion"
+      ],
+      "changelog": false,
+      "thumb": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 24,
       "title": "Otoy releases OctaneRender 2027.1 in beta",
-      "summary": "Otoy lance OctaneRender 2027.1 en bêta avec un serveur MCP pour intégrer les outils d'IA dans la création et le rendu de scènes. Cette évolution facilite l'automatisation des workflows de rendu GPU.",
+      "summary": "OctaneRender 2027.1 bêta introduit un serveur MCP permettant de construire et renderer des scènes via des outils IA. Cette mise à jour majeure positionne le GPU renderer comme solution intégrant nativement l'intelligence artificielle.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Intégration native des outils d'IA via MCP Server permet d'accélérer la création de scènes et d'optimiser les rendus GPU sans quitter l'environnement de travail.",
+      "workflowImpact": "Accélère la création de scènes 3D en permettant aux motion designers de piloter OctaneRender via des assistants IA, réduisant le temps de setup et d'itération.",
       "colorPalette": [
         "#1a1a2e",
+        "#16213e",
         "#0f3460",
-        "#16c784",
         "#e94560",
-        "#f39c12"
+        "#00d4ff"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/11/otoy-releases-octanerender-2027-1/",
@@ -673,87 +734,27 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 23,
+      "id": 25,
       "title": "Chaos releases Corona 16 for 3ds Max and Cinema 4D",
-      "summary": "Chaos publie Corona 16 avec support des Gaussian Splats pour le relighting et un nouveau système de parallax interiors. La mise à jour bénéficie à 3ds Max et Cinema 4D avec des améliorations majeures de rendu architectural.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Accélère le pipeline de relighting architectural en intégrant nativement les Gaussian Splats, réduisant les passes de rendu et le temps d'itération créative.",
+      "summary": "Chaos déploie Corona 16 avec support des Gaussian Splats pour le relighting et un nouveau système d'intérieurs en parallax. Cette mise à jour enrichit les workflows de rendu architectural avec des outils avancés pour 3ds Max et Cinema 4D.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Accélère les itérations de relighting grâce aux Gaussian Splats et améliore la qualité des intérieurs architecturaux avec le système de parallax natif.",
       "colorPalette": [
         "#2C3E50",
-        "#E8F4F8",
-        "#D4A574",
-        "#1A472A",
-        "#F5E6D3"
+        "#E74C3C",
+        "#ECF0F1",
+        "#3498DB",
+        "#95A5A6"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/11/chaos-releases-corona-16-for-3ds-max-and-cinema-4d/",
       "date": "2026-11-09",
       "tags": [
         "Corona Renderer",
-        "Gaussian Splats",
         "3ds Max",
-        "Cinema 4D"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": false,
-      "thumb": 5,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 24,
-      "title": "Watch WeFX’s visceral VFX breakdown for Neagley",
-      "summary": "WeFX présente un breakdown détaillé des effets visuels de la série Reacher spin-off Neagley, mettant en avant une séquence d'accident ferroviaire spectaculaire et viscérale.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Comprendre les techniques de simulation et de compositing appliquées aux séquences d'action à grande échelle aide à optimiser la pipeline VFX pour des scènes d'impact dramatique.",
-      "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#34495E",
-        "#BDC3C7",
-        "#1A1A1A"
-      ],
-      "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/11/see-wefxs-visceral-vfx-breakdown-for-crime-drama-neagley/",
-      "date": "2026-11-09",
-      "tags": [
-        "VFX breakdown",
-        "simulation destruction",
-        "compositing"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 0,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 25,
-      "title": "Chaos releases V-Ray 7.5 for 3ds Max with new AI features",
-      "summary": "Chaos lance V-Ray 7.5 pour 3ds Max avec un assistant IA intégré capable d'évaluer les rendus sur leur mérite artistique. Découvrez les nouvelles fonctionnalités AI et non-AI de cette mise à jour.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "L'assistant IA de V-Ray 7.5 accélère l'itération des rendus en fournissant des retours automatiques sur la qualité artistique, réduisant le temps d'ajustement manuel et d'évaluation.",
-      "colorPalette": [
-        "#1A1A2E",
-        "#0F3460",
-        "#16213E",
-        "#E94560",
-        "#F39C12"
-      ],
-      "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2026/11/chaos-releases-v-ray-7-5-for-3ds-max-with-new-ai-features/",
-      "date": "2026-11-08",
-      "tags": [
-        "V-Ray 7.5",
-        "3ds Max",
-        "IA Rendering",
-        "Render Engine"
+        "Cinema 4D",
+        "Gaussian Splats"
       ],
       "styles": [
         "3D Photoréaliste"
