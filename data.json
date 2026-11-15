@@ -1,32 +1,33 @@
 {
-  "generatedAt": "2026-11-14T14:46:17.456816+00:00",
+  "generatedAt": "2026-11-15T15:21:05.272156+00:00",
   "count": 25,
   "items": [
     {
       "id": 1,
       "title": "HP Studio | HP Limited Edition Scuderia Ferrari AI PC",
-      "summary": "HP dévoile un PC édition limitée Scuderia Ferrari conçu pour les professionnels créatifs, intégrant l'IA pour optimiser les workflows de production. Cette machine haut de gamme cible spécifiquement les motion designers et VFX artists.",
+      "summary": "HP lance un PC édition limitée Scuderia Ferrari optimisé pour les créatifs, combinant design haute performance et esthétique Ferrari. Une machine ciblant les professionnels du motion design et VFX.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Un hardware premium optimisé pour l'IA accélère le rendu 3D, le compositing et les tâches de post-production intensive, réduisant les temps d'attente en production.",
+      "workflowImpact": "Accès à une station de travail spécialisée avec performances GPU/CPU élevées permet d'accélérer le rendu 3D, l'animation et les simulations VFX en temps réel.",
       "colorPalette": [
         "#DC0000",
-        "#1F1F1F",
+        "#1A1A1A",
+        "#F1F1F1",
         "#FFD700",
-        "#C0C0C0",
-        "#2A2A2A"
+        "#8B0000"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/hp-studio-hp-limited-edition-scuderia-ferrari-ai-pc/",
       "date": "2026-11-13",
       "tags": [
-        "Hardware",
-        "IA",
-        "Workstation",
-        "Scuderia Ferrari"
+        "workstation",
+        "GPU rendering",
+        "Ferrari design",
+        "haute-performance"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": true,
       "thumb": 5,
@@ -35,25 +36,25 @@
     {
       "id": 2,
       "title": "Reframe: David Sheldon-Hicks and Art Tindsley open a new podcast with Patrice Vermette",
-      "summary": "David Sheldon-Hicks et Art Tindsley lancent 'Reframe', un podcast explorant la créativité et la technologie avec des invités prestigieux comme le producteur de Dune Patrice Vermette. Une ressource audio pour les professionnels du design et de la motion graphics.",
+      "summary": "David Sheldon-Hicks et Art Tindsley lancent Reframe, un podcast explorant la créativité et la technologie avec des figures majeures du design. Le premier épisode accueille Patrice Vermette, designer de production de Dune.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Accéder à des insights et bonnes pratiques d'experts reconnus du cinéma et du design directement dans votre flux de travail créatif quotidien.",
+      "workflowImpact": "Une ressource d'apprentissage et d'inspiration pour les motion designers, offrant des insights directs de professionnels reconnus sur les processus créatifs et les innovations technologiques.",
       "colorPalette": [
-        "#2C1810",
-        "#D4A574",
-        "#1A1A1A",
-        "#E8D4C4",
-        "#4A4A4A"
+        "#1a1a2e",
+        "#e94560",
+        "#ffd60a",
+        "#118ab2",
+        "#073b4c"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/reframe-david-sheldon-hicks-and-art-tindsley-open-a-new-podcast-with-patrice-vermette/",
       "date": "2026-11-12",
       "tags": [
         "podcast",
-        "design thinking",
-        "motion design",
-        "production design"
+        "design production",
+        "creative direction",
+        "Territory Studio"
       ],
       "styles": [
         "Mixed Media"
@@ -65,25 +66,24 @@
     {
       "id": 3,
       "title": "Perfect Stranger Appoints Tony Kadillak as Head of Client Partnerships",
-      "summary": "Tony Kadillak rejoint Perfect Stranger en tant que Head of Client Partnerships, renouant avec Daniel Fries pour développer des relations durables avec les marques. Cette nomination renforce la stratégie commerciale du studio de motion design et VFX.",
+      "summary": "Tony Kadillak rejoint Perfect Stranger en tant que Head of Client Partnerships pour renforcer les relations stratégiques avec les marques aux côtés de Daniel Fries.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Cette nomination structure les partenariats clients, garantissant une meilleure continuité des projets et une compréhension approfondie des besoins créatifs des marques pour les équipes de production.",
+      "workflowImpact": "Cette nomination structure les partenariats clients pour les motion designers, facilitant l'accès à des commandes de prestige et des collaborations de long terme.",
       "colorPalette": [
-        "#2E3440",
-        "#88C0D0",
-        "#81A1C1",
-        "#B48EAD",
-        "#A3BE8C"
+        "#2C3E50",
+        "#E74C3C",
+        "#ECF0F1",
+        "#3498DB",
+        "#F39C12"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/perfect-stranger-tony-kadillak-head-client-partnerships/",
       "date": "2026-11-12",
       "tags": [
-        "studio management",
-        "client relations",
-        "brand partnerships",
-        "production strategy"
+        "client partnerships",
+        "brand strategy",
+        "motion design industry"
       ],
       "styles": [
         "Mixed Media"
@@ -95,29 +95,29 @@
     {
       "id": 4,
       "title": "La Llama | The Post Office",
-      "summary": "Découvrez 'La Llama | The Post Office', une création originale mettant en scène une animation de lama dans un univers postal fantaisiste. Une réalisation créative explorant le mélange de styles et l'humour visuel.",
+      "summary": "Un projet créatif mettant en scène une lama dans un univers postal, combinant animation 2D et humour visuel. Une pièce de motion design originale explorant la narration à travers des personnages stylisés.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Source d'inspiration pour concevoir des animations humoristiques avec des personnages animaliers et explorer des concepts narratifs décalés dans des univers stylisés.",
+      "workflowImpact": "Exemplaire de design character-driven et de storyboarding créatif pour inspirer des approches narratives innovantes en motion design commercial.",
       "colorPalette": [
-        "#F4D03F",
-        "#E74C3C",
-        "#3498DB",
-        "#2ECC71",
-        "#34495E"
+        "#F5E6D3",
+        "#D4A574",
+        "#8B6F47",
+        "#E8C4A0",
+        "#4A90E2"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/la-llama-the-post-office/",
       "date": "2026-11-12",
       "tags": [
         "character animation",
-        "motion design",
-        "humour visuel",
-        "narration"
+        "storytelling",
+        "2D animation",
+        "design humoristique"
       ],
       "styles": [
         "2D Frame-by-frame",
-        "Mixed Media"
+        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 2,
@@ -126,28 +126,29 @@
     {
       "id": 5,
       "title": "Lofsöng and the Language That Outlives Us",
-      "summary": "Unrelated Studio présente Lofsöng, un jeu wordless explorant la communication à travers le temps via des monuments brutalistes et des pierres chantantes. Alessandro Durando discute de cette expérience narrative avant-gardiste à Tribeca Games.",
+      "summary": "Alessandro Durando d'Unrelated Studio explore un jeu narratif sans paroles qui utilise des monuments brutalist et des pierres chantantes pour créer une expérience intemporelle. Ce projet, présenté à Tribeca Games, interroge comment la communication peut transcender le langage et le temps.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspire une approche de design narratif sans dialogue, utilisant l'animation et l'esthétique brutaliste pour créer du sens émotionnel universel.",
+      "workflowImpact": "Inspirer les motion designers à explorer des techniques de narration visuelle et sonore minimalistes, intégrant sculpture numérique, sound design spatial et cinématique pour des projets d'envergure artistique.",
       "colorPalette": [
-        "#2C2C2C",
-        "#8B8B8B",
-        "#D4AF37",
         "#4A4A4A",
-        "#C0C0C0"
+        "#8B8B7A",
+        "#D4C5B9",
+        "#2F2F2F",
+        "#A89968"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/2026/11/10/lofsong-and-the-language-that-outlives-us/",
       "date": "2026-11-10",
       "tags": [
         "narrative design",
+        "cinematic game",
         "sound design",
-        "brutalism",
-        "game animation"
+        "brutalism aesthetic"
       ],
       "styles": [
-        "Mixed Media"
+        "Mixed Media",
+        "3D Photoréaliste"
       ],
       "changelog": false,
       "thumb": 2,
@@ -156,27 +157,29 @@
     {
       "id": 6,
       "title": "1stAveMachine Signs Director Kit Lynch-Robinson",
-      "summary": "1stAveMachine accueille le réalisateur britannique Kit Lynch-Robinson à son équipe de producteurs spécialisés dans la qualité artisanale et l'innovation créative.",
+      "summary": "1stAveMachine accueille le réalisateur britannique Kit Lynch-Robinson à son équipe, renforçant sa réputation de production de haute qualité. Cette signature souligne l'engagement de l'agence envers l'excellence créative et l'innovation.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "L'ajout d'un directeur de talent établi enrichit les capacités créatives et offre aux motion designers accès à une expertise reconnue en direction artistique et concept visuel.",
+      "workflowImpact": "L'arrivée d'un réalisateur talentueux à 1stAveMachine offre aux motion designers l'accès à de nouvelles perspectives créatives et à des partenariats avec des professionnels reconnus pour leur craft exceptionnel.",
       "colorPalette": [
-        "#1a1a1a",
-        "#e63946",
-        "#f1faee",
-        "#a8dadc",
-        "#457b9d"
+        "#1A1A1A",
+        "#FF6B35",
+        "#F7931E",
+        "#C1272D",
+        "#FFFFFF"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/1stavemachine-signs-director-kit-lynch-robinson/",
       "date": "2026-11-13",
       "tags": [
-        "direction artistique",
-        "production",
-        "craft motion"
+        "direction créative",
+        "production house",
+        "craft",
+        "réalisation"
       ],
       "styles": [
-        "Mixed Media"
+        "Mixed Media",
+        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 1,
@@ -185,25 +188,25 @@
     {
       "id": 7,
       "title": "Reframe Studio Get Comfortable in Fursys Manta Chair",
-      "summary": "Reframe Studio crée un film de lancement CG épuré pour la chaise Manta de Fursys, combinant esthétique minimaliste et rendu photoréaliste. L'approche zen du studio mêle design épuré et storytelling produit d'excellence.",
+      "summary": "Reframe Studio crée un film de lancement CG élégant pour la chaise Manta de Fursys, mettant en avant un style graphique minimaliste et zen. L'agence coréenne démontre son expertise en modélisation 3D et rendu photoréaliste appliqué au design de mobilier.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Démontre comment intégrer le product visualization haute gamme avec une direction artistique zen pour maximiser l'impact émotionnel d'un lancement design.",
+      "workflowImpact": "Référence précieuse pour les motion designers travaillant sur des films produits, montrant comment valoriser le design de mobilier via la 3D avec une esthétique épurée et contemplative.",
       "colorPalette": [
-        "#E8E3D8",
-        "#2D2D2D",
-        "#B8A89A",
-        "#F5F5F2",
-        "#6B6B6B"
+        "#F5F5F5",
+        "#2A2A2A",
+        "#D4AF8C",
+        "#8B7355",
+        "#E8DCC8"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/reframe-studio-get-comfortable-in-fursys-manta-chair/",
       "date": "2026-11-13",
       "tags": [
-        "Product Visualization",
-        "CG Photoréaliste",
-        "Design Furniture",
-        "Zen Aesthetic"
+        "3D Rendering",
+        "Product Film",
+        "CG Design",
+        "Luxury"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -216,29 +219,27 @@
     {
       "id": 8,
       "title": "Roof Studio & Pedro Allevato Stay Hands On for Clash Royale",
-      "summary": "Roof Studio et Pedro Allevato ont créé un trailer pour Clash Royale entièrement en aquarelle frame-by-frame, sans recours à l'IA. Une approche artisanale et traditionnelle pour respecter le brief de Supercell.",
+      "summary": "Roof Studio et Pedro Allevato ont créé un trailer Clash Royale entièrement en animation frame-by-frame avec technique aquarelle, sans utiliser d'IA selon les contraintes de Supercell. Une démonstration de craft artisanal face aux outils numériques modernes.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre l'impact créatif d'une production entièrement manuelle : techniques traditionnelles et frame-by-frame comme alternative premium aux workflows assistés par IA.",
+      "workflowImpact": "Inspire les motion designers à maîtriser les techniques traditionnelles et manuelles pour créer des visuels distinctifs et authentiques sans dépendre de l'automatisation IA.",
       "colorPalette": [
-        "#C8947D",
-        "#6B4423",
-        "#E8D4B8",
-        "#2D5A3D",
-        "#F4E4D1"
+        "#8B4513",
+        "#D4A574",
+        "#E8D4C0",
+        "#5A7C8C",
+        "#FFE5B4"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/roof-studio-pedro-allevato-stay-hands-on-for-clash-royale/",
       "date": "2026-11-12",
       "tags": [
-        "Frame-by-frame",
-        "Aquarelle",
-        "Animation manuelle",
-        "Supercell"
+        "frame-by-frame animation",
+        "watercolor treatment",
+        "handcrafted animation"
       ],
       "styles": [
-        "2D Frame-by-frame",
-        "Mixed Media"
+        "2D Frame-by-frame"
       ],
       "changelog": false,
       "thumb": 4,
@@ -247,25 +248,25 @@
     {
       "id": 9,
       "title": "Electric Theatre Collective’s Ambitious Amphibian Adventure",
-      "summary": "Electric Theatre Collective crée une campagne Netflix mettant en vedette un axolotl transformé en héros Bridgerton, en collaboration avec les réalisateurs Vania & Muggia d'Iconoclast. Un projet VFX ambitieux combinant créativité narrative et techniques de post-production avancées.",
+      "summary": "Electric Theatre Collective transforme un axolotl en héros de série Netflix pour une campagne Mother, en collaboration avec les réalisateurs Vania & Muggia. Un projet VFX ambitieux mêlant animation de créature et narration pop culture.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Démontre l'intégration efficace de VFX créatifs dans les campagnes commerciales, offrant des références de pipelines hybrides 2D/3D pour projets haute visibilité.",
+      "workflowImpact": "Démontre les techniques avancées de VFX pour l'animation de créatures réalistes et l'intégration d'éléments numériques dans des campagnes publicitaires haut budget.",
       "colorPalette": [
-        "#1a1a2e",
-        "#4a90e2",
-        "#2ecc71",
-        "#f39c12",
-        "#9b59b6"
+        "#2E8B9E",
+        "#FF6B35",
+        "#F7F7F7",
+        "#1A5F7A",
+        "#FFB84D"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/electric-theatre-collectives-ambitious-amphibian-adventure/",
       "date": "2026-11-11",
       "tags": [
-        "VFX commercial",
+        "VFX creature animation",
         "Netflix campaign",
-        "creature animation",
-        "post-production"
+        "Iconoclast directors",
+        "Motion capture"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -278,10 +279,10 @@
     {
       "id": 10,
       "title": "We Love Pitching: Chronicles of a Necessary Mess – Part 24",
-      "summary": "Claus Cibils de Nerdo conclut sa série de 24 articles réflexifs sur les défis du processus de pitch créatif, s'appuyant sur deux décennies d'expérience en motion design et animation.",
+      "summary": "Claus Cibils conclut sa série éditoriale en 24 parties sur les défis du processus de pitch créatif, basée sur deux décennies d'expérience en motion design et animation. Une réflexion approfondie sur les enjeux professionnels du secteur.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Offre aux motion designers des insights stratégiques et des perspectives métier sur la présentation de projets créatifs, améliorant leur capacité à pitcher efficacement.",
+      "workflowImpact": "Fournir des insights critiques et expérimentés sur la structuration des pitches créatifs pour améliorer la présentation de projets et la communication avec les clients.",
       "colorPalette": [
         "#2C3E50",
         "#E74C3C",
@@ -293,10 +294,9 @@
       "link": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-24/",
       "date": "2026-11-10",
       "tags": [
-        "pitching",
-        "industrie créative",
-        "stratégie motion design",
-        "business"
+        "creative pitching",
+        "motion design industry",
+        "project presentation"
       ],
       "styles": [
         "Mixed Media"
@@ -308,12 +308,12 @@
     {
       "id": 11,
       "title": "Ruxin Liang Shares a Workflow Tip for Keeping Ornatrix Grooms Feeling Fast",
-      "summary": "Ruxin Liang partage une astuce de workflow pour optimiser les performances lors de l'utilisation d'Ornatrix dans Maya en construisant l'ensemble de la pile de grooming simultanément. Cette approche maintient la réactivité du viewport pendant les travaux complexes de création de cheveux et de fourrure.",
+      "summary": "Ruxin Liang partage une astuce de workflow pour maintenir la performance de Maya lors de l'utilisation d'Ornatrix : construire la pile complète d'un seul coup tout en optimisant la fluidité du viewport.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Améliore significativement la fluidité du viewport lors du grooming complexe en Ornatrix, réduisant les temps d'attente et optimisant la productivité en Maya.",
+      "workflowImpact": "Optimise significativement les performances en viewport lors du grooming complexe, permettant au motion designer de travailler plus rapidement sans ralentissements.",
       "colorPalette": [
-        "#2C3E50",
+        "#2B3E50",
         "#E74C3C",
         "#3498DB",
         "#F39C12",
@@ -325,7 +325,7 @@
       "tags": [
         "Ornatrix",
         "Maya",
-        "Hair Grooming",
+        "Grooming",
         "Viewport Optimization"
       ],
       "styles": [
@@ -338,27 +338,28 @@
     {
       "id": 12,
       "title": "Creator Spotlight: Ilija Brunck",
-      "summary": "Portrait d'Ilija Brunck, motion designer reconnu pour ses films aux surfaces épurées cachant une précision technique et conceptuelle remarquable. Son approche combine simplicité visuelle et complexité créative.",
+      "summary": "Ilija Brunck est un créateur reconnu pour ses films en apparence simples mais techniquement et conceptuellement sophistiqués. Son approche combine la clarté visuelle avec une expertise technique profonde en motion design.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Inspiration pour développer une philosophie de design minimaliste sans sacrifier la rigueur technique, applicable à tous les projets motion.",
+      "workflowImpact": "Inspirer les motion designers à rechercher l'équilibre entre simplicité esthétique et complexité technique pour créer des œuvres percutantes et mémorables.",
       "colorPalette": [
-        "#2A2A2A",
-        "#E8E8E8",
-        "#4A90E2",
-        "#F5A623",
-        "#7ED321"
+        "#1a1a1a",
+        "#e8e8e8",
+        "#4a90e2",
+        "#f5a623",
+        "#7ed321"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
       "date": "2026-06-10",
       "tags": [
         "motion design",
-        "minimalism",
-        "conceptual precision",
-        "visual storytelling"
+        "concept artistique",
+        "minimalisme technique",
+        "storytelling visuel"
       ],
       "styles": [
+        "2D Frame-by-frame",
         "Kinetic Typography",
         "Mixed Media"
       ],
@@ -369,23 +370,23 @@
     {
       "id": 13,
       "title": "GrowFrame Offers an Inspirational Way to Visualize Passion Projects",
-      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) pour aider les animateurs, cinéastes et artistes à suivre la progression de leurs projets de passion. L'outil offre une visualisation inspirante des avancées créatives.",
+      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) permettant aux animateurs et artistes de suivre visuellement la progression de leurs projets créatifs. Cet outil offre une approche inspirante pour documenter et visualiser l'évolution de projets de passion.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Permet aux motion designers de visualiser et documenter la progression de leurs projets personnels, améliorant la motivation et l'organisation créative.",
+      "workflowImpact": "GrowFrame permet aux motion designers et animateurs de documenter et visualiser la progression de leurs projets en temps réel, optimisant la gestion de projet et la motivation créative.",
       "colorPalette": [
-        "#FF6B6B",
-        "#4ECDC4",
-        "#45B7D1",
-        "#FFA502",
-        "#2C3E50"
+        "#2ECC71",
+        "#3498DB",
+        "#F39C12",
+        "#E74C3C",
+        "#9B59B6"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
       "date": "2026-06-10",
       "tags": [
-        "GrowFrame",
         "mGear",
+        "Maya",
         "project tracking",
         "animation workflow"
       ],
@@ -399,16 +400,16 @@
     {
       "id": 14,
       "title": "Get the Character Rig From Brent Forrest’s Like and Follow Short",
-      "summary": "Accès au rig Maya du personnage expressif Phoney Baloney, un smartphone anthropomorphique du court métrage viral 'Like and Follow' de Brent Forrest. Une ressource précieuse pour les animateurs 3D souhaitant étudier ou réutiliser cette construction de rig innovante.",
+      "summary": "Accès au character rig Maya de Phoney Baloney, le smartphone expressif du court-métrage viral \"Like and Follow\" de Brent Forrest. Une ressource complète pour étudier la création de rigs expressifs et la personnification d'objets.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux animateurs d'accélérer leur production en s'inspirant d'une construction de rig professionnel éprouvée, tout en gagnant du temps sur l'architecture de caractère complexe.",
+      "workflowImpact": "Permet aux animateurs d'étudier et de réutiliser un rig professionnel hautement expressif pour maîtriser les techniques de facial animation appliquées à des objets non-humanoides.",
       "colorPalette": [
-        "#1a1a2e",
-        "#16213e",
-        "#0f3460",
-        "#e94560",
-        "#00d4ff"
+        "#1F1F1F",
+        "#FF6B35",
+        "#004E89",
+        "#F7B801",
+        "#E8E8E8"
       ],
       "source": "Lesterbanks",
       "link": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
@@ -420,7 +421,8 @@
         "Rigging"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 1,
@@ -429,15 +431,15 @@
     {
       "id": 15,
       "title": "21 Martyrs: An Inside Look",
-      "summary": "Lesterbanks analyse en détail \"21 Martyrs\", un film d'animation très attendu en lice pour les Oscars, salué par le légendaire Glen Keane pour son impact émotionnel et sa portée artistique. Un aperçu des techniques et de la philosophie créative derrière cette œuvre animée ambitieuse.",
+      "summary": "Lesterbanks analyse en détail \"21 Martyrs\", un film d'animation primé aux Oscars, loué par Glen Keane pour sa puissance émotionnelle et son impact narratif. Découvrez les techniques et procédés créatifs derrière cette œuvre ambitieuse.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Comprendre les approches narratives et techniques d'un film d'animation de prestige inspire les motion designers à explorer des méthodes plus expressives et émotionnelles dans leurs propres créations.",
+      "workflowImpact": "Analyser les techniques d'animation d'un film Oscar-shortlisté offre des insights précieux sur la narration visuelle, la composition émotionnelle et les processus de production de haut niveau applicables à tout projet d'envergure.",
       "colorPalette": [
         "#2C1810",
         "#D4A574",
         "#8B4513",
-        "#E8D4C4",
+        "#E8D7C3",
         "#4A3728"
       ],
       "source": "Lesterbanks",
@@ -445,12 +447,11 @@
       "date": "2025-01-04",
       "tags": [
         "animation narrative",
-        "film d'auteur",
-        "technique cellulaire",
-        "direction artistique"
+        "production Oscar",
+        "character animation"
       ],
       "styles": [
-        "Cel Animation",
+        "2D Frame-by-frame",
         "Mixed Media"
       ],
       "changelog": false,
@@ -459,17 +460,47 @@
     },
     {
       "id": 16,
-      "title": "Trim Sheets: The complete workflow in Blender, part 1 (the introduction)",
-      "summary": "Première partie d'une série complète sur les trim sheets dans Blender, explorant la création et l'application de ces textures optimisées sur des modèles low-poly pour le game design.",
+      "title": "Charging Animation Tutorial",
+      "summary": "Tutoriel complet de modélisation hard-surface et de shaders dans Blender pour créer une animation de batterie futuriste. Combine techniques de modeling avancé et shader work pour un rendu sci-fi high-end.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Maîtriser les trim sheets accélère la création d'assets 3D game-ready en réduisant le nombre de textures et en optimisant les performances.",
+      "workflowImpact": "Accélère la production d'animations sci-fi en fournissant des techniques éprouvées de hard-surface modeling et de shaders pour des éléments technologiques réalistes.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#3498DB",
-        "#95A5A6",
-        "#F39C12"
+        "#1a1a2e",
+        "#16213e",
+        "#0f3460",
+        "#00d4ff",
+        "#ffd700"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/11/15/charging-animation-tutorial/",
+      "date": "2026-11-15",
+      "tags": [
+        "Blender",
+        "Hard-surface modeling",
+        "Shader nodes",
+        "Sci-fi animation"
+      ],
+      "styles": [
+        "3D Photoréaliste"
+      ],
+      "changelog": false,
+      "thumb": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 17,
+      "title": "Trim Sheets: The complete workflow in Blender, part 1 (the introduction)",
+      "summary": "Série tutorielle de Filip Rachůnek sur la création de trim sheets dans Blender, technique essentielle pour optimiser les assets 3D destinés aux jeux vidéo. Première partie couvrant l'introduction et l'application sur modèles low-poly.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Maîtriser les trim sheets accélère la création d'assets game-ready et optimise l'utilisation des textures pour des rendus performants en temps réel.",
+      "colorPalette": [
+        "#2E3440",
+        "#88C0D0",
+        "#81A1C1",
+        "#A3BE8C",
+        "#BF616A"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/14/trim-sheets-the-complete-workflow-in-blender-part-1-the-introduction/",
@@ -477,8 +508,8 @@
       "tags": [
         "Blender",
         "Trim Sheets",
-        "Low-Poly",
-        "Game Assets"
+        "Game Assets",
+        "Low-Poly Modeling"
       ],
       "styles": [
         "3D Photoréaliste"
@@ -488,18 +519,18 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "Blender Jobs for November 13, 2026",
-      "summary": "Récapitulatif des offres d'emploi Blender disponibles en novembre 2026, incluant des postes d'Environment Artist et de Character Modeler 3D pour prototypes de produits physiques.",
+      "summary": "Compilation des offres d'emploi Blender actuelles incluant des postes d'artiste environnement et de modéliseur de personnages 3D stylisés. Vue d'ensemble des opportunités disponibles sur les principales plateformes d'emploi spécialisées.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers et artistes 3D de découvrir rapidement les opportunités professionnelles utilisant Blender et d'identifier les compétences les plus demandées sur le marché.",
+      "workflowImpact": "Aide les motion designers et 3D artists à identifier rapidement les opportunités professionnelles pertinentes et à rester informés des tendances du marché Blender.",
       "colorPalette": [
-        "#FF9500",
-        "#1F77E8",
-        "#34A853",
-        "#FBBF24",
-        "#9333EA"
+        "#F5722C",
+        "#2196F3",
+        "#FF9800",
+        "#009688",
+        "#673AB7"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/13/blender-jobs-for-november-13-2026/",
@@ -518,18 +549,18 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 18,
+      "id": 19,
       "title": "Best of Blender Artists: 2026-46",
-      "summary": "Sélection hebdomadaire des meilleures créations partagées par la communauté Blender Artists, mettant en avant des travaux d'excellence en 3D et animation.",
+      "summary": "Sélection hebdomadaire des meilleures créations de la communauté Blender Artists, mettant en avant les travaux les plus remarquables partagés sur le forum. Une vitrine inspirante des tendances et techniques 3D/VFX actuelles.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Découvrir les techniques et approches innovantes des artistes Blender pour s'inspirer et améliorer sa propre pratique créative.",
+      "workflowImpact": "Source d'inspiration et de benchmarking technique pour rester à jour sur les meilleures pratiques et innovations de la communauté Blender.",
       "colorPalette": [
-        "#E87722",
-        "#1B1B1B",
-        "#00D4FF",
-        "#FF6B9D",
-        "#A0D8FF"
+        "#F57C00",
+        "#1976D2",
+        "#388E3C",
+        "#7B1FA2",
+        "#00796B"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/13/best-of-blender-artists-2026-46/",
@@ -537,7 +568,8 @@
       "tags": [
         "Blender",
         "3D Modeling",
-        "Community Showcase"
+        "Community Showcase",
+        "VFX"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -548,216 +580,185 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "How to Make Beautiful Realistic Diamonds in Blender 5.3 💎",
-      "summary": "Un tutoriel complet montrant comment créer des matériaux de diamants procéduraux réalistes dans Blender 5.3. Ryan King détaille les techniques pour obtenir des résultats photoréalistes avec les nouvelles fonctionnalités.",
+      "summary": "Ryan King démontre la création de matériaux de diamant procéduraux réalistes dans Blender 5.3 en utilisant des techniques avancées de shading. Un tutoriel essentiel pour maîtriser les matériaux photoréalistes et les propriétés optiques complexes.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers de créer rapidement des matériaux de diamants procéduraux haute qualité, optimisables pour la production et les animations commerciales.",
+      "workflowImpact": "Optimise la création de matériaux gemmes photoréalistes procéduraux, réduisant les temps d'iteration et permettant des variations infinies sans remodélisation.",
       "colorPalette": [
         "#E8F4F8",
-        "#B0D4E3",
-        "#4A9EBE",
-        "#1F5A7F",
-        "#0D2E3E"
+        "#B4D7E8",
+        "#5DADE2",
+        "#2C5AA0",
+        "#1A3A52"
       ],
       "source": "BlenderNation",
       "link": "https://www.blendernation.com/2026/11/13/how-to-make-beautiful-realistic-diamonds-in-blender-5-3/",
       "date": "2026-11-13",
       "tags": [
         "Blender 5.3",
-        "Matériaux procéduraux",
+        "Procedural Shading",
         "Photoréalisme",
-        "Shader"
+        "Matériaux"
       ],
       "styles": [
         "3D Photoréaliste"
       ],
       "changelog": false,
-      "thumb": 0,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 20,
-      "title": "Introducing Mat-Baker: A Free Add-on for Baking Procedural Materials",
-      "summary": "Mat-Baker est un add-on gratuit pour Blender qui automatise le baking de matériaux procéduraux en textures PBR, détectant intelligemment les maps générables et proposant un mode avancé pour plus de contrôle.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Réduit drastiquement le temps de préparation et d'export de textures PBR en automatisant la détection des maps et le baking, libérant les motion designers pour se concentrer sur la création.",
-      "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#3498DB",
-        "#F39C12",
-        "#ECF0F1"
-      ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/12/introducing-mat-baker-a-free-add-on-for-baking-procedural-materials/",
-      "date": "2026-11-12",
-      "tags": [
-        "Blender",
-        "PBR Textures",
-        "Baking",
-        "Procedural Materials"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": true,
       "thumb": 0,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
       "id": 21,
-      "title": "The Gnomon Workshop releases Introduction to ZBrush 2024",
-      "summary": "Gnomon Workshop publie un tutoriel d'introduction à ZBrush 2024 réactualisé par Madeleine Scott-Spencer pour maîtriser les fondamentaux de la sculpture numérique. Cette ressource pédagogique aide les artistes à s'initier aux outils essentiels du logiciel.",
+      "title": "See how Framestore created Odin for Heart of the Beast",
+      "summary": "Framestore dévoile les techniques VFX utilisées pour créer Odin, le berger allemand héros de Heart of the Beast, incluant des simulations tissulaires avancées pour les animaux. Découvrez comment le studio a réalisé les effets réalistes des loups, ours et du personnage principal canin.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accélérer l'apprentissage de ZBrush 2024 et maîtriser les nouvelles fonctionnalités pour intégrer rapidement la sculpture numérique dans ses projets 3D.",
+      "workflowImpact": "Comprendre les pipelines de simulation tissulaire et de rigging animal pour des VFX photoréalistes optimise les productions cinématographiques à gros budget.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#3498DB",
-        "#F39C12",
-        "#ECF0F1"
+        "#8B4513",
+        "#D2B48C",
+        "#2F4F4F",
+        "#A9A9A9",
+        "#8B7355"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2024/09/the-gnomon-workshop-releases-introduction-to-zbrush-2024/",
-      "date": "2024-09-29",
+      "link": "https://www.cgchannel.com/2026/11/see-how-framestore-created-odin-the-cg-dog-for-heart-of-the-beast/",
+      "date": "2026-11-14",
       "tags": [
-        "ZBrush 2024",
-        "Digital Sculpting",
-        "3D Modeling",
-        "Gnomon Workshop"
+        "tissue simulation",
+        "animal VFX",
+        "creature FX",
+        "Framestore"
       ],
       "styles": [
         "3D Photoréaliste"
       ],
       "changelog": false,
-      "thumb": 4,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 22,
-      "title": "Free Nuke plugin pScatter ‘breaks up your perfect CG renders’",
-      "summary": "pScatter est un plugin Nuke gratuit qui utilise des données de position pour ajouter des imperfections réalistes aux rendus CG provenant de Blender, Houdini et Maya. Idéal pour briser la perfection stérile des rendus 3D et créer des assets plus organiques et détaillés.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Élimine les étapes post-production manuelles en automatisant l'ajout d'imperfections détaillées directement dans Nuke, gagnant du temps précieux en compositing.",
-      "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#3498DB",
-        "#95A5A6",
-        "#1ABC9C"
-      ],
-      "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2024/09/free-nuke-plugin-pscatter-breaks-up-your-perfect-cg-renders/",
-      "date": "2024-09-29",
-      "tags": [
-        "Nuke",
-        "pScatter",
-        "Compositing",
-        "CG Rendering"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
-      ],
-      "changelog": true,
       "thumb": 5,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 23,
-      "title": "Free tool: 3DGS Render renders 3D Gaussian Splats inside Blender",
-      "summary": "Un nouvel add-on gratuit permet de manipuler et renderer des 3D Gaussian Splats directement dans Blender. Cet outil simplifie l'intégration de scans 3DGS dans le pipeline de production.",
+      "id": 22,
+      "title": "Game-ready 3D characters: how to build a cast that fits your world",
+      "summary": "Guide pratique sur la création de personnages 3D prêts pour le jeu vidéo et les critères de sélection pour l'achat de modèles NPC de qualité. Les artistes de RenderHub partagent leurs meilleures pratiques pour construire des casting cohérents.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Élimine les étapes d'export/import entre logiciels en intégrant nativement les Gaussian Splats dans Blender, accélérant le pipeline de compositing et animation.",
+      "workflowImpact": "Optimise la production de personnages game-ready en offrant des méthodes éprouvées et des critères de qualité pour réduire les itérations et accélérer les pipelines de création ou d'acquisition.",
       "colorPalette": [
-        "#2A5F8F",
-        "#E85D3F",
-        "#F4B860",
-        "#4A7C59",
-        "#1C1C1C"
+        "#2C3E50",
+        "#E74C3C",
+        "#3498DB",
+        "#2ECC71",
+        "#ECF0F1"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2024/09/free-tool-3dgs-render-renders-3d-gaussian-splats-inside-blender/",
-      "date": "2024-09-28",
+      "link": "https://www.cgchannel.com/2026/11/game-ready-3d-characters-how-to-build-a-cast-that-fits-your-world/",
+      "date": "2026-11-12",
       "tags": [
-        "Blender",
-        "3D Gaussian Splats",
-        "Add-on gratuit",
-        "NeRF rendering"
+        "Game asset",
+        "Character modeling",
+        "NPC creation",
+        "3D marketplace"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 2,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 24,
-      "title": "Unity previews its roadmap for Unity 6.1 and beyond",
-      "summary": "Unity dévoile sa feuille de route pour 2025 avec des améliorations majeures en shading, rendering, animation et world building. Les mises à jour promettent d'optimiser le pipeline de création pour les motion designers et VFX artists travaillant en temps réel.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Accès à des outils de shading et rendering améliorés permet aux motion designers de créer des contenus 3D photoréalistes plus rapidement et d'itérer en temps réel.",
-      "colorPalette": [
-        "#1F1F1F",
-        "#FF6B35",
-        "#00D4FF",
-        "#A0E7E5",
-        "#FFD700"
-      ],
-      "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2024/09/unity-previews-its-roadmap-for-unity-6-1-and-beyond/",
-      "date": "2024-09-26",
-      "tags": [
-        "Unity",
-        "Real-time Rendering",
-        "Shading",
-        "3D Animation"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
+        "3D Photoréaliste"
       ],
       "changelog": false,
       "thumb": 3,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 25,
-      "title": "iToo Software releases Forest Pack 9.0 for 3ds Max",
-      "summary": "iToo Software lance Forest Pack 9.0 pour 3ds Max avec le nouvel add-on ForestIvy pour générer des plantes grimpantes 3D. Cette mise à jour majeure renforce les capacités de scattering et de végétation procédurale.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Accélère la création de végétation environnementale photoréaliste en permettant la génération procédurale d'ivy et plantes grimpantes sans modélisation manuelle.",
+      "id": 23,
+      "title": "Discover how EDI created a photorealistic CG jaguar for Ferine",
+      "summary": "EDI a créé un jaguar photorealistic en CGI pour le film d'horreur Ferine, avec un breakdown détaillé sur le développement des shaders, le grooming de fourrure et le rigging en Maya.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Comprendre les techniques avancées de shader, grooming et rigging pour créer des créatures photoréalistes intégrables dans des productions cinématographiques.",
       "colorPalette": [
-        "#2D5016",
-        "#6B8E23",
-        "#8FBC8F",
-        "#D4AF37",
-        "#3D3D3D"
+        "#8B5A3C",
+        "#D4A574",
+        "#2D1F15",
+        "#3D2817",
+        "#C9A961"
       ],
       "source": "CG Channel",
-      "link": "https://www.cgchannel.com/2024/09/itoo-software-releases-forest-pack-9-for-3ds-max/",
-      "date": "2024-09-26",
+      "link": "https://www.cgchannel.com/2026/11/see-how-edi-created-a-photorealistic-cg-jaguar-for-ferine/",
+      "date": "2026-11-12",
       "tags": [
-        "Forest Pack",
-        "3ds Max",
-        "Scattering",
-        "Procedural Vegetation"
+        "Maya",
+        "Photorealistic Creature",
+        "Shader Development",
+        "Fur Groom"
       ],
       "styles": [
         "3D Photoréaliste"
       ],
+      "changelog": false,
+      "thumb": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 24,
+      "title": "Blender 5.3 is here: discover its 5 key features",
+      "summary": "Blender 5.3 introduit des fonctionnalités majeures incluant le 3D Gaussian Splatting, le débruitage DLSS et la composition par couches. Découvrez comment ces outils renforcent le workflow 3D et VFX des motion designers.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Ces nouvelles fonctionnalités accélèrent le rendu photoréaliste, optimisent le débruitage et améliorent la gestion des compositions complexes, réduisant le temps de post-production.",
+      "colorPalette": [
+        "#FF6B35",
+        "#004E89",
+        "#1B998B",
+        "#F5B041",
+        "#2C3E50"
+      ],
+      "source": "CG Channel",
+      "link": "https://www.cgchannel.com/2026/11/blender-5-3-is-here-discover-its-5-key-features/",
+      "date": "2026-11-11",
+      "tags": [
+        "Blender 5.3",
+        "3D Gaussian Splatting",
+        "DLSS Denoising",
+        "Compositing"
+      ],
+      "styles": [
+        "3D Photoréaliste",
+        "Mixed Media"
+      ],
+      "changelog": false,
+      "thumb": 0,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 25,
+      "title": "Adobe releases After Effects 27.0",
+      "summary": "Adobe lance After Effects 27.0 avec des améliorations significatives de la toolset 3D et un nouvel Assistant IA autonome pour le compositing et les motion graphics. Cette mise à jour renforce les capacités créatives et accélère les workflows de production.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Les motion designers gagnent en productivité grâce aux outils 3D améliorés et à l'Assistant IA qui automatise les tâches répétitives, réduisant le temps de compositing.",
+      "colorPalette": [
+        "#1F51BA",
+        "#00D9FF",
+        "#6B3FF8",
+        "#FFB700",
+        "#FFFFFF"
+      ],
+      "source": "CG Channel",
+      "link": "https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/",
+      "date": "2026-11-10",
+      "tags": [
+        "After Effects 27.0",
+        "3D toolset",
+        "AI Assistant",
+        "Compositing"
+      ],
+      "styles": [
+        "3D Photoréaliste",
+        "UI/UX Motion"
+      ],
       "changelog": true,
-      "thumb": 2,
+      "thumb": 5,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     }
   ]
