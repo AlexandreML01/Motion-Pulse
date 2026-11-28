@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-27T17:51:38.904276+00:00",
-  "count": 25,
+  "generatedAt": "2026-11-28T16:38:24.171794+00:00",
+  "count": 20,
   "items": [
     {
       "id": 1,
       "title": "World War Seven Adds Starburns Industries to Its Director Roster",
-      "summary": "Starburns Industries, le studio réputé derrière Anomalisa, rejoint World War Seven en tant que partenaire spécialisé en stop-motion et animation. Cette collaboration renforce les capacités créatives de l'agence dans les domaines de l'animation traditionnelle et hybride.",
+      "summary": "Starburns Industries, le studio derrière Anomalisa, rejoint World War Seven en tant que partenaire spécialisé en stop-motion et animation. Cette collaboration renforce les capacités créatives de World War Seven dans les domaines de l'animation traditionnelle et hybride.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Les motion designers accèdent à une expertise reconnue en stop-motion et techniques d'animation numérique, ouvrant de nouvelles possibilités créatives pour des projets commerciaux et narratifs complexes.",
+      "workflowImpact": "Accès à l'expertise en stop-motion et animation de Starburns Industries pour enrichir les productions et explorer de nouvelles directions créatives hybrides.",
       "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#ECF0F1",
-        "#8E44AD",
-        "#F39C12"
+        "#2C1810",
+        "#D4A574",
+        "#1A1A1A",
+        "#8B6F47",
+        "#E8D5C4"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/world-war-seven-adds-starburns-industries-to-its-director-roster/",
@@ -22,8 +22,8 @@
       "tags": [
         "stop-motion",
         "Starburns Industries",
-        "animation tradition",
-        "World War Seven"
+        "animation traditionnelle",
+        "direction artistique"
       ],
       "styles": [
         "Cel Animation",
@@ -36,28 +36,29 @@
     {
       "id": 2,
       "title": "Gordon Howie | Broomsticks on Broadway",
-      "summary": "Gordon Howie crée une animation rétro rendant hommage aux comédies musicales classiques de la MGM, où une sorcière prépare une potion magique pour danser. Un travail mêlant illustration traditionnelle et motion design avec un style vintage très assumé.",
+      "summary": "Gordon Howie crée une animation rétro rendant hommage aux comédies musicales classiques de la MGM, où une sorcière prépare une potion de danse. Une célébration du style cinématographique vintage combiné à l'animation contemporaine.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre comment intégrer des références stylistiques vintage dans une production moderne, utile pour concevoir des narratives animées nostalgiques avec profondeur caractères.",
+      "workflowImpact": "Démontre l'efficacité du style 2D frame-by-frame pour recréer l'esthétique des productions classiques tout en maintenant une exécution moderne, utile pour les projets retro-chic.",
       "colorPalette": [
         "#8B4513",
         "#FFD700",
         "#1a1a2e",
-        "#FF6B9D",
-        "#F5DEB3"
+        "#FF6B6B",
+        "#4ECDC4"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/gordon-howie-broomsticks-on-broadway/",
       "date": "2026-11-24",
       "tags": [
-        "animation 2D",
-        "vintage aesthetics",
-        "character animation",
-        "musical homage"
+        "Animation 2D",
+        "Style classique",
+        "Cel Animation",
+        "Hommage MGM"
       ],
       "styles": [
-        "2D Frame-by-frame"
+        "2D Frame-by-frame",
+        "Cel Animation"
       ],
       "changelog": false,
       "thumb": 1,
@@ -66,25 +67,25 @@
     {
       "id": 3,
       "title": "AH&Co. Studio | Birkenstock India’s Journey",
-      "summary": "AH&Co. Studio documente le parcours de Birkenstock en Inde à travers un film captivant mettant en scène 65+ magasins et l'expansion continuelle de la marque. Un projet de motion design célébrant le mouvement, les jalons et la croissance progressive d'une présence iconique.",
+      "summary": "AH&Co. Studio documente le parcours de Birkenstock en Inde à travers un film cinématographique capturant l'expansion de la marque dans 65+ magasins. Un récit visuel de croissance, mouvement et présence territoriale racontée comme un voyage continu.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Fournit une inspiration narrative pour structurer des films documentaires d'entreprise combinant cinématographie, motion design et storytelling géographique.",
+      "workflowImpact": "Inspire les motion designers travaillant sur des projets de branding corporatif et storytelling spatial, montrant comment structurer visuellement une expansion géographique en narration cinématographique cohérente.",
       "colorPalette": [
         "#8B6F47",
         "#D4A574",
-        "#F5E6D3",
-        "#2C2416",
-        "#E8D4B8"
+        "#E8DCC8",
+        "#2C2C2C",
+        "#F5E6D3"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/ahandco-studio-birkenstock-indias-journey/",
       "date": "2026-11-20",
       "tags": [
-        "storytelling cinématique",
-        "motion design documentaire",
-        "brand film",
-        "Vimeo"
+        "Branding Films",
+        "Spatial Storytelling",
+        "Documentary Motion",
+        "Corporate Video"
       ],
       "styles": [
         "Mixed Media"
@@ -96,29 +97,29 @@
     {
       "id": 4,
       "title": "The Long Way to “I Do”: A Porsche Love Story, Hand-Painted Frame by Frame",
-      "summary": "Em Cooper réalise un court métrage poétique mêlant animation traditionnelle et photographie en peinture à l'huile, célébrant l'histoire d'amour d'un couple à travers la restauration d'une Porsche 1966. Une exploration artistique du hand-painted frame by frame combinant narration émotionnelle et technique picturale.",
+      "summary": "Em Cooper réalise un court métrage peint à la main image par image racontant l'histoire d'amour d'un couple à travers la restauration d'une Porsche 1966. Un projet de cel animation et peinture traditionnelle fusionnant narration émotionnelle et artisanat.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre l'intégration innovante du rotoscope peint et de la peinture numérique pour transformer des prises de vue réelles en œuvre d'art animée, ouvrant de nouvelles approches hybrides pour les projets narratifs haut de gamme.",
+      "workflowImpact": "Démontre l'impact émotionnel et commercial de combiner animation traditionnelle (peinture à la main) avec une narration de marque, inspirant les motion designers pour des campagnes haut de gamme authentiques.",
       "colorPalette": [
         "#8B4513",
         "#D4A574",
-        "#2C1810",
-        "#C97E2F",
-        "#E8D4C4"
+        "#2F1B0C",
+        "#E8D7C3",
+        "#A0522D"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/news/porsche-the-long-way-to-i-do-em-cooper-tonic-dna/",
       "date": "2026-11-19",
       "tags": [
-        "rotoscope",
-        "hand-painted animation",
-        "oil painting effect",
-        "Cel animation"
+        "cel animation",
+        "hand-painted",
+        "frame-by-frame",
+        "storytelling"
       ],
       "styles": [
-        "2D Frame-by-frame",
-        "Mixed Media"
+        "Cel Animation",
+        "2D Frame-by-frame"
       ],
       "changelog": false,
       "thumb": 0,
@@ -127,25 +128,25 @@
     {
       "id": 5,
       "title": "MAMMAL | Sequential Momentum",
-      "summary": "MAMMAL présente une série de vignettes pour TCM autour de lettres « C » distinctes, utilisant des match cuts dynamiques pour connecter des moments de films iconiques. Chaque piece explore la personnalité unique du caractère à travers un mouvement centré sur l'action.",
+      "summary": "MAMMAL présente une série de nouveaux IDs pour TCM explorant chaque lettre « C » à travers des vignettes visuelles autonomes et des match cuts dynamiques connectant des moments de films iconiques. Les séquences renforcent l'identité visuelle de la marque par des mouvements précis et une cinématographie inspirée.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Démontre une approche de transition créative par match cuts pour des identifiants de chaîne, applicable à des rebrandings et séquences de titres sophistiquées.",
+      "workflowImpact": "Cette approche de motion design basée sur les match cuts et les transitions fluides offre une source d'inspiration pour structurer des séquences complexes avec cohérence narrative et impact visuel maximal.",
       "colorPalette": [
         "#1a1a1a",
+        "#d4af37",
         "#c41e3a",
-        "#f5e6d3",
-        "#2d5016",
-        "#e8b4b4"
+        "#f5f5f5",
+        "#2c2c2c"
       ],
       "source": "Motionographer",
       "link": "https://motionographer.com/quickie/mammal-sequential-momentum/",
       "date": "2026-11-19",
       "tags": [
         "match cuts",
-        "identité visuelle",
-        "cinéma",
-        "transition créative"
+        "TCM branding",
+        "sequential animation",
+        "motion design"
       ],
       "styles": [
         "Kinetic Typography",
@@ -157,26 +158,57 @@
     },
     {
       "id": 6,
+      "title": "Jungler Keeps it Hands-On for Action Against Hunger",
+      "summary": "Jungler réalise un film d'animation image par image cru et percutant pour Action Contre la Faim, dirigé par Margherita Premuroso en collaboration avec l'agence La Chose. Cette production française combine un style brut et direct pour sensibiliser aux enjeux humanitaires.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Démontre l'efficacité narrative de l'animation traditionnelle frame-by-frame pour créer un impact émotionnel fort dans les productions sociales et humanitaires.",
+      "colorPalette": [
+        "#2C2C2C",
+        "#E8E8E8",
+        "#D63C3C",
+        "#1A1A1A",
+        "#8B8B8B"
+      ],
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/jungler-gets-hands-on-for-action-against-hunger/",
+      "date": "2026-11-27",
+      "tags": [
+        "hand-animated",
+        "frame-by-frame",
+        "social impact",
+        "narrative design"
+      ],
+      "styles": [
+        "2D Frame-by-frame",
+        "Mixed Media"
+      ],
+      "changelog": false,
+      "thumb": 2,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Action-Against-Hunger-Hunger-has-a-cure-ad-by-Junglar-and-La-Chose-STASH-MAGAZINE2-1920x1080.jpg"
+    },
+    {
+      "id": 7,
       "title": "The Art of Impact: Trizz Builds TaylorMade’s Beautiful Machine",
-      "summary": "Trizz Barcelona crée une campagne 3D/VFX pour TaylorMade en visualisant la physique du golf à travers une direction artistique captivante. Le projet combine motion design et simulation pour transformer des concepts techniques en narration visuelle élégante.",
+      "summary": "Trizz Barcelona crée une campagne 3D/motion pour TaylorMade, transformant la physique de l'impact balle-club en visuels captivants en collaboration avec The Ebeling Group et Zambezi.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Démontre comment intégrer des simulations physiques complexes (balle/club) dans une esthétique cinématographique cohérente, optimisant la collaboration entre équipes VFX, motion et agences.",
+      "workflowImpact": "Démontre une approche hybride CG/motion pour valoriser les caractéristiques produit via la simulation physique et l'esthétique cinématographique.",
       "colorPalette": [
-        "#1a1a1a",
-        "#c8a882",
-        "#2d5016",
-        "#f5f5f5",
-        "#4a7c59"
+        "#1A1A1A",
+        "#D4AF37",
+        "#E8F4F8",
+        "#2C5282",
+        "#F5A623"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/the-art-of-impact-trizz-builds-taylormades-beautiful-machine/",
       "date": "2026-11-27",
       "tags": [
         "simulation physique",
-        "direction artistique",
-        "3D cinéma",
-        "motion CG"
+        "CG motion",
+        "product visualization",
+        "haute résolution"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -187,180 +219,27 @@
       "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/TaylorMade-Beautiful-Machine-ad-by-Trizz-STASH-MAGAZINE-1920x1080.jpg"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "The Stash x OFFF Montreal 2026 Panel Follow-Up Part 2",
-      "summary": "Suivi du panel « Breaking Through » d'OFFF Montreal 2026 avec les réponses des panélistes aux questions du public non traitées en direct. Deuxième partie d'une série de retours détaillés sur les tendances et enjeux actuels du motion design.",
+      "summary": "Deuxième partie de la suite du panel « Breaking Through » de Stash au festival OFFF Montreal 2026, où les panélistes répondent aux questions les plus fréquemment posées par l'audience. Une ressource de réflexion et de bonnes pratiques pour les motion designers professionnels.",
       "category": "Motion Graphics",
       "categoryId": "motion",
-      "workflowImpact": "Accès à des conseils d'experts reconnus sur les défis professionnels du motion design contemporain, utile pour affiner sa pratique et sa positionnement dans l'industrie.",
+      "workflowImpact": "Accès à des insights et conseils directs de professionnels reconnus sur les défis et tendances actuels du motion design, applicables immédiatement aux projets en cours.",
       "colorPalette": [
+        "#2D1B4E",
         "#FF6B35",
-        "#004E89",
-        "#F7F7F7",
-        "#1B1B1B",
-        "#FFD166"
+        "#F7931E",
+        "#00D4FF",
+        "#1A1A1A"
       ],
       "source": "Stash Media",
       "link": "https://www.stashmedia.tv/the-stash-x-offf-montreal-2026-panel-follow-up-part-2/",
       "date": "2026-11-26",
       "tags": [
-        "OFFF Montreal",
-        "industrie motion design",
-        "panel experts",
-        "tendances créatives"
-      ],
-      "styles": [
-        "UI/UX Motion"
-      ],
-      "changelog": false,
-      "thumb": 1,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Stash-Panel-BREAKING-THROUGH-at-OFFF-Montreal-2026-STASH-MAGAZINE.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Foldable Fun: FOREAL Launches Samsung Galaxy Z Fold8",
-      "summary": "FOREAL réalise un film de lancement global pour le Samsung Galaxy Z Fold8, mettant en avant l'avance technologique de Samsung dans les téléphones pliables avec une critique ludique d'Apple. La campagne combine motion graphics et design produit pour valoriser sept ans d'innovation dans cette catégorie.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Fournit une référence de direction créative pour les films de lancement produit utilisant la motion graphics et les animations de produits pliables complexes.",
-      "colorPalette": [
-        "#1a1a1a",
-        "#00d4ff",
-        "#ff0080",
-        "#ffd700",
-        "#ffffff"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/foldable-fun-foreal-launches-samsung-galaxy-z-fold8/",
-      "date": "2026-11-26",
-      "tags": [
-        "motion graphics",
-        "product launch",
-        "Samsung",
-        "tech animation"
-      ],
-      "styles": [
-        "Mixed Media",
-        "UI/UX Motion"
-      ],
-      "changelog": false,
-      "thumb": 4,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Samsung-Galaxy-ZFold8-global-campaign-film-by-Foreal-STASH-MAGAZINE.jpg"
-    },
-    {
-      "id": 9,
-      "title": "Iridescent Airlock: Antibody Opens Blade Runner 2099 Series",
-      "summary": "Antibody réalise le générique d'ouverture de Blade Runner 2099 en fusionnant vidéo analogique dégradée, imagerie protéinique et données spectrales pour créer une abstraction lumineuse et des textures électrochimiques. Un travail innovant en visual effects spectral pour la nouvelle série Amazon.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Démontre comment combiner des sources biologiques et data-driven avec des techniques de dégradation vidéo pour créer des génériques cinématiques hautement distinctifs et techniquement avancés.",
-      "colorPalette": [
-        "#1a0f2e",
-        "#00d4ff",
-        "#ff006e",
-        "#8338ec",
-        "#ffbe0b"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/iridescent-airlock-antibody-opens-blade-runner-2099-series/",
-      "date": "2026-11-25",
-      "tags": [
-        "VFX",
-        "Générique TV",
-        "Abstraction lumineuse",
-        "Spectral imaging"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 1,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Blade-Runner-2099-Series-titles-by-Antibody-STASH-MAGAZINE8-1920x804.jpg"
-    },
-    {
-      "id": 10,
-      "title": "Been There, Hired That: New Yelp Campaign Film by Panic",
-      "summary": "Panic crée un film de campagne pour Yelp intitulé « It Takes a Village », adaptant le nouveau style d'illustration de la marque en motion design avec une direction de Gints Gutmanis. Le projet démontre une approche friendly et accessible du storytelling motion pour une marque lifestyle.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Permet aux motion designers d'explorer les meilleures pratiques pour transformer un système d'illustration statique en une identité visuelle animée cohérente et adaptée aux campagnes commerciales.",
-      "colorPalette": [
-        "#F4E4D7",
-        "#D64D4D",
-        "#2C5AA0",
-        "#F9B233",
-        "#6B9F3D"
-      ],
-      "source": "Stash Media",
-      "link": "https://www.stashmedia.tv/been-there-hired-that-new-yelp-campaign-film-by-panic/",
-      "date": "2026-11-25",
-      "tags": [
-        "Illustration Animation",
-        "Brand Motion",
-        "Campaign Design",
-        "Style Frames"
-      ],
-      "styles": [
-        "Mixed Media",
-        "Kinetic Typography"
-      ],
-      "changelog": false,
-      "thumb": 1,
-      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Yelp-22It-Takes-a-Village22-Campaign-film-by-Panic-STASH-MAGAZINE6-1920x1080.jpg"
-    },
-    {
-      "id": 11,
-      "title": "Ruxin Liang Shares a Workflow Tip for Keeping Ornatrix Grooms Feeling Fast",
-      "summary": "Ruxin Liang partage une astuce de workflow pour maintenir les performances lors de l'utilisation d'Ornatrix dans Maya en construisant l'ensemble de la pile simultanément. Cette technique permet de garder le viewport réactif pendant le grooming de cheveux et de fourrure.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Accélère significativement le workflow de grooming en Ornatrix en optimisant les performances du viewport, réduisant ainsi les temps d'attente et augmentant la productivité.",
-      "colorPalette": [
-        "#2C3E50",
-        "#E74C3C",
-        "#3498DB",
-        "#2ECC71",
-        "#F39C12"
-      ],
-      "source": "Lesterbanks",
-      "link": "https://lesterbanks.com/2026/07/ruxin-liang-shares-tips-keeping-ornatrix-fast/",
-      "date": "2026-07-17",
-      "tags": [
-        "Ornatrix",
-        "Maya",
-        "Hair Grooming",
-        "Performance Optimization"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": true,
-      "thumb": 2,
-      "imageUrl": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/07/feature_Viewport_titled-1024x576.jpg"
-    },
-    {
-      "id": 12,
-      "title": "Creator Spotlight: Ilija Brunck",
-      "summary": "Ilija Brunck est un créateur dont les films combinent une simplicité apparente avec une précision technique et conceptuelle raffinée. Son approche privilégie l'élégance minimaliste et la maîtrise exécutive.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Découvrir la philosophie de création d'Ilija Brunck offre une source d'inspiration pour simplifier les concepts visuels complexes tout en maintenant une excellence technique irréprochable.",
-      "colorPalette": [
-        "#1a1a1a",
-        "#f0f0f0",
-        "#2d5a7b",
-        "#d4af37",
-        "#4a4a4a"
-      ],
-      "source": "Lesterbanks",
-      "link": "https://lesterbanks.com/2026/06/creator-spotlight-ilija-brunck/",
-      "date": "2026-06-10",
-      "tags": [
-        "minimalisme",
-        "motion graphics",
-        "concept design",
-        "précision technique"
+        "panel discussion",
+        "best practices",
+        "industry insights",
+        "career development"
       ],
       "styles": [
         "Kinetic Typography",
@@ -368,260 +247,229 @@
       ],
       "changelog": false,
       "thumb": 1,
-      "imageUrl": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/04/1773121578341.jpeg"
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Stash-Panel-BREAKING-THROUGH-at-OFFF-Montreal-2026-STASH-MAGAZINE.jpg"
     },
     {
-      "id": 13,
-      "title": "GrowFrame Offers an Inspirational Way to Visualize Passion Projects",
-      "summary": "GrowFrame est un nouvel outil créé par Miquel Campos (développeur de mGear) permettant aux animators et motion designers de suivre visuellement la progression de leurs projets passionnants. Cet outil offre une alternative inspirante aux méthodes de suivi traditionnelles.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Facilite le suivi motivant des projets créatifs tout en s'intégrant naturellement dans l'écosystème Maya/mGear existant pour les professionnels.",
+      "id": 9,
+      "title": "Foldable Fun: FOREAL Launches Samsung Galaxy Z Fold8",
+      "summary": "FOREAL réalise un film de lancement global pour le Samsung Galaxy Z Fold8, mettant en avant l'avance technologique de Samsung dans les téléphones pliables avec un ton ludique et décalé.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Démontre l'efficacité d'une approche humoristique et provocatrice pour le contenu de lancement produit, inspirant les créatifs à intégrer des critiques créatives dans leurs narratifs commerciaux.",
       "colorPalette": [
-        "#2D5F3F",
-        "#87D4A8",
-        "#FFC857",
-        "#FF6B6B",
-        "#E8F5E9"
+        "#1F1F1F",
+        "#00A4EF",
+        "#FF6B35",
+        "#9D4EDD",
+        "#3A86FF"
       ],
-      "source": "Lesterbanks",
-      "link": "https://lesterbanks.com/2026/06/growframe-offers-an-inspirational-way-to-visualize-passion-projects/",
-      "date": "2026-06-10",
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/foldable-fun-foreal-launches-samsung-galaxy-z-fold8/",
+      "date": "2026-11-26",
       "tags": [
-        "mGear",
-        "Maya",
-        "Project Management",
-        "Animation Rigging"
+        "launch film",
+        "product marketing",
+        "humor",
+        "Samsung"
       ],
       "styles": [
+        "UI/UX Motion"
+      ],
+      "changelog": false,
+      "thumb": 4,
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Samsung-Galaxy-ZFold8-global-campaign-film-by-Foreal-STASH-MAGAZINE.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Iridescent Airlock: Antibody Opens Blade Runner 2099 Series",
+      "summary": "Antibody crée un générique captivant pour Blade Runner 2099 en fusionnant vidéo analogique dégradée, imagerie protéinique et données spectrales pour une esthétique abstraite lumineuse et texturée. Cette ouverture établit une atmosphère cyberpunk sophistiquée mêlant références scientifiques et dégradation visuelle.",
+      "category": "Motion Graphics",
+      "categoryId": "motion",
+      "workflowImpact": "Démontre une technique avancée de compositing mêlant sources organiques (imagerie protéinique) et dégradation numérique, offrant une palette créative pour les designs conceptuels haute résolution avec texture électrochimique.",
+      "colorPalette": [
+        "#1a0f2e",
+        "#00d9ff",
+        "#ff006e",
+        "#8b5cf6",
+        "#fbbf24"
+      ],
+      "source": "Stash Media",
+      "link": "https://www.stashmedia.tv/iridescent-airlock-antibody-opens-blade-runner-2099-series/",
+      "date": "2026-11-25",
+      "tags": [
+        "compositing avancé",
+        "dégradation analogique",
+        "spectral imaging",
+        "cyberpunk design"
+      ],
+      "styles": [
+        "Mixed Media",
         "3D Photoréaliste"
-      ],
-      "changelog": true,
-      "thumb": 2,
-      "imageUrl": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/06/GrowFrame-app-1024x614.jpg"
-    },
-    {
-      "id": 14,
-      "title": "Get the Character Rig From Brent Forrest’s Like and Follow Short",
-      "summary": "Découvrez le rig Maya du personnage Phoney Baloney, un smartphone expressif créé par Brent Forrest pour le court métrage viral « Like and Follow ». Ce rig est maintenant disponible pour téléchargement et utilisation dans vos propres projets.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Accélère la production d'animation de personnages expressifs en offrant un rig professionnel prêt à l'emploi, réduisant le temps de setup et permettant de se concentrer sur l'animation et la storytelling.",
-      "colorPalette": [
-        "#1A1A2E",
-        "#16213E",
-        "#0F3460",
-        "#E94560",
-        "#F39C12"
-      ],
-      "source": "Lesterbanks",
-      "link": "https://lesterbanks.com/2026/06/get-the-character-rig-from-brent-forrests-like-and-follow-short/",
-      "date": "2026-06-10",
-      "tags": [
-        "Maya",
-        "Character Rigging",
-        "Animation",
-        "Phoney Baloney"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Kinetic Typography"
       ],
       "changelog": false,
       "thumb": 1,
-      "imageUrl": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2026/06/Phoney-Baloney-Character-Rig-for-Maa-1024x576.jpg"
+      "imageUrl": "http://www.stashmedia.tv/wp-content/uploads/Blade-Runner-2099-Series-titles-by-Antibody-STASH-MAGAZINE8-1920x804.jpg"
     },
     {
-      "id": 15,
-      "title": "21 Martyrs: An Inside Look",
-      "summary": "Lesterbanks analyse en profondeur '21 Martyrs', un film d'animation d'anticipation présélectionné aux Oscars, salué par Glen Keane pour son approche puissante et émotionnelle. L'article explore les techniques narratives et visuelles innovantes de cette production acclamée.",
-      "category": "Motion Graphics",
-      "categoryId": "motion",
-      "workflowImpact": "Découvrir les approches créatives d'une production Oscar-shortlistée pour s'inspirer de techniques narratives et esthétiques applicables à des projets d'animation ambitieux.",
-      "colorPalette": [
-        "#2C1810",
-        "#D4A574",
-        "#8B4513",
-        "#3D2817",
-        "#C19A6B"
-      ],
-      "source": "Lesterbanks",
-      "link": "https://lesterbanks.com/2025/01/21-martyrs-an-inside-look/",
-      "date": "2025-01-04",
-      "tags": [
-        "animation narrative",
-        "film d'animation",
-        "production design",
-        "direction artistique"
-      ],
-      "styles": [
-        "Cel Animation",
-        "Mixed Media"
-      ],
-      "changelog": false,
-      "thumb": 4,
-      "imageUrl": "https://lesterbanks.com/lxb_metal/wp-content/uploads/2025/01/Screenshot-2025-01-04-182709.png"
-    },
-    {
-      "id": 16,
-      "title": "Blender Advent Calendar: 25 Days of Add-on Reviews, Deals and Giveaways",
-      "summary": "Benjamin van der Starre propose un calendrier de l'Avent Blender sur YouTube avec 25 jours de reviews d'add-ons, d'offres exclusives et de giveaways pour la communauté. Une opportunité quotidienne de découvrir des outils et ressources Blender essentiels.",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Accélère la découverte d'add-ons productifs et permet d'accéder à des deals exclusifs pour optimiser l'arsenal Blender sans surcoûts.",
-      "colorPalette": [
-        "#C41E3A",
-        "#165E3A",
-        "#FFD700",
-        "#F5F5DC",
-        "#2C3E50"
-      ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/27/blender-advent-calendar-25-days-of-add-on-reviews-deals-and-giveaways/",
-      "date": "2026-11-27",
-      "tags": [
-        "Blender",
-        "Add-ons",
-        "Productivity",
-        "Community"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": true,
-      "thumb": 4,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 17,
-      "title": "Render Bender brings colour grading and camera effects to Blender",
-      "summary": "Render Bender est un add-on Blender offrant des outils complets de finition : étalonnage des couleurs, effets d'appareil photo et ajustements de passes de rendu avec 74 présets et VFX animés (grain, VHS, light leaks).",
-      "category": "Plugins & Updates",
-      "categoryId": "plugins",
-      "workflowImpact": "Accélère la post-production directement dans Blender en centralisant l'étalonnage et les effets cinématiques sans passer par un logiciel externe.",
-      "colorPalette": [
-        "#2D1B4E",
-        "#FF6B35",
-        "#F7931E",
-        "#00D9FF",
-        "#1A1A1A"
-      ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/27/render-bender-brings-colour-grading-and-camera-effects-to-blender/",
-      "date": "2026-11-27",
-      "tags": [
-        "Blender",
-        "Color Grading",
-        "Post-production",
-        "VFX Presets"
-      ],
-      "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
-      ],
-      "changelog": true,
-      "thumb": 2,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 18,
-      "title": "Blender Jobs for November 27, 2026",
-      "summary": "Compilation des offres d'emploi Blender actuelles cherchant des spécialistes en hard surface et modélisation de vêtements 3D. Les positions sont ouvertes sur les principales plateformes de recrutement spécialisées (Blender Artists, ArtStation, 3djobs.xyz).",
+      "id": 11,
+      "title": "How to Rig with Bendy Bones in Blender",
+      "summary": "Kenan Proffitt démontre comment ajouter du squash and stretch à n'importe quel objet dans Blender en utilisant un rig Bendy Bones basique et adaptable. Cette technique simplifie la création d'animations fluides et organiques.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers et 3D artists de découvrir des opportunités professionnelles alignées avec leurs compétences Blender et d'accéder à des postes en demande dans l'industrie.",
+      "workflowImpact": "Permet aux animateurs de créer rapidement des déformations organiques et du squash/stretch sans rigging complexe, accélérant la production d'animations caractérisées.",
       "colorPalette": [
         "#F57C00",
-        "#1A1A1A",
-        "#64B5F6",
-        "#FFA726",
-        "#E0E0E0"
+        "#1976D2",
+        "#7E57C2",
+        "#388E3C",
+        "#212121"
       ],
       "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/27/blender-jobs-for-november-27-2026/",
-      "date": "2026-11-27",
+      "link": "https://www.blendernation.com/2026/11/28/how-to-rig-with-bendy-bones-in-blender/",
+      "date": "2026-11-28",
       "tags": [
         "Blender",
-        "Hard Surface",
-        "3D Clothing",
-        "Recrutement"
-      ],
-      "styles": [
-        "3D Photoréaliste"
-      ],
-      "changelog": false,
-      "thumb": 2,
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 19,
-      "title": "ProCity – A Procedural City Generator for Blender",
-      "summary": "ProCity est un add-on Blender qui génère procéduralement des villes complètes, bâtiments individuels et routes avec options de personnalisation avancées. Cet outil accélère la création d'environnements urbains complexes directement dans Blender sans plugins externes.",
-      "category": "3D & VFX",
-      "categoryId": "vfx",
-      "workflowImpact": "Réduit drastiquement le temps de création d'environnements urbains procéduraux, permettant aux artists de générer et personnaliser des métropoles entières en minutes plutôt qu'en heures.",
-      "colorPalette": [
-        "#2C3E50",
-        "#E8F4F8",
-        "#FF6B35",
-        "#4A90E2",
-        "#95A5A6"
-      ],
-      "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/27/procity-a-procedural-city-generator-for-blender/",
-      "date": "2026-11-27",
-      "tags": [
-        "Blender",
-        "Procedural Generation",
-        "City Building",
-        "Addons"
+        "Bendy Bones",
+        "Rigging",
+        "Squash & Stretch"
       ],
       "styles": [
         "3D Photoréaliste",
-        "Mixed Media"
+        "Cel Animation"
       ],
       "changelog": false,
       "thumb": 0,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 20,
-      "title": "Blender 5.2.5 LTS and 4.5.17 LTS released",
-      "summary": "Blender 5.2.5 LTS et 4.5.17 LTS sont disponibles avec des corrections de bugs uniquement. Ces versions de support long terme assurent la stabilité pour les productions professionnelles.",
+      "id": 12,
+      "title": "Vertex Wizards Cyber Sale: 35% off Barcane, Dewmancy, Realistic Glass Shader 2 and the scan libraries",
+      "summary": "Vertex Wizards propose une réduction de 35% sur ses produits phares incluant Barcane, Dewmancy et Realistic Glass Shader 2 durant sa Cyber Sale jusqu'au 2 décembre. Une opportunité pour acquérir des shaders et libraries de scan professionnels à prix réduit.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Les motion designers travaillant en production bénéficient de correctifs critiques sans rupture de compatibilité, garantissant la stabilité des pipelines existants.",
+      "workflowImpact": "Accès à des outils shader haut de gamme et des libraires de scan à prix réduit pour accélérer la création de matériaux réalistes en 3D.",
       "colorPalette": [
-        "#F5622F",
-        "#1E3A8A",
-        "#0F766E",
-        "#6366F1",
-        "#F9FAFB"
+        "#1a1a2e",
+        "#0f3460",
+        "#16c784",
+        "#e94560",
+        "#f39c12"
       ],
       "source": "BlenderNation",
-      "link": "https://www.blendernation.com/2026/11/27/blender-5-2-5-lts-and-4-5-17-lts-released/",
-      "date": "2026-11-27",
+      "link": "https://www.blendernation.com/2026/11/28/vertex-wizards-cyber-sale-35-off-barcane-dewmancy-realistic-glass-shader-2-and-the-scan-libraries/",
+      "date": "2026-11-28",
       "tags": [
         "Blender",
-        "LTS",
-        "stabilité",
-        "production"
+        "Shaders",
+        "Realistic Glass Shader",
+        "Scan Libraries"
+      ],
+      "styles": [
+        "3D Photoréaliste"
+      ],
+      "changelog": true,
+      "thumb": 0,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 13,
+      "title": "Blender 5.3 splash screen study: explore the OVERGROWN production file",
+      "summary": "Blender Studio détaille le fichier de production du splash screen Blender 5.3 issu du projet OVERGROWN, disponible en téléchargement CC-BY pour explorer les shaders gouache, la setup de fourrure et le compositing avancé.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Accès à un fichier de production professionnel pour apprendre les techniques de shading gouache, simulation de fourrure et compositing directement utilisables dans vos projets.",
+      "colorPalette": [
+        "#8B7355",
+        "#6B5D4F",
+        "#A89968",
+        "#C9B896",
+        "#4A5D3A"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/11/28/blender-5-3-splash-screen-study-explore-the-overgrown-production-file/",
+      "date": "2026-11-28",
+      "tags": [
+        "Blender",
+        "Shader Gouache",
+        "Fur Setup",
+        "Compositing"
       ],
       "styles": [
         "3D Photoréaliste",
         "Mixed Media"
       ],
-      "changelog": true,
+      "changelog": false,
+      "thumb": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 14,
+      "title": "Best of Blender Artists: 2026-48",
+      "summary": "Showcase hebdomadaire des meilleures créations de la communauté Blender Artists, mettant en avant les travaux d'artistes 3D talentueux. Une sélection curatée de projets variés démontrant les capacités créatives et techniques de Blender.",
+      "category": "3D & VFX",
+      "categoryId": "vfx",
+      "workflowImpact": "Découvrir des techniques innovantes et des cas d'usage concrets inspirent les motion designers à explorer nouvelles approches dans leurs projets Blender.",
+      "colorPalette": [
+        "#FF6B35",
+        "#004E89",
+        "#1B998B",
+        "#F7DC6F",
+        "#2C3E50"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/11/28/best-of-blender-artists-2026-48/",
+      "date": "2026-11-28",
+      "tags": [
+        "Blender",
+        "3D Modeling",
+        "Community Spotlight",
+        "Digital Art"
+      ],
+      "styles": [
+        "3D Photoréaliste",
+        "Mixed Media"
+      ],
+      "changelog": false,
       "thumb": 3,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 21,
+      "id": 15,
+      "title": "Audio Lip Sync Pro – audio-driven lip-sync blendshape animation",
+      "summary": "Audio Lip Sync Pro est un add-on Blender qui génère automatiquement des animations de synchronisation labiale (blendshapes) à partir de fichiers audio, traités localement sur votre machine. Cet outil simplifie considérablement la production de lip-sync, traditionnellement chronophage en animation 3D.",
+      "category": "Plugins & Updates",
+      "categoryId": "plugins",
+      "workflowImpact": "Élimine le travail manuel de synchronisation labiale, réduisant le temps de production d'animation 3D et permettant aux animateurs de se concentrer sur les détails expressifs du personnage.",
+      "colorPalette": [
+        "#2E3440",
+        "#88C0D0",
+        "#81A1C1",
+        "#B48EAD",
+        "#A3BE8C"
+      ],
+      "source": "BlenderNation",
+      "link": "https://www.blendernation.com/2026/11/28/audio-lip-sync-pro-audio-driven-lip-sync-blendshape-animation/",
+      "date": "2026-11-28",
+      "tags": [
+        "Blender",
+        "lip-sync",
+        "blendshapes",
+        "audio-driven animation"
+      ],
+      "styles": [
+        "3D Photoréaliste"
+      ],
+      "changelog": true,
+      "thumb": 0,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 16,
       "title": "Turn 360° footage into Gaussian Splats with KIRI Engine 4.4",
-      "summary": "KIRI Engine 4.4 permet de convertir des vidéos 360° en Gaussian Splats directement depuis iOS, Android et web. L'application de scanning 3D propose une réduction de 50% sur l'édition Pro pendant la Cyber Week.",
+      "summary": "KIRI Engine 4.4 permet de convertir des vidéos 360° en Gaussian Splats directement depuis iOS, Android et web. Une promotion Cyber Week offre 50% de réduction sur l'édition Pro.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Simplifie la création d'actifs 3D photoréalistes à partir de footage 360°, accélérant le pipeline de capture et de post-production sans nécessiter d'équipement spécialisé.",
+      "workflowImpact": "Accélère la création d'assets 3D photoréalistes à partir de captures 360°, réduisant le temps de scanning et de post-production pour les environnements immersifs.",
       "colorPalette": [
         "#1a1a2e",
         "#0f3460",
@@ -636,37 +484,38 @@
         "Gaussian Splats",
         "3D Scanning",
         "360° Video",
-        "KIRI Engine"
+        "Realtime 3D"
       ],
       "styles": [
-        "3D Photoréaliste"
+        "3D Photoréaliste",
+        "Mixed Media"
       ],
       "changelog": false,
       "thumb": 1,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 22,
+      "id": 17,
       "title": "Black Friday, Cyber Week and New Year 2026 deals for CG artists",
-      "summary": "Black Friday et Cyber Week 2026 : plus de 180 réductions saisonnières sur les logiciels CG, plugins, assets et matériel (Adobe, ZBrush, etc.). Un guide complet des meilleures offres pour les artistes 3D et motion designers.",
+      "summary": "CG Channel recense plus de 180 réductions saisonnières sur les logiciels CG, plugins, assets et matériel pour artistes 3D. Une compilation complète des meilleures offres Black Friday, Cyber Week et Nouvel An 2026.",
       "category": "Plugins & Updates",
       "categoryId": "plugins",
-      "workflowImpact": "Accès à des outils professionnels et des ressources premium à prix réduits, permettant d'optimiser son kit CG et d'investir dans des plugins ou assets de qualité supérieure.",
+      "workflowImpact": "Accès à une sélection curatée de réductions majeures permettant aux motion designers d'optimiser leur investissement technologique et logiciel.",
       "colorPalette": [
+        "#1a1a1a",
         "#FF6B35",
-        "#004E89",
-        "#F7B801",
-        "#1C3144",
-        "#A23B72"
+        "#F7931E",
+        "#00A8E8",
+        "#C41E3A"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/11/black-friday-cyber-week-and-new-year-2026-deals-for-cg-artists/",
       "date": "2026-11-27",
       "tags": [
-        "Black Friday 2026",
-        "Adobe Creative Cloud",
+        "Black Friday",
         "ZBrush",
-        "CG tools deals"
+        "Adobe Creative Suite",
+        "3D Assets"
       ],
       "styles": [
         "3D Photoréaliste",
@@ -677,26 +526,26 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 23,
+      "id": 18,
       "title": "OctaneStudio+ 2027 launches with Greyscalegorilla x KitBash3D",
-      "summary": "OctaneStudio+ 2027 lance une offre Black Friday avec partenariat Greyscalegorilla et KitBash3D, incluant logiciels, assets et crédits cloud. Une opportunité majeure pour accéder à des outils et ressources 3D haut de gamme.",
+      "summary": "OctaneStudio+ 2027 lance une collaboration exclusive avec Greyscalegorilla et KitBash3D, proposant des assets premium et crédits cloud en offre Black Friday.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Accès à des assets 3D premium et crédits cloud pour accélérer les rendus photoréalistes et enrichir les bibliothèques de modèles sans surcoût.",
+      "workflowImpact": "Accès à une bibliothèque d'assets 3D professionnels et à des ressources cloud pour accélérer la production de rendus photoréalistes sans infrastructure locale coûteuse.",
       "colorPalette": [
         "#1a1a1a",
         "#ff6b35",
-        "#004e89",
-        "#f7b801",
-        "#c1121f"
+        "#f7f7f7",
+        "#4a90e2",
+        "#00d9ff"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/11/octanestudio-2027-launches-with-greyscalegorilla-x-kitbash3d-and-more/",
       "date": "2026-11-27",
       "tags": [
         "Octane Render",
-        "KitBash3D",
-        "Greyscalegorilla",
+        "Asset Library",
+        "Cloud Rendering",
         "3D Assets"
       ],
       "styles": [
@@ -707,61 +556,61 @@
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 24,
+      "id": 19,
       "title": "Nekki releases Cascadeur 2026.3 and offers 40% off for Black Friday",
-      "summary": "Nekki lance Cascadeur 2026.3 avec de nouveaux outils d'animation faciale et de rigging créature assistés par l'IA. Une réduction de 40% est proposée pour le Black Friday.",
+      "summary": "Nekki lance Cascadeur 2026.3 avec de nouveaux outils d'animation faciale et de rigging de créatures, assistés par l'IA. Une réduction Black Friday de 40% est proposée.",
       "category": "AI Animation",
       "categoryId": "ai",
-      "workflowImpact": "Accélère la création d'animations complexes (visages, créatures) grâce aux outils IA, réduisant significativement le temps de production en rigging et animation.",
+      "workflowImpact": "Accélère significativement la création d'animations faciales complexes et de rigging de créatures grâce à l'IA, réduisant le temps de production et améliorant la qualité des détails expressifs.",
       "colorPalette": [
-        "#2E3440",
-        "#88C0D0",
-        "#81A1C1",
-        "#B48EAD",
-        "#A3BE8C"
+        "#2C3E50",
+        "#E74C3C",
+        "#3498DB",
+        "#F39C12",
+        "#27AE60"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/11/nekki-releases-cascadeur-2026-3-and-offers-40-off-for-black-friday/",
       "date": "2026-11-26",
       "tags": [
         "Cascadeur",
-        "Animation IA",
-        "Facial Rigging",
-        "Character Animation"
+        "Animation faciale",
+        "Rigging créatures",
+        "IA-assistée"
       ],
       "styles": [
         "3D Photoréaliste",
-        "Mixed Media"
+        "Cel Animation"
       ],
       "changelog": false,
       "thumb": 2,
       "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      "id": 25,
+      "id": 20,
       "title": "Tutorial: Introduction to Marvelous Designer",
-      "summary": "Tutoriel d'introduction à Marvelous Designer proposé par The Gnomon Workshop pour maîtriser le logiciel de conception 3D de vêtements de référence dans l'industrie du jeu et des VFX. Un guide complet pour débuter avec cet outil essentiel au pipeline de production.",
+      "summary": "Un tutoriel d'introduction à Marvelous Designer, le logiciel de simulation de vêtements 3D standard dans les industries du jeu vidéo et des VFX. Guide complet pour débuter avec cet outil essentiel pour la création de drapés et de tissus réalistes.",
       "category": "3D & VFX",
       "categoryId": "vfx",
-      "workflowImpact": "Permet aux motion designers et VFX artists d'intégrer rapidement la simulation de tissus réalistes dans leurs productions, réduisant les délais de création d'éléments de costumes et vêtements.",
+      "workflowImpact": "Accélérer la création de vêtements 3D et de simulations de tissus réalistes, éliminant les allers-retours manuels pour les assets humanoïdes en production VFX et jeux.",
       "colorPalette": [
         "#2C3E50",
-        "#E74C3C",
+        "#E8F4F8",
         "#3498DB",
-        "#ECF0F1",
-        "#34495E"
+        "#95A5A6",
+        "#1ABC9C"
       ],
       "source": "CG Channel",
       "link": "https://www.cgchannel.com/2026/11/tutorial-introduction-to-marvelous-designer-2/",
       "date": "2026-11-26",
       "tags": [
         "Marvelous Designer",
-        "3D Clothing",
-        "Simulation de tissus"
+        "simulation tissu",
+        "3D clothing",
+        "workflow VFX"
       ],
       "styles": [
-        "3D Photoréaliste",
-        "Mixed Media"
+        "3D Photoréaliste"
       ],
       "changelog": false,
       "thumb": 0,
